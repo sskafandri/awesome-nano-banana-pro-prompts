@@ -82,7 +82,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **519** |
 | ⭐ In evidenza | **5** |
-| 🔄 Ultimo aggiornamento | **giovedì 27 novembre 2025 alle ore 12:24:24 UTC** |
+| 🔄 Ultimo aggiornamento | **giovedì 27 novembre 2025 alle ore 16:14:24 UTC** |
 
 </div>
 
@@ -92,7 +92,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 > ⭐ Selezionati a mano dal nostro team per qualità e creatività eccezionali
 
-### No. 1: Scheda preventivo ampia con ritratto e personalizzazione cinese/inglese
+### No. 1: Scheda citazione ampia con ritratto e personalizzazione cinese/inglese
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -100,7 +100,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 #### 📖 Descrizione
 
-Un prompt per generare un'ampia card con citazione, con il ritratto di una persona famosa, uno sfondo marrone, testo della citazione color oro chiaro con caratteri serif, e un layout in cui il testo occupa due terzi e la persona un terzo. Il testo della citazione e l'autore sono parametrizzati per il riutilizzo.
+Un prompt per generare un'ampia card con citazione, che presenta il ritratto di una persona famosa, con uno sfondo marrone, testo della citazione color oro chiaro con caratteri serif, e un layout in cui il testo occupa due terzi e la persona un terzo. Il testo della citazione e l'autore sono parametrizzati per il riutilizzo.
 
 #### 📝 Prompt
 
@@ -113,25 +113,25 @@ Un'ampia citazione con una persona famosa, con uno sfondo marrone e un carattere
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="Scheda preventivo ampia con ritratto e personalizzazione cinese/inglese - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="Scheda citazione ampia con ritratto e personalizzazione cinese/inglese - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="Scheda preventivo ampia con ritratto e personalizzazione cinese/inglese - Image 2">
+<img src="https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="Scheda citazione ampia con ritratto e personalizzazione cinese/inglese - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="Scheda preventivo ampia con ritratto e personalizzazione cinese/inglese - Image 3">
+<img src="https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="Scheda citazione ampia con ritratto e personalizzazione cinese/inglese - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="Scheda preventivo ampia con ritratto e personalizzazione cinese/inglese - Image 4">
+<img src="https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="Scheda citazione ampia con ritratto e personalizzazione cinese/inglese - Image 4">
 </div>
 
 #### 📌 Dettagli
@@ -179,7 +179,7 @@ Genera una mappa della Germania in stile acquerello, sulla quale tutti gli stati
 
 ---
 
-### No. 3: Immagine di pubblicità di un libro in stile annuncio ferroviario
+### No. 3: Immagine pubblicitaria di un libro in stile annuncio ferroviario
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -207,7 +207,7 @@ Si prega di generare un'immagine pubblicitaria.
 Il libro “{argument name="book_title_en" default="Designing from Zero with AI"}” è ora in vendita e sta andando bene.
 
 Classifica Bestseller di Amazon
-Classificato al 1° posto nelle vendite di design commerciale (al 15/10)
+Classificato n. 1 nelle vendite di design commerciale (al 15/10)
 https://t.co/QxbYpfFVj6
 ```
 
@@ -216,7 +216,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="Immagine di pubblicità di un libro in stile annuncio ferroviario - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="Immagine pubblicitaria di un libro in stile annuncio ferroviario - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -226,7 +226,7 @@ https://t.co/QxbYpfFVj6
 - **Pubblicato:** 22 novembre 2025
 - **Lingue:** ja
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Si%20prega%20di%20generare%20un'immagine%20pubblicitaria.%0A%0A%3D%3D%3D%3D%20Specifiche%20annuncio%20%3D%3D%3D%0A-%20Proporzioni%3A%2016%3A9%20(orizzontale)%0A-%20Prodotto%20da%20pubblicizzare%3A%20il%20libro%20nella%20prima%20immagine%20allegata%0A-%20Elemento%20principale%20che%20attira%20l'attenzione%3A%20posizionare%20il%20libro%20dalla%20prima%20immagine%20allegata%20in%20modo%20tridimensionale%0A-%20Lingua%3A%20giapponese%0A-%20Gusto%3A%20pubblicit%C3%A0%20per%20un%20libro%20di%20business%0A%0A%23%20Testo%20da%20includere%3A%0A-%20Testo%20pre-titolo%3A%20%E3%80%90Nuova%20ristampa%20decisa%20circa%20una%20settimana%20dopo%20l'uscita%E3%80%91%0A%0AIl%20libro%20%E2%80%9C%7Bargument%20name%3D%22book_title_en%22%20default%3D%22Designing%20from%20Zero%20with%20AI%22%7D%E2%80%9D%20%C3%A8%20ora%20in%20vendita%20e%20sta%20andando%20bene.%0A%0AClassifica%20Bestseller%20di%20Amazon%0AClassificato%20al%201%C2%B0%20posto%20nelle%20vendite%20di%20design%20commerciale%20(al%2015%2F10)%0Ahttps%3A%2F%2Ft.co%2FQxbYpfFVj6)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Si%20prega%20di%20generare%20un'immagine%20pubblicitaria.%0A%0A%3D%3D%3D%3D%20Specifiche%20annuncio%20%3D%3D%3D%0A-%20Proporzioni%3A%2016%3A9%20(orizzontale)%0A-%20Prodotto%20da%20pubblicizzare%3A%20il%20libro%20nella%20prima%20immagine%20allegata%0A-%20Elemento%20principale%20che%20attira%20l'attenzione%3A%20posizionare%20il%20libro%20dalla%20prima%20immagine%20allegata%20in%20modo%20tridimensionale%0A-%20Lingua%3A%20giapponese%0A-%20Gusto%3A%20pubblicit%C3%A0%20per%20un%20libro%20di%20business%0A%0A%23%20Testo%20da%20includere%3A%0A-%20Testo%20pre-titolo%3A%20%E3%80%90Nuova%20ristampa%20decisa%20circa%20una%20settimana%20dopo%20l'uscita%E3%80%91%0A%0AIl%20libro%20%E2%80%9C%7Bargument%20name%3D%22book_title_en%22%20default%3D%22Designing%20from%20Zero%20with%20AI%22%7D%E2%80%9D%20%C3%A8%20ora%20in%20vendita%20e%20sta%20andando%20bene.%0A%0AClassifica%20Bestseller%20di%20Amazon%0AClassificato%20n.%201%20nelle%20vendite%20di%20design%20commerciale%20(al%2015%2F10)%0Ahttps%3A%2F%2Ft.co%2FQxbYpfFVj6)**
 
 ---
 
@@ -383,7 +383,7 @@ Un prompt per creare un'immagine di un luogo e un'ora specifici utilizzando lati
 #### 📝 Prompt
 
 ```
-Crea un'immagine a {argument name="coordinates_en" default="34°36’07’’S 58°23’58’’W"} il {argument name="date_en" default="18 luglio 1994"} alle {argument name="time_en" default="9:53 (UTC-3)"}
+Crea un'immagine a {argument name="coordinates_en" default="34°36’07’’S 58°23’58’’W"} il {argument name="date_en" default="18 luglio 1994"} alle {argument name="time_en" default="9:53 a.m. (UTC-3)"}
 ```
 
 #### 🖼️ Immagini generate
@@ -401,23 +401,23 @@ Crea un'immagine a {argument name="coordinates_en" default="34°36’07’’S 5
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un'immagine%20a%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99W%22%7D%20il%20%7Bargument%20name%3D%22date_en%22%20default%3D%2218%20luglio%201994%22%7D%20alle%20%7Bargument%20name%3D%22time_en%22%20default%3D%229%3A53%20(UTC-3)%22%7D)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un'immagine%20a%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99W%22%7D%20il%20%7Bargument%20name%3D%22date_en%22%20default%3D%2218%20luglio%201994%22%7D%20alle%20%7Bargument%20name%3D%22time_en%22%20default%3D%229%3A53%20a.m.%20(UTC-3)%22%7D)**
 
 ---
 
-### No. 2: Infografica delle fasi del giorno in plastilina per bambini
+### No. 2: Infografica delle fasi della giornata di plastilina per bambini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Un prompt per generare un'infografica stravagante in stile claymation che spieghi le fasi della giornata a un bambino di sei anni, ideale per materiali didattici visivi o video esplicativi animati.
+Un prompt per generare un'infografica stravagante in stile claymation che spieghi le fasi della giornata a un bambino di sei anni, ideale per elementi visivi educativi o spiegazioni animate.
 
 #### 📝 Prompt
 
 ```
-Crea un'infografica che spieghi le fasi della giornata, perfetta per un {argument name="child_age" default="bambino di 6 anni"}, nello stile di una plastilina distintiva con bocche ampie ed espressive, occhi a palla e un umorismo affascinante. Texture di argilla opaca, oggetti di scena fatti a mano e un'illuminazione calda e pratica definiscono l'aspetto.
+Crea un'infografica che spieghi le fasi della giornata, perfetta per un {argument name="child_age" default="bambino di 6 anni"}, nello stile distintivo della claymation con bocche ampie ed espressive, occhi a palla e un umorismo affascinante. Texture di argilla opaca, oggetti di scena fatti a mano e un'illuminazione calda e pratica definiscono il look.
 ```
 
 #### 🖼️ Immagini generate
@@ -425,7 +425,7 @@ Crea un'infografica che spieghi le fasi della giornata, perfetta per un {argumen
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209309346_g5b9ok_AP3iAst7yX0FsgN9.jpg" width="600" alt="Infografica delle fasi del giorno in plastilina per bambini - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209309346_g5b9ok_AP3iAst7yX0FsgN9.jpg" width="600" alt="Infografica delle fasi della giornata di plastilina per bambini - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -435,47 +435,47 @@ Crea un'infografica che spieghi le fasi della giornata, perfetta per un {argumen
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un'infografica%20che%20spieghi%20le%20fasi%20della%20giornata%2C%20perfetta%20per%20un%20%7Bargument%20name%3D%22child_age%22%20default%3D%22bambino%20di%206%20anni%22%7D%2C%20nello%20stile%20di%20una%20plastilina%20distintiva%20con%20bocche%20ampie%20ed%20espressive%2C%20occhi%20a%20palla%20e%20un%20umorismo%20affascinante.%20Texture%20di%20argilla%20opaca%2C%20oggetti%20di%20scena%20fatti%20a%20mano%20e%20un'illuminazione%20calda%20e%20pratica%20definiscono%20l'aspetto.)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un'infografica%20che%20spieghi%20le%20fasi%20della%20giornata%2C%20perfetta%20per%20un%20%7Bargument%20name%3D%22child_age%22%20default%3D%22bambino%20di%206%20anni%22%7D%2C%20nello%20stile%20distintivo%20della%20claymation%20con%20bocche%20ampie%20ed%20espressive%2C%20occhi%20a%20palla%20e%20un%20umorismo%20affascinante.%20Texture%20di%20argilla%20opaca%2C%20oggetti%20di%20scena%20fatti%20a%20mano%20e%20un'illuminazione%20calda%20e%20pratica%20definiscono%20il%20look.)**
 
 ---
 
-### No. 3: Modifica iperrealistica di un selfie di un fan VIP di F1
+### No. 3: Modifica iperrealistica di selfie di fan VIP di F1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Un prompt esteso per trasformare il selfie di un utente in una foto iperrealistica in 8K che lo ritrae come un elegante fan di F1 a un evento automobilistico di prestigio, preservando il suo vero volto ma cambiandone l'outfit e l'ambientazione.
+Un prompt esteso per trasformare il selfie di un utente in una foto iperrealistica in 8K che lo ritrae come un elegante fan di F1 a un evento automobilistico di prestigio, preservando il suo vero volto ma cambiando abbigliamento e ambientazione.
 
 #### 📝 Prompt
 
 ```
-Crea un'immagine 8K iperrealistica che mantenga il mio viso, i miei lineamenti, il colore della mia pelle, i miei occhi e i miei capelli esattamente come nell'immagine di riferimento.
+Crea un'immagine 8K iperrealistica che mantenga il mio viso, i tratti, il colore della pelle, gli occhi e i capelli esattamente come nell'immagine di riferimento.
 Sono la {argument name="subject_gender_role_en" default="donna"} nella foto; conserva la mia espressione sicura, affascinante ed elegante, con un leggero sorriso e una postura rilassata.
-Posizionami a un evento automobilistico all'aperto, in una tribuna o in un palco VIP, con un'ampia vista della pista e della folla sullo sfondo. Il tempo è soleggiato, con un cielo blu intenso e luce solare naturale che esalta i colori e crea un'atmosfera di gara vibrante.
+Posizionami a un evento automobilistico all'aperto, su una tribuna o in un palco VIP, con un'ampia vista della pista e della folla sullo sfondo. Il tempo è soleggiato, con un cielo blu intenso e luce solare naturale che esalta i colori e crea un'atmosfera di gara vibrante.
 Usa un'inquadratura a mezzo busto, che catturi la parte superiore del corpo e lo sfondo affollato con una leggera sfocatura della profondità di campo.
 L'outfit è sportivo ma sofisticato, composto da:
  * Un cappellino {argument name="cap_brand_en" default="Red Ferrari"}, con il logo del cavallino rampante giallo sul davanti e il numero "{argument name="driver_number_en" default="16"}" in bianco sulla visiera;
  * Un top in denim strutturato senza spalline, aderente con cuciture a vista, che enfatizza la scollatura e la silhouette;
  * Occhiali da sole {argument name="sunglasses_brand_en" default="Miu Miu"} con lenti sfumate marroni e una montatura metallica rettangolare, che coprono parzialmente gli occhi;
  * Una doppia collana – una con grandi maglie dorate e un'altra con delicati diamanti vicino al collo;
- * Orecchini geometrici in oro;
+ * Orecchini geometrici dorati;
  * Un braccialetto d'argento al polso destro;
  * Una discreta borsa rossa a tracolla, parzialmente visibile accanto al braccio.
 I capelli sono naturali e sciolti.
 Il trucco è impeccabile e glamour, con pelle luminosa, occhi definiti, rossetto rosa e blush caldo.
 Le unghie sono lunghe e decorate con nail art nei toni del rosa e del rosso con dettagli bianchi, visibili mentre si tiene il bicchiere.
 La posa dovrebbe trasmettere atteggiamento e sofisticazione:
- * Mano destra che tiene la visiera del cappellino, regolandola leggermente;
+ * Mano destra che tiene la visiera del cappellino, aggiustandola leggermente;
  * Mano sinistra che tiene un bicchiere di {argument name="drink_type_en" default="vino bianco"}, con il braccio rilassato;
  * Corpo leggermente inclinato, viso rivolto verso la fotocamera.
 L'illuminazione è naturale e intensa, con sottili riflessi del sole sul viso e sui capelli.
 Usa una palette di colori vibrante – sfumature di rosso, blu denim, oro e caramello, contrastate con lo sfondo soleggiato.
-L'atmosfera generale è moderna, lussuosa e rilassata, esprimendo lo stile di vita di chi ama esperienze esclusive, con eleganza e una forte presenza a un evento automobilistico premium.
+L'atmosfera generale è moderna, lussuosa e rilassata, esprimendo lo stile di vita di chi ama esperienze esclusive, con eleganza e una forte presenza a un evento automobilistico di prestigio.
 Qualità: foto 8K iperrealistica, messa a fuoco nitida sul viso e sull'outfit, sfondo leggermente sfocato con una folla colorata e la pista al sole.
 Importante:
- * Mantieni il mio viso, i miei capelli e il colore della mia pelle originali.
+ * Mantieni il mio viso, i capelli e il colore della pelle originali.
  * Preserva l'autentica p
 ```
 
@@ -484,19 +484,19 @@ Importante:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209297048_n7xo8a_G6jRUN9WAAAsoLO.jpg" width="600" alt="Modifica iperrealistica di un selfie di un fan VIP di F1 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209297048_n7xo8a_G6jRUN9WAAAsoLO.jpg" width="600" alt="Modifica iperrealistica di selfie di fan VIP di F1 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209299373_as206e_G6jRUVAWsAA60lX.jpg" width="600" alt="Modifica iperrealistica di un selfie di un fan VIP di F1 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209299373_as206e_G6jRUVAWsAA60lX.jpg" width="600" alt="Modifica iperrealistica di selfie di fan VIP di F1 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209301563_vql86q_G6jRUcoW4AAsbyw.jpg" width="600" alt="Modifica iperrealistica di un selfie di un fan VIP di F1 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764209301563_vql86q_G6jRUcoW4AAsbyw.jpg" width="600" alt="Modifica iperrealistica di selfie di fan VIP di F1 - Image 3">
 </div>
 
 #### 📌 Dettagli
@@ -506,7 +506,7 @@ Importante:
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un'immagine%208K%20iperrealistica%20che%20mantenga%20il%20mio%20viso%2C%20i%20miei%20lineamenti%2C%20il%20colore%20della%20mia%20pelle%2C%20i%20miei%20occhi%20e%20i%20miei%20capelli%20esattamente%20come%20nell'immagine%20di%20riferimento.%0ASono%20la%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22donna%22%7D%20nella%20foto%3B%20conserva%20la%20mia%20espressione%20sicura%2C%20affascinante%20ed%20elegante%2C%20con%20un%20leggero%20sorriso%20e%20una%20postura%20rilassata.%0APosizionami%20a%20un%20evento%20automobilistico%20all'aperto%2C%20in%20una%20tribuna%20o%20in%20un%20palco%20VIP%2C%20con%20un'ampia%20vista%20della%20pista%20e%20della%20folla%20sullo%20sfondo.%20Il%20tempo%20%C3%A8%20soleggiato%2C%20con%20un%20cielo%20blu%20intenso%20e%20luce%20solare%20naturale%20che%20esalta%20i%20colori%20e%20crea%20un'atmosfera%20di%20gara%20vibrante.%0AUsa%20un'inquadratura%20a%20mezzo%20busto%2C%20che%20catturi%20la%20parte%20superiore%20del%20corpo%20e%20lo%20sfondo%20affollato%20con%20una%20leggera%20sfocatura%20della%20profondit%C3%A0%20di%20campo.%0AL'outfit%20%C3%A8%20sportivo%20ma%20sofisticato%2C%20composto%20da%3A%0A%20*%20Un%20cappellino%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22Red%20Ferrari%22%7D%2C%20con%20il%20logo%20del%20cavallino%20rampante%20giallo%20sul%20davanti%20e%20il%20numero%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20in%20bianco%20sulla%20visiera%3B%0A%20*%20Un%20top%20in%20denim%20strutturato%20senza%20spalline%2C%20aderente%20con%20cuciture%20a%20vista%2C%20che%20enfatizza%20la%20scollatura%20e%20la%20silhouette%3B%0A%20*%20Occhiali%20da%20sole%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D%20con%20lenti%20sfumate%20marroni%20e%20una%20montatura%20metallica%20rettangolare%2C%20che%20coprono%20parzialmente%20gli%20occhi%3B%0A%20*%20Una%20doppia%20collana%20%E2%80%93%20una%20con%20grandi%20maglie%20dorate%20e%20un'altra%20con%20delicati%20diamanti%20vicino%20al%20collo%3B%0A%20*%20Orecchini%20geometrici%20in%20oro%3B%0A%20*%20Un%20braccialetto%20d'argento%20al%20polso%20destro%3B%0A%20*%20Una%20discreta%20borsa%20rossa%20a%20tracolla%2C%20parzialmente%20visibile%20accanto%20al%20braccio.%0AI%20capelli%20sono%20naturali%20e%20sciolti.%0AIl%20trucco%20%C3%A8%20impeccabile%20e%20glamour%2C%20con%20pelle%20luminosa%2C%20occhi%20definiti%2C%20rossetto%20rosa%20e%20blush%20caldo.%0ALe%20unghie%20sono%20lunghe%20e%20decorate%20con%20nail%20art%20nei%20toni%20del%20rosa%20e%20del%20rosso%20con%20dettagli%20bianchi%2C%20visibili%20mentre%20si%20tiene%20il%20bicchiere.%0ALa%20posa%20dovrebbe%20trasmettere%20atteggiamento%20e%20sofisticazione%3A%0A%20*%20Mano%20destra%20che%20tiene%20la%20visiera%20del%20cappellino%2C%20regolandola%20leggermente%3B%0A%20*%20Mano%20sinistra%20che%20tiene%20un%20bicchiere%20di%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22vino%20bianco%22%7D%2C%20con%20il%20braccio%20rilassato%3B%0A%20*%20Corpo%20leggermente%20inclinato%2C%20viso%20rivolto%20verso%20la%20fotocamera.%0AL'illuminazione%20%C3%A8%20naturale%20e%20intensa%2C%20con%20sottili%20riflessi%20del%20sole%20sul%20viso%20e%20sui%20capelli.%0AUsa%20una%20palette%20di%20colori%20vibrante%20%E2%80%93%20sfumature%20di%20rosso%2C%20blu%20denim%2C%20oro%20e%20caramello%2C%20contrastate%20con%20lo%20sfondo%20soleggiato.%0AL'atmosfera%20generale%20%C3%A8%20moderna%2C%20lussuosa%20e%20rilassata%2C%20esprimendo%20lo%20stile%20di%20vita%20di%20chi%20ama%20esperienze%20esclusive%2C%20con%20eleganza%20e%20una%20forte%20presenza%20a%20un%20evento%20automobilistico%20premium.%0AQualit%C3%A0%3A%20foto%208K%20iperrealistica%2C%20messa%20a%20fuoco%20nitida%20sul%20viso%20e%20sull'outfit%2C%20sfondo%20leggermente%20sfocato%20con%20una%20folla%20colorata%20e%20la%20pista%20al%20sole.%0AImportante%3A%0A%20*%20Mantieni%20il%20mio%20viso%2C%20i%20miei%20capelli%20e%20il%20colore%20della%20mia%20pelle%20originali.%0A%20*%20Preserva%20l'autentica%20p)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un'immagine%208K%20iperrealistica%20che%20mantenga%20il%20mio%20viso%2C%20i%20tratti%2C%20il%20colore%20della%20pelle%2C%20gli%20occhi%20e%20i%20capelli%20esattamente%20come%20nell'immagine%20di%20riferimento.%0ASono%20la%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22donna%22%7D%20nella%20foto%3B%20conserva%20la%20mia%20espressione%20sicura%2C%20affascinante%20ed%20elegante%2C%20con%20un%20leggero%20sorriso%20e%20una%20postura%20rilassata.%0APosizionami%20a%20un%20evento%20automobilistico%20all'aperto%2C%20su%20una%20tribuna%20o%20in%20un%20palco%20VIP%2C%20con%20un'ampia%20vista%20della%20pista%20e%20della%20folla%20sullo%20sfondo.%20Il%20tempo%20%C3%A8%20soleggiato%2C%20con%20un%20cielo%20blu%20intenso%20e%20luce%20solare%20naturale%20che%20esalta%20i%20colori%20e%20crea%20un'atmosfera%20di%20gara%20vibrante.%0AUsa%20un'inquadratura%20a%20mezzo%20busto%2C%20che%20catturi%20la%20parte%20superiore%20del%20corpo%20e%20lo%20sfondo%20affollato%20con%20una%20leggera%20sfocatura%20della%20profondit%C3%A0%20di%20campo.%0AL'outfit%20%C3%A8%20sportivo%20ma%20sofisticato%2C%20composto%20da%3A%0A%20*%20Un%20cappellino%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22Red%20Ferrari%22%7D%2C%20con%20il%20logo%20del%20cavallino%20rampante%20giallo%20sul%20davanti%20e%20il%20numero%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20in%20bianco%20sulla%20visiera%3B%0A%20*%20Un%20top%20in%20denim%20strutturato%20senza%20spalline%2C%20aderente%20con%20cuciture%20a%20vista%2C%20che%20enfatizza%20la%20scollatura%20e%20la%20silhouette%3B%0A%20*%20Occhiali%20da%20sole%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D%20con%20lenti%20sfumate%20marroni%20e%20una%20montatura%20metallica%20rettangolare%2C%20che%20coprono%20parzialmente%20gli%20occhi%3B%0A%20*%20Una%20doppia%20collana%20%E2%80%93%20una%20con%20grandi%20maglie%20dorate%20e%20un'altra%20con%20delicati%20diamanti%20vicino%20al%20collo%3B%0A%20*%20Orecchini%20geometrici%20dorati%3B%0A%20*%20Un%20braccialetto%20d'argento%20al%20polso%20destro%3B%0A%20*%20Una%20discreta%20borsa%20rossa%20a%20tracolla%2C%20parzialmente%20visibile%20accanto%20al%20braccio.%0AI%20capelli%20sono%20naturali%20e%20sciolti.%0AIl%20trucco%20%C3%A8%20impeccabile%20e%20glamour%2C%20con%20pelle%20luminosa%2C%20occhi%20definiti%2C%20rossetto%20rosa%20e%20blush%20caldo.%0ALe%20unghie%20sono%20lunghe%20e%20decorate%20con%20nail%20art%20nei%20toni%20del%20rosa%20e%20del%20rosso%20con%20dettagli%20bianchi%2C%20visibili%20mentre%20si%20tiene%20il%20bicchiere.%0ALa%20posa%20dovrebbe%20trasmettere%20atteggiamento%20e%20sofisticazione%3A%0A%20*%20Mano%20destra%20che%20tiene%20la%20visiera%20del%20cappellino%2C%20aggiustandola%20leggermente%3B%0A%20*%20Mano%20sinistra%20che%20tiene%20un%20bicchiere%20di%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22vino%20bianco%22%7D%2C%20con%20il%20braccio%20rilassato%3B%0A%20*%20Corpo%20leggermente%20inclinato%2C%20viso%20rivolto%20verso%20la%20fotocamera.%0AL'illuminazione%20%C3%A8%20naturale%20e%20intensa%2C%20con%20sottili%20riflessi%20del%20sole%20sul%20viso%20e%20sui%20capelli.%0AUsa%20una%20palette%20di%20colori%20vibrante%20%E2%80%93%20sfumature%20di%20rosso%2C%20blu%20denim%2C%20oro%20e%20caramello%2C%20contrastate%20con%20lo%20sfondo%20soleggiato.%0AL'atmosfera%20generale%20%C3%A8%20moderna%2C%20lussuosa%20e%20rilassata%2C%20esprimendo%20lo%20stile%20di%20vita%20di%20chi%20ama%20esperienze%20esclusive%2C%20con%20eleganza%20e%20una%20forte%20presenza%20a%20un%20evento%20automobilistico%20di%20prestigio.%0AQualit%C3%A0%3A%20foto%208K%20iperrealistica%2C%20messa%20a%20fuoco%20nitida%20sul%20viso%20e%20sull'outfit%2C%20sfondo%20leggermente%20sfocato%20con%20una%20folla%20colorata%20e%20la%20pista%20al%20sole.%0AImportante%3A%0A%20*%20Mantieni%20il%20mio%20viso%2C%20i%20capelli%20e%20il%20colore%20della%20pelle%20originali.%0A%20*%20Preserva%20l'autentica%20p)**
 
 ---
 
@@ -517,17 +517,17 @@ Importante:
 
 #### 📖 Descrizione
 
-Un prompt per generare ritratti emoji chibi colorati disegnati a mano in stile LINE, disposti a griglia con testo umoristico, ideali come sticker per chat o reazioni per i social media.
+Un prompt per generare ritratti emoji chibi colorati disegnati a mano in stile LINE, disposti a griglia con testo umoristico, ideali per adesivi di chat o reazioni sui social media.
 
 #### 📝 Prompt
 
 ```
-Crea una serie di ritratti emoji chibi a mezzo busto in stile LINE, colorati e disegnati a mano, basati sui {argument name="reference_characters_en" default="personaggi mostrati nell'immagine di riferimento"}, assicurandoti che i loro accessori per la testa siano raffigurati accuratamente.
+Crea una serie di emoji ritratto chibi a mezzo busto, colorate e disegnate a mano, in stile LINE, basate sui {argument name="reference_characters_en" default="personaggi mostrati nell'immagine di riferimento"}, assicurandoti che i loro accessori per la testa siano raffigurati accuratamente.
 
 Disponi i ritratti in una griglia {argument name="grid_layout_en" default="4x6"}, con frasi comuni di chat o meme umoristici pertinenti.
 Usa caratteri in stile manoscritto per il testo.
 L'output deve essere originale—non copiare direttamente l'immagine di riferimento.
-L'immagine finale dovrebbe avere una risoluzione 4K con un rapporto di aspetto {argument name="aspect_ratio_en" default="16:9"}.
+L'immagine finale dovrebbe avere una risoluzione 4K con un rapporto d'aspetto {argument name="aspect_ratio_en" default="16:9"}.
 ```
 
 #### 🖼️ Immagini generate
@@ -557,7 +557,7 @@ L'immagine finale dovrebbe avere una risoluzione 4K con un rapporto di aspetto {
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20una%20serie%20di%20ritratti%20emoji%20chibi%20a%20mezzo%20busto%20in%20stile%20LINE%2C%20colorati%20e%20disegnati%20a%20mano%2C%20basati%20sui%20%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22personaggi%20mostrati%20nell'immagine%20di%20riferimento%22%7D%2C%20assicurandoti%20che%20i%20loro%20accessori%20per%20la%20testa%20siano%20raffigurati%20accuratamente.%0A%0ADisponi%20i%20ritratti%20in%20una%20griglia%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%2C%20con%20frasi%20comuni%20di%20chat%20o%20meme%20umoristici%20pertinenti.%0AUsa%20caratteri%20in%20stile%20manoscritto%20per%20il%20testo.%0AL'output%20deve%20essere%20originale%E2%80%94non%20copiare%20direttamente%20l'immagine%20di%20riferimento.%0AL'immagine%20finale%20dovrebbe%20avere%20una%20risoluzione%204K%20con%20un%20rapporto%20di%20aspetto%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D.)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20una%20serie%20di%20emoji%20ritratto%20chibi%20a%20mezzo%20busto%2C%20colorate%20e%20disegnate%20a%20mano%2C%20in%20stile%20LINE%2C%20basate%20sui%20%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22personaggi%20mostrati%20nell'immagine%20di%20riferimento%22%7D%2C%20assicurandoti%20che%20i%20loro%20accessori%20per%20la%20testa%20siano%20raffigurati%20accuratamente.%0A%0ADisponi%20i%20ritratti%20in%20una%20griglia%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%2C%20con%20frasi%20comuni%20di%20chat%20o%20meme%20umoristici%20pertinenti.%0AUsa%20caratteri%20in%20stile%20manoscritto%20per%20il%20testo.%0AL'output%20deve%20essere%20originale%E2%80%94non%20copiare%20direttamente%20l'immagine%20di%20riferimento.%0AL'immagine%20finale%20dovrebbe%20avere%20una%20risoluzione%204K%20con%20un%20rapporto%20d'aspetto%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D.)**
 
 ---
 
@@ -602,7 +602,7 @@ Crea un'immagine che corrisponda al seguente momento: {argument name="coordinate
 
 #### 📖 Descrizione
 
-Un semplice prompt template per la creazione di diagrammi isometrici disegnati a mano di punti di riferimento in formato quadrato, utile per mappe stilizzate o grafici educativi.
+Un semplice prompt modello per creare diagrammi isometrici disegnati a mano di punti di riferimento in formato quadrato, utile per mappe stilizzate o grafici educativi.
 
 #### 📝 Prompt
 
@@ -635,7 +635,7 @@ Crea un diagramma schematico isometrico disegnato a mano di {argument name="land
 
 #### 📖 Descrizione
 
-Un prompt strutturato per creare un ritratto fotorealistico in bianco e nero e drammatico di una giovane donna seria in tailleur, con stile e dettagli della fotocamera chiaramente definiti.
+Un prompt strutturato per la creazione di un ritratto fotorealistico in bianco e nero, drammatico, di una giovane donna seria in tailleur, con dettagli di stile e della fotocamera chiaramente definiti.
 
 #### 📝 Prompt
 
@@ -668,7 +668,7 @@ Una fotografia realistica in bianco e nero di una giovane donna con lunghi capel
 
 ---
 
-### No. 8: Infografica ricette "svuotafrigo"
+### No. 8: Infografica di ricette "svuota-frigo"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -688,13 +688,13 @@ Scansiona il contenuto del {argument name="container_en" default="frigo"} e sugg
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209304921_59ezzl_G6iRr_OXQAApGxR.jpg" width="600" alt="Infografica ricette "svuotafrigo" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209304921_59ezzl_G6iRr_OXQAApGxR.jpg" width="600" alt="Infografica di ricette "svuota-frigo" - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209307247_lpjakr_G6iRr_GXIAAmzY2.jpg" width="600" alt="Infografica ricette "svuotafrigo" - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209307247_lpjakr_G6iRr_GXIAAmzY2.jpg" width="600" alt="Infografica di ricette "svuota-frigo" - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -720,7 +720,7 @@ Un prompt dettagliato per trasformare qualsiasi oggetto in un'immagine flat-lay 
 #### 📝 Prompt
 
 ```
-Foto flat-lay ultra-realistica in 8K in rigoroso stile knolling. Un'inquadratura dall'alto a 90º dell'oggetto dall'immagine allegata, completamente smontato in {argument name="min_parts_en" default="8"}–{argument name="max_parts_en" default="12"} parti chiave e disposte a griglia pulita o a raggiera su un tavolo minimalista in {argument name="surface_material_en" default="legno o grigio opaco"}. Utilizzare una spaziatura uniforme, un allineamento perfetto, nessuna sovrapposizione e nessun oggetto extra. Illuminare la scena con una luce morbida e diffusa a più fonti, creando ombre sottili, un bilanciamento cromatico neutro e una messa a fuoco nitida su tutto il fotogramma. Mostrare materiali reali altamente dettagliati (metallo, plastica, impugnature in gomma, circuiti stampati, viti). Per ogni parte, aggiungere una sottile cornice rettangolare bianca e un'etichetta inglese breve e nitida in testo sans-serif pulito, posizionata accanto al componente senza coprirlo; le annotazioni devono essere leggibili ma discrete.
+Foto flat-lay ultra-realistica in 8K in rigoroso stile knolling. Un'inquadratura dall'alto a 90º dell'oggetto dall'immagine allegata, completamente smontato in {argument name="min_parts_en" default="8"}–{argument name="max_parts_en" default="12"} parti chiave e disposte a griglia pulita o a raggiera su un tavolo minimalista in {argument name="surface_material_en" default="legno o grigio opaco"}. Utilizzare una spaziatura uniforme, un allineamento perfetto, nessuna sovrapposizione e nessun oggetto aggiuntivo. Illuminare la scena con una luce morbida e diffusa a più fonti, creando ombre sottili, un bilanciamento cromatico neutro e una messa a fuoco nitida su tutto il fotogramma. Mostrare materiali reali altamente dettagliati (metallo, plastica, impugnature in gomma, circuiti stampati, viti). Per ogni parte, aggiungere una sottile cornice rettangolare bianca e un'etichetta inglese breve e nitida in un testo sans-serif pulito, posizionata accanto al componente senza coprirlo; le annotazioni devono essere leggibili ma discrete.
 ```
 
 #### 🖼️ Immagini generate
@@ -738,7 +738,7 @@ Foto flat-lay ultra-realistica in 8K in rigoroso stile knolling. Un'inquadratura
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Foto%20flat-lay%20ultra-realistica%20in%208K%20in%20rigoroso%20stile%20knolling.%20Un'inquadratura%20dall'alto%20a%2090%C2%BA%20dell'oggetto%20dall'immagine%20allegata%2C%20completamente%20smontato%20in%20%7Bargument%20name%3D%22min_parts_en%22%20default%3D%228%22%7D%E2%80%93%7Bargument%20name%3D%22max_parts_en%22%20default%3D%2212%22%7D%20parti%20chiave%20e%20disposte%20a%20griglia%20pulita%20o%20a%20raggiera%20su%20un%20tavolo%20minimalista%20in%20%7Bargument%20name%3D%22surface_material_en%22%20default%3D%22legno%20o%20grigio%20opaco%22%7D.%20Utilizzare%20una%20spaziatura%20uniforme%2C%20un%20allineamento%20perfetto%2C%20nessuna%20sovrapposizione%20e%20nessun%20oggetto%20extra.%20Illuminare%20la%20scena%20con%20una%20luce%20morbida%20e%20diffusa%20a%20pi%C3%B9%20fonti%2C%20creando%20ombre%20sottili%2C%20un%20bilanciamento%20cromatico%20neutro%20e%20una%20messa%20a%20fuoco%20nitida%20su%20tutto%20il%20fotogramma.%20Mostrare%20materiali%20reali%20altamente%20dettagliati%20(metallo%2C%20plastica%2C%20impugnature%20in%20gomma%2C%20circuiti%20stampati%2C%20viti).%20Per%20ogni%20parte%2C%20aggiungere%20una%20sottile%20cornice%20rettangolare%20bianca%20e%20un'etichetta%20inglese%20breve%20e%20nitida%20in%20testo%20sans-serif%20pulito%2C%20posizionata%20accanto%20al%20componente%20senza%20coprirlo%3B%20le%20annotazioni%20devono%20essere%20leggibili%20ma%20discrete.)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Foto%20flat-lay%20ultra-realistica%20in%208K%20in%20rigoroso%20stile%20knolling.%20Un'inquadratura%20dall'alto%20a%2090%C2%BA%20dell'oggetto%20dall'immagine%20allegata%2C%20completamente%20smontato%20in%20%7Bargument%20name%3D%22min_parts_en%22%20default%3D%228%22%7D%E2%80%93%7Bargument%20name%3D%22max_parts_en%22%20default%3D%2212%22%7D%20parti%20chiave%20e%20disposte%20a%20griglia%20pulita%20o%20a%20raggiera%20su%20un%20tavolo%20minimalista%20in%20%7Bargument%20name%3D%22surface_material_en%22%20default%3D%22legno%20o%20grigio%20opaco%22%7D.%20Utilizzare%20una%20spaziatura%20uniforme%2C%20un%20allineamento%20perfetto%2C%20nessuna%20sovrapposizione%20e%20nessun%20oggetto%20aggiuntivo.%20Illuminare%20la%20scena%20con%20una%20luce%20morbida%20e%20diffusa%20a%20pi%C3%B9%20fonti%2C%20creando%20ombre%20sottili%2C%20un%20bilanciamento%20cromatico%20neutro%20e%20una%20messa%20a%20fuoco%20nitida%20su%20tutto%20il%20fotogramma.%20Mostrare%20materiali%20reali%20altamente%20dettagliati%20(metallo%2C%20plastica%2C%20impugnature%20in%20gomma%2C%20circuiti%20stampati%2C%20viti).%20Per%20ogni%20parte%2C%20aggiungere%20una%20sottile%20cornice%20rettangolare%20bianca%20e%20un'etichetta%20inglese%20breve%20e%20nitida%20in%20un%20testo%20sans-serif%20pulito%2C%20posizionata%20accanto%20al%20componente%20senza%20coprirlo%3B%20le%20annotazioni%20devono%20essere%20leggibili%20ma%20discrete.)**
 
 ---
 
@@ -754,13 +754,13 @@ Un prompt ricco per un ritratto in stile DSLR ultra-dettagliato di un giovane uo
 #### 📝 Prompt
 
 ```
-Ritratto cinematografico DSLR iperrealistico e ultra-dettagliato di un giovane uomo (stessa identità facciale del riferimento) in piedi all'aperto in un {argument name="location_en" default="villaggio alpino svizzero"} durante una sera d'inverno. Nevica dolcemente, con il fiato gelido visibile nell'aria fredda. Le sue mani sono in tasca in una posa rilassata e naturale.
+Ritratto cinematografico DSLR iperrealistico e ultra-dettagliato di un giovane uomo (stessa identità facciale del riferimento) in piedi all'aperto in un {argument name="location_en" default="villaggio alpino svizzero"} durante una sera d'inverno. Nevica dolcemente, con il respiro ghiacciato visibile nell'aria fredda. Le sue mani sono in tasca in una posa rilassata e naturale.
 
-Indossa un pesante cappotto invernale di lana, un maglione a maglia testurizzata e una sciarpa avvolta morbidamente, con un sottile accessorio: un anello d'argento.
+Indossa un pesante cappotto invernale di lana, un maglione a trama fitta e una sciarpa avvolta morbidamente, con un sottile accessorio: un anello d'argento.
 
 Sfondo: tetti coperti di neve, montagne alpine sfocate, finestre di chalet illuminate e caldi lampioni del villaggio, con un morbido bokeh dorato che si riflette sulla neve fresca.
 
-Illuminazione: illuminazione invernale cinematografica che fonde ombre blu fredde con caldi riflessi dorati. Tonalità della pelle invernali rosate, dettagli facciali nitidi, profondità di campo ridotta e un tocco di foschia atmosferica.
+Illuminazione: illuminazione cinematografica invernale che fonde ombre blu fredde con calde luci dorate. Tonalità della pelle invernali rosate, dettagli facciali nitidi, profondità di campo ridotta e un tocco di foschia atmosferica.
 
 Fotocamera: 8K, DSLR full-frame, obiettivo 85mm, f/1.8, ISO 100, 1/200s.
 Stile: ritratto di viaggio editoriale, iperrealismo, alta gamma dinamica, messa a fuoco nitida e texture della pelle naturale.
@@ -781,7 +781,7 @@ Stile: ritratto di viaggio editoriale, iperrealismo, alta gamma dinamica, messa 
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Ritratto%20cinematografico%20DSLR%20iperrealistico%20e%20ultra-dettagliato%20di%20un%20giovane%20uomo%20(stessa%20identit%C3%A0%20facciale%20del%20riferimento)%20in%20piedi%20all'aperto%20in%20un%20%7Bargument%20name%3D%22location_en%22%20default%3D%22villaggio%20alpino%20svizzero%22%7D%20durante%20una%20sera%20d'inverno.%20Nevica%20dolcemente%2C%20con%20il%20fiato%20gelido%20visibile%20nell'aria%20fredda.%20Le%20sue%20mani%20sono%20in%20tasca%20in%20una%20posa%20rilassata%20e%20naturale.%0A%0AIndossa%20un%20pesante%20cappotto%20invernale%20di%20lana%2C%20un%20maglione%20a%20maglia%20testurizzata%20e%20una%20sciarpa%20avvolta%20morbidamente%2C%20con%20un%20sottile%20accessorio%3A%20un%20anello%20d'argento.%0A%0ASfondo%3A%20tetti%20coperti%20di%20neve%2C%20montagne%20alpine%20sfocate%2C%20finestre%20di%20chalet%20illuminate%20e%20caldi%20lampioni%20del%20villaggio%2C%20con%20un%20morbido%20bokeh%20dorato%20che%20si%20riflette%20sulla%20neve%20fresca.%0A%0AIlluminazione%3A%20illuminazione%20invernale%20cinematografica%20che%20fonde%20ombre%20blu%20fredde%20con%20caldi%20riflessi%20dorati.%20Tonalit%C3%A0%20della%20pelle%20invernali%20rosate%2C%20dettagli%20facciali%20nitidi%2C%20profondit%C3%A0%20di%20campo%20ridotta%20e%20un%20tocco%20di%20foschia%20atmosferica.%0A%0AFotocamera%3A%208K%2C%20DSLR%20full-frame%2C%20obiettivo%2085mm%2C%20f%2F1.8%2C%20ISO%20100%2C%201%2F200s.%0AStile%3A%20ritratto%20di%20viaggio%20editoriale%2C%20iperrealismo%2C%20alta%20gamma%20dinamica%2C%20messa%20a%20fuoco%20nitida%20e%20texture%20della%20pelle%20naturale.)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Ritratto%20cinematografico%20DSLR%20iperrealistico%20e%20ultra-dettagliato%20di%20un%20giovane%20uomo%20(stessa%20identit%C3%A0%20facciale%20del%20riferimento)%20in%20piedi%20all'aperto%20in%20un%20%7Bargument%20name%3D%22location_en%22%20default%3D%22villaggio%20alpino%20svizzero%22%7D%20durante%20una%20sera%20d'inverno.%20Nevica%20dolcemente%2C%20con%20il%20respiro%20ghiacciato%20visibile%20nell'aria%20fredda.%20Le%20sue%20mani%20sono%20in%20tasca%20in%20una%20posa%20rilassata%20e%20naturale.%0A%0AIndossa%20un%20pesante%20cappotto%20invernale%20di%20lana%2C%20un%20maglione%20a%20trama%20fitta%20e%20una%20sciarpa%20avvolta%20morbidamente%2C%20con%20un%20sottile%20accessorio%3A%20un%20anello%20d'argento.%0A%0ASfondo%3A%20tetti%20coperti%20di%20neve%2C%20montagne%20alpine%20sfocate%2C%20finestre%20di%20chalet%20illuminate%20e%20caldi%20lampioni%20del%20villaggio%2C%20con%20un%20morbido%20bokeh%20dorato%20che%20si%20riflette%20sulla%20neve%20fresca.%0A%0AIlluminazione%3A%20illuminazione%20cinematografica%20invernale%20che%20fonde%20ombre%20blu%20fredde%20con%20calde%20luci%20dorate.%20Tonalit%C3%A0%20della%20pelle%20invernali%20rosate%2C%20dettagli%20facciali%20nitidi%2C%20profondit%C3%A0%20di%20campo%20ridotta%20e%20un%20tocco%20di%20foschia%20atmosferica.%0A%0AFotocamera%3A%208K%2C%20DSLR%20full-frame%2C%20obiettivo%2085mm%2C%20f%2F1.8%2C%20ISO%20100%2C%201%2F200s.%0AStile%3A%20ritratto%20di%20viaggio%20editoriale%2C%20iperrealismo%2C%20alta%20gamma%20dinamica%2C%20messa%20a%20fuoco%20nitida%20e%20texture%20della%20pelle%20naturale.)**
 
 ---
 
@@ -791,12 +791,12 @@ Stile: ritratto di viaggio editoriale, iperrealismo, alta gamma dinamica, messa 
 
 #### 📖 Descrizione
 
-Un prompt per generare storyboard di fumetti in formato verticale, in vivace stile Marvel, con un'eroina dal mantello rosso che salva persone in una città futuristica illuminata al neon, con un riquadro di testo su Nano Banana Pro.
+Un prompt per generare storyboard di fumetti in formato verticale, in vivace stile Marvel, con un'eroina dal mantello rosso che salva persone in una città futuristica illuminata al neon, con un box di testo su Nano Banana Pro.
 
 #### 📝 Prompt
 
 ```
-Diverse vignette in stile Marvel con colori vivaci. Un'eroina con un mantello rosso. Sullo sfondo, la città futuristica risplende di luci al neon. L'eroina sta salvando persone in difficoltà. Casella di testo: Nano Banana Pro su OpenArt è PAZZESCO. Formato verticale
+Diversi fumetti in stile Marvel con colori vivaci. Un'eroina con un mantello rosso. Sullo sfondo, la città futuristica brilla di luci al neon. L'eroina sta salvando persone in difficoltà. Casella di testo: Nano Banana Pro su OpenArt è PAZZESCO. Formato verticale
 ```
 
 #### 🖼️ Immagini generate
@@ -820,7 +820,7 @@ Diverse vignette in stile Marvel con colori vivaci. Un'eroina con un mantello ro
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Diverse%20vignette%20in%20stile%20Marvel%20con%20colori%20vivaci.%20Un'eroina%20con%20un%20mantello%20rosso.%20Sullo%20sfondo%2C%20la%20citt%C3%A0%20futuristica%20risplende%20di%20luci%20al%20neon.%20L'eroina%20sta%20salvando%20persone%20in%20difficolt%C3%A0.%20Casella%20di%20testo%3A%20Nano%20Banana%20Pro%20su%20OpenArt%20%C3%A8%20PAZZESCO.%20Formato%20verticale)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Diversi%20fumetti%20in%20stile%20Marvel%20con%20colori%20vivaci.%20Un'eroina%20con%20un%20mantello%20rosso.%20Sullo%20sfondo%2C%20la%20citt%C3%A0%20futuristica%20brilla%20di%20luci%20al%20neon.%20L'eroina%20sta%20salvando%20persone%20in%20difficolt%C3%A0.%20Casella%20di%20testo%3A%20Nano%20Banana%20Pro%20su%20OpenArt%20%C3%A8%20PAZZESCO.%20Formato%20verticale)**
 
 ---
 
@@ -830,12 +830,12 @@ Diverse vignette in stile Marvel con colori vivaci. Un'eroina con un mantello ro
 
 #### 📖 Descrizione
 
-Un prompt dettagliato per generare un'inquadratura cinematografica verticale 8K iperrealistica dell'uomo delle foto allegate, seduto sul bordo di un grattacielo durante l'ora d'oro con profondità di campo ridotta e forte effetto bokeh.
+Un prompt dettagliato per generare un'inquadratura cinematografica verticale 8K iperrealistica dell'uomo delle foto allegate, seduto sul bordo di un grattacielo durante l'ora d'oro, con profondità di campo ridotta e forte bokeh.
 
 #### 📝 Prompt
 
 ```
-Ripresa iperrealistica in formato 9:16 dall'alto dell'uomo dell'immagine allegata (carico 2 mie foto), seduto sul bordo di un grattacielo durante l'ora d'oro, con le gambe a penzoloni e le mani intrecciate. Indossa gli abiti che appaiono nell'immagine, guarda indietro sopra la spalla, con lo skyline della città leggermente sfocato. Illuminazione naturale, color grading cinematografico, bokeh intenso, profondità di campo ridotta, ripresa cinematografica 8K con grandi dettagli.
+Inquadratura dall'alto iperrealistica 9:16 dell'uomo dell'immagine allegata (carico 2 mie foto), seduto sul bordo di un grattacielo durante l'ora d'oro, con le gambe a penzoloni e le mani intrecciate. Indossa i vestiti che appaiono nell'immagine, guarda indietro sopra la spalla, con lo skyline della città leggermente sfocato. Illuminazione naturale, color grading cinematografico, bokeh intenso, profondità di campo ridotta, ripresa cinematografica 8K con grandi dettagli.
 ```
 
 #### 🖼️ Immagini generate
@@ -859,7 +859,7 @@ Ripresa iperrealistica in formato 9:16 dall'alto dell'uomo dell'immagine allegat
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Ripresa%20iperrealistica%20in%20formato%209%3A16%20dall'alto%20dell'uomo%20dell'immagine%20allegata%20(carico%202%20mie%20foto)%2C%20seduto%20sul%20bordo%20di%20un%20grattacielo%20durante%20l'ora%20d'oro%2C%20con%20le%20gambe%20a%20penzoloni%20e%20le%20mani%20intrecciate.%20Indossa%20gli%20abiti%20che%20appaiono%20nell'immagine%2C%20guarda%20indietro%20sopra%20la%20spalla%2C%20con%20lo%20skyline%20della%20citt%C3%A0%20leggermente%20sfocato.%20Illuminazione%20naturale%2C%20color%20grading%20cinematografico%2C%20bokeh%20intenso%2C%20profondit%C3%A0%20di%20campo%20ridotta%2C%20ripresa%20cinematografica%208K%20con%20grandi%20dettagli.)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Inquadratura%20dall'alto%20iperrealistica%209%3A16%20dell'uomo%20dell'immagine%20allegata%20(carico%202%20mie%20foto)%2C%20seduto%20sul%20bordo%20di%20un%20grattacielo%20durante%20l'ora%20d'oro%2C%20con%20le%20gambe%20a%20penzoloni%20e%20le%20mani%20intrecciate.%20Indossa%20i%20vestiti%20che%20appaiono%20nell'immagine%2C%20guarda%20indietro%20sopra%20la%20spalla%2C%20con%20lo%20skyline%20della%20citt%C3%A0%20leggermente%20sfocato.%20Illuminazione%20naturale%2C%20color%20grading%20cinematografico%2C%20bokeh%20intenso%2C%20profondit%C3%A0%20di%20campo%20ridotta%2C%20ripresa%20cinematografica%208K%20con%20grandi%20dettagli.)**
 
 ---
 
@@ -937,31 +937,31 @@ Crea un diagramma tecnico in vista esplosa di un {argument name="subject_en" def
 
 #### 📖 Descrizione
 
-Un prompt lungo e dettagliato per la creazione di un'infografica di ritratto iperrealistico che analizza i fattori di invecchiamento facciale con sovrapposizioni e percentuali etichettate, in stile pubblicità di cosmetici-tech premium.
+Un prompt lungo e dettagliato per la creazione di un'infografica di un ritratto iperrealistico che analizza i fattori di invecchiamento del viso con sovrapposizioni e percentuali etichettate, in stile pubblicità di un prodotto cosmetico-tecnologico premium.
 
 #### 📝 Prompt
 
 ```
-Un'infografica ritratto iperrealistica ad alta risoluzione basata su ({argument name="reference_photo_en" default="la tua foto"}). Mantieni la stessa persona, identità, acconciatura, abbigliamento e tonalità naturale della pelle da ({argument name="reference_photo_short_en" default="la tua foto"}), con uno sfondo neutro da studio. Sovrapponi una griglia di analisi facciale sottile e semitrasparente sull'intero viso, simile a una mesh di scansione facciale 3D: linee sottili e morbide di colore bianco che seguono i contorni del viso, leggermente luminose ma senza nascondere i dettagli della pelle. Aggiungi una linea laser rossa verticale pulita che scorre lungo un lato del viso, come una scansione futuristica. Tutte le linee di analisi devono essere morbide, minimali ed eleganti, esattamente come in una pubblicità di tecnologia cosmetica.
+Un'infografica ritratto iperrealistica ad alta risoluzione basata su ({argument name="reference_photo_en" default="la tua foto"}). Mantieni la stessa persona, identità, acconciatura, abbigliamento e tonalità naturale della pelle da ({argument name="reference_photo_short_en" default="la tua foto"}), con uno sfondo neutro da studio. Sovrapponi una sottile griglia di analisi facciale semitrasparente su tutto il viso, simile a una mesh di scansione facciale 3D: linee bianche sottili e morbide che seguono i contorni del viso, leggermente luminose ma senza nascondere i dettagli della pelle. Aggiungi una linea laser rossa verticale pulita che scorre lungo un lato del viso, come una scansione futuristica. Tutte le linee di analisi devono essere morbide, minimali ed eleganti, esattamente come in una pubblicità di tecnologia cosmetica.
 
 Crea un'infografica medico-estetica pulita che valuti 5 fattori di invecchiamento utilizzando percentuali di dati globali:
 1. Linee sottili e rughe
 2. Texture ed elasticità della pelle
 3. Volume facciale e cedimento
-4. Segni di invecchiamento del contorno occhi
+4. Segni di invecchiamento nella zona occhi
 5. Tono e pigmentazione della pelle
 
-Per ogni fattore, posiziona una piccola etichetta con una linea sottile che punta all'area facciale pertinente, e accanto ad essa scrivi un breve titolo e un punteggio percentuale realistico da 0 a 100% (basato su dati globali), per esempio:
+Per ogni fattore, posiziona una piccola etichetta con una linea sottile che punta all'area facciale pertinente, e accanto ad essa scrivi un breve titolo e un punteggio percentuale realistico da 0–100% (basato su dati globali), per esempio:
 "Linee sottili e rughe – 18%"
 "Texture ed elasticità della pelle – 72%"
 "Volume facciale e cedimento – 35%"
-"Segni di invecchiamento del contorno occhi – 41%"
+"Segni di invecchiamento nella zona occhi – 41%"
 "Tono e pigmentazione della pelle – 63%"
 
-Usa una tipografia sans-serif pulita e moderna e un testo in stile tecnico piccolo, come un'interfaccia utente di analisi facciale scientifica. Nella parte inferiore dell'immagine, al centro, scrivi un testo grande e in grassetto che mostri l'età reale stimata finale basata sull'analisi, per esempio:
+Utilizza una tipografia pulita e moderna senza grazie e un testo piccolo in stile tecnico, come un'interfaccia utente di analisi facciale scientifica. Nella parte inferiore dell'immagine, al centro, scrivi un testo grande e in grassetto che mostri l'età reale stimata finale basata sull'analisi, per esempio:
 "ETÀ STIMATA: (numero casuale basato sull'analisi del viso)"
 
-Stile generale: analisi della pelle futuristica guidata dall'IA, minimalista, illuminazione editoriale premium, nessun genere specificato, adatta a qualsiasi volto umano.
+Stile generale: analisi della cura della pelle futuristica guidata dall'IA, minimalista, illuminazione editoriale di alta qualità, nessun genere specificato, adatta a qualsiasi viso umano.
 ```
 
 #### 🖼️ Immagini generate
@@ -985,7 +985,7 @@ Stile generale: analisi della pelle futuristica guidata dall'IA, minimalista, il
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Un'infografica%20ritratto%20iperrealistica%20ad%20alta%20risoluzione%20basata%20su%20(%7Bargument%20name%3D%22reference_photo_en%22%20default%3D%22la%20tua%20foto%22%7D).%20Mantieni%20la%20stessa%20persona%2C%20identit%C3%A0%2C%20acconciatura%2C%20abbigliamento%20e%20tonalit%C3%A0%20naturale%20della%20pelle%20da%20(%7Bargument%20name%3D%22reference_photo_short_en%22%20default%3D%22la%20tua%20foto%22%7D)%2C%20con%20uno%20sfondo%20neutro%20da%20studio.%20Sovrapponi%20una%20griglia%20di%20analisi%20facciale%20sottile%20e%20semitrasparente%20sull'intero%20viso%2C%20simile%20a%20una%20mesh%20di%20scansione%20facciale%203D%3A%20linee%20sottili%20e%20morbide%20di%20colore%20bianco%20che%20seguono%20i%20contorni%20del%20viso%2C%20leggermente%20luminose%20ma%20senza%20nascondere%20i%20dettagli%20della%20pelle.%20Aggiungi%20una%20linea%20laser%20rossa%20verticale%20pulita%20che%20scorre%20lungo%20un%20lato%20del%20viso%2C%20come%20una%20scansione%20futuristica.%20Tutte%20le%20linee%20di%20analisi%20devono%20essere%20morbide%2C%20minimali%20ed%20eleganti%2C%20esattamente%20come%20in%20una%20pubblicit%C3%A0%20di%20tecnologia%20cosmetica.%0A%0ACrea%20un'infografica%20medico-estetica%20pulita%20che%20valuti%205%20fattori%20di%20invecchiamento%20utilizzando%20percentuali%20di%20dati%20globali%3A%0A1.%20Linee%20sottili%20e%20rughe%0A2.%20Texture%20ed%20elasticit%C3%A0%20della%20pelle%0A3.%20Volume%20facciale%20e%20cedimento%0A4.%20Segni%20di%20invecchiamento%20del%20contorno%20occhi%0A5.%20Tono%20e%20pigmentazione%20della%20pelle%0A%0APer%20ogni%20fattore%2C%20posiziona%20una%20piccola%20etichetta%20con%20una%20linea%20sottile%20che%20punta%20all'area%20facciale%20pertinente%2C%20e%20accanto%20ad%20essa%20scrivi%20un%20breve%20titolo%20e%20un%20punteggio%20percentuale%20realistico%20da%200%20a%20100%25%20(basato%20su%20dati%20globali)%2C%20per%20esempio%3A%0A%22Linee%20sottili%20e%20rughe%20%E2%80%93%2018%25%22%0A%22Texture%20ed%20elasticit%C3%A0%20della%20pelle%20%E2%80%93%2072%25%22%0A%22Volume%20facciale%20e%20cedimento%20%E2%80%93%2035%25%22%0A%22Segni%20di%20invecchiamento%20del%20contorno%20occhi%20%E2%80%93%2041%25%22%0A%22Tono%20e%20pigmentazione%20della%20pelle%20%E2%80%93%2063%25%22%0A%0AUsa%20una%20tipografia%20sans-serif%20pulita%20e%20moderna%20e%20un%20testo%20in%20stile%20tecnico%20piccolo%2C%20come%20un'interfaccia%20utente%20di%20analisi%20facciale%20scientifica.%20Nella%20parte%20inferiore%20dell'immagine%2C%20al%20centro%2C%20scrivi%20un%20testo%20grande%20e%20in%20grassetto%20che%20mostri%20l'et%C3%A0%20reale%20stimata%20finale%20basata%20sull'analisi%2C%20per%20esempio%3A%0A%22ET%C3%80%20STIMATA%3A%20(numero%20casuale%20basato%20sull'analisi%20del%20viso)%22%0A%0AStile%20generale%3A%20analisi%20della%20pelle%20futuristica%20guidata%20dall'IA%2C%20minimalista%2C%20illuminazione%20editoriale%20premium%2C%20nessun%20genere%20specificato%2C%20adatta%20a%20qualsiasi%20volto%20umano.)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Un'infografica%20ritratto%20iperrealistica%20ad%20alta%20risoluzione%20basata%20su%20(%7Bargument%20name%3D%22reference_photo_en%22%20default%3D%22la%20tua%20foto%22%7D).%20Mantieni%20la%20stessa%20persona%2C%20identit%C3%A0%2C%20acconciatura%2C%20abbigliamento%20e%20tonalit%C3%A0%20naturale%20della%20pelle%20da%20(%7Bargument%20name%3D%22reference_photo_short_en%22%20default%3D%22la%20tua%20foto%22%7D)%2C%20con%20uno%20sfondo%20neutro%20da%20studio.%20Sovrapponi%20una%20sottile%20griglia%20di%20analisi%20facciale%20semitrasparente%20su%20tutto%20il%20viso%2C%20simile%20a%20una%20mesh%20di%20scansione%20facciale%203D%3A%20linee%20bianche%20sottili%20e%20morbide%20che%20seguono%20i%20contorni%20del%20viso%2C%20leggermente%20luminose%20ma%20senza%20nascondere%20i%20dettagli%20della%20pelle.%20Aggiungi%20una%20linea%20laser%20rossa%20verticale%20pulita%20che%20scorre%20lungo%20un%20lato%20del%20viso%2C%20come%20una%20scansione%20futuristica.%20Tutte%20le%20linee%20di%20analisi%20devono%20essere%20morbide%2C%20minimali%20ed%20eleganti%2C%20esattamente%20come%20in%20una%20pubblicit%C3%A0%20di%20tecnologia%20cosmetica.%0A%0ACrea%20un'infografica%20medico-estetica%20pulita%20che%20valuti%205%20fattori%20di%20invecchiamento%20utilizzando%20percentuali%20di%20dati%20globali%3A%0A1.%20Linee%20sottili%20e%20rughe%0A2.%20Texture%20ed%20elasticit%C3%A0%20della%20pelle%0A3.%20Volume%20facciale%20e%20cedimento%0A4.%20Segni%20di%20invecchiamento%20nella%20zona%20occhi%0A5.%20Tono%20e%20pigmentazione%20della%20pelle%0A%0APer%20ogni%20fattore%2C%20posiziona%20una%20piccola%20etichetta%20con%20una%20linea%20sottile%20che%20punta%20all'area%20facciale%20pertinente%2C%20e%20accanto%20ad%20essa%20scrivi%20un%20breve%20titolo%20e%20un%20punteggio%20percentuale%20realistico%20da%200%E2%80%93100%25%20(basato%20su%20dati%20globali)%2C%20per%20esempio%3A%0A%22Linee%20sottili%20e%20rughe%20%E2%80%93%2018%25%22%0A%22Texture%20ed%20elasticit%C3%A0%20della%20pelle%20%E2%80%93%2072%25%22%0A%22Volume%20facciale%20e%20cedimento%20%E2%80%93%2035%25%22%0A%22Segni%20di%20invecchiamento%20nella%20zona%20occhi%20%E2%80%93%2041%25%22%0A%22Tono%20e%20pigmentazione%20della%20pelle%20%E2%80%93%2063%25%22%0A%0AUtilizza%20una%20tipografia%20pulita%20e%20moderna%20senza%20grazie%20e%20un%20testo%20piccolo%20in%20stile%20tecnico%2C%20come%20un'interfaccia%20utente%20di%20analisi%20facciale%20scientifica.%20Nella%20parte%20inferiore%20dell'immagine%2C%20al%20centro%2C%20scrivi%20un%20testo%20grande%20e%20in%20grassetto%20che%20mostri%20l'et%C3%A0%20reale%20stimata%20finale%20basata%20sull'analisi%2C%20per%20esempio%3A%0A%22ET%C3%80%20STIMATA%3A%20(numero%20casuale%20basato%20sull'analisi%20del%20viso)%22%0A%0AStile%20generale%3A%20analisi%20della%20cura%20della%20pelle%20futuristica%20guidata%20dall'IA%2C%20minimalista%2C%20illuminazione%20editoriale%20di%20alta%20qualit%C3%A0%2C%20nessun%20genere%20specificato%2C%20adatta%20a%20qualsiasi%20viso%20umano.)**
 
 ---
 
@@ -996,14 +996,14 @@ Stile generale: analisi della pelle futuristica guidata dall'IA, minimalista, il
 
 #### 📖 Descrizione
 
-Un prompt che indica a Nano Banana Pro di agire come un artista manga giapponese con uno stile disegnato a mano simile a quello di Demon Slayer e di convertire il contenuto fornito in vignette di fumetti in lingua cinese.
+Un prompt che indica a Nano Banana Pro di agire come un mangaka giapponese con uno stile disegnato a mano simile a quello di Demon Slayer e di convertire il contenuto fornito in vignette di fumetti in lingua cinese.
 
 #### 📝 Prompt
 
 ```
-Sei un mangaka giapponese molto bravo in cinese e con un forte stile personale disegnato a mano. Sei stato uno degli autori delle illustrazioni originali disegnate a mano per "Demon Slayer".
+Sei un fumettista giapponese molto bravo in cinese e hai un forte stile personale disegnato a mano. Sei stato uno degli autori delle illustrazioni originali disegnate a mano per "Demon Slayer".
 
-Usa il tuo caratteristico stile manga line-art e chiedi a Nano Banana Pro di prendere il seguente contenuto e, basandoti sulla tua comprensione, generare pagine di storyboard manga a pannelli!
+Usa il tuo caratteristico stile manga line-art e chiama Nano Banana Pro per prendere il seguente contenuto e, in base alla tua comprensione, generare pagine di storyboard manga a pannelli!
 
 Non produrre analisi, produci direttamente le immagini manga a pannelli e usa il testo cinese nei pannelli.
 ────────────────
@@ -1026,17 +1026,17 @@ Non produrre analisi, produci direttamente le immagini manga a pannelli e usa il
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** zh
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Sei%20un%20mangaka%20giapponese%20molto%20bravo%20in%20cinese%20e%20con%20un%20forte%20stile%20personale%20disegnato%20a%20mano.%20Sei%20stato%20uno%20degli%20autori%20delle%20illustrazioni%20originali%20disegnate%20a%20mano%20per%20%22Demon%20Slayer%22.%0A%0AUsa%20il%20tuo%20caratteristico%20stile%20manga%20line-art%20e%20chiedi%20a%20Nano%20Banana%20Pro%20di%20prendere%20il%20seguente%20contenuto%20e%2C%20basandoti%20sulla%20tua%20comprensione%2C%20generare%20pagine%20di%20storyboard%20manga%20a%20pannelli!%0A%0ANon%20produrre%20analisi%2C%20produci%20direttamente%20le%20immagini%20manga%20a%20pannelli%20e%20usa%20il%20testo%20cinese%20nei%20pannelli.%0A%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%0A%0A%7Bargument%20name%3D%22your_input_content%22%20default%3D%22Inserisci%20qui%20il%20testo%20che%20vuoi%20adattare%20in%20un%20manga%22%7D)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Sei%20un%20fumettista%20giapponese%20molto%20bravo%20in%20cinese%20e%20hai%20un%20forte%20stile%20personale%20disegnato%20a%20mano.%20Sei%20stato%20uno%20degli%20autori%20delle%20illustrazioni%20originali%20disegnate%20a%20mano%20per%20%22Demon%20Slayer%22.%0A%0AUsa%20il%20tuo%20caratteristico%20stile%20manga%20line-art%20e%20chiama%20Nano%20Banana%20Pro%20per%20prendere%20il%20seguente%20contenuto%20e%2C%20in%20base%20alla%20tua%20comprensione%2C%20generare%20pagine%20di%20storyboard%20manga%20a%20pannelli!%0A%0ANon%20produrre%20analisi%2C%20produci%20direttamente%20le%20immagini%20manga%20a%20pannelli%20e%20usa%20il%20testo%20cinese%20nei%20pannelli.%0A%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%0A%0A%7Bargument%20name%3D%22your_input_content%22%20default%3D%22Inserisci%20qui%20il%20testo%20che%20vuoi%20adattare%20in%20un%20manga%22%7D)**
 
 ---
 
-### No. 17: Visualizzazione del setup di ripresa dietro le quinte
+### No. 17: Visualizzazione del set di riprese dietro le quinte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-Un prompt per generare un'immagine realistica simile a un diagramma che mostri il posizionamento della telecamera e dell'illuminazione per filmare una data scena, con gli elementi chiaramente etichettati.
+Un prompt per generare un'immagine realistica simile a un diagramma che mostri il posizionamento della telecamera e dell'illuminazione per le riprese di una data scena, con gli elementi chiaramente etichettati.
 
 #### 📝 Prompt
 
@@ -1049,7 +1049,7 @@ Genera un'immagine realistica che mostri dove sono posizionate la telecamera e l
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209326262_tg3bz7_39eDwwbS-saX7Hi8.jpg" width="600" alt="Visualizzazione del setup di ripresa dietro le quinte - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209326262_tg3bz7_39eDwwbS-saX7Hi8.jpg" width="600" alt="Visualizzazione del set di riprese dietro le quinte - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1075,7 +1075,7 @@ Un prompt cinese conciso che istruisce Nano Banana Pro a creare un diagramma esp
 #### 📝 Prompt
 
 ```
-Crea un diagramma di esploso ingegneristico in stile vintage della {argument name="weapon_name" default="balestra a ripetizione Zhuge"}, con tutte le etichette e il testo in cinese.
+Si prega di creare un diagramma di esploso ingegneristico in stile vintage della {argument name="weapon_name" default="balestra a ripetizione Zhuge"}, con tutte le etichette e il testo in cinese.
 ```
 
 #### 🖼️ Immagini generate
@@ -1093,7 +1093,7 @@ Crea un diagramma di esploso ingegneristico in stile vintage della {argument nam
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** zh
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un%20diagramma%20di%20esploso%20ingegneristico%20in%20stile%20vintage%20della%20%7Bargument%20name%3D%22weapon_name%22%20default%3D%22balestra%20a%20ripetizione%20Zhuge%22%7D%2C%20con%20tutte%20le%20etichette%20e%20il%20testo%20in%20cinese.)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Si%20prega%20di%20creare%20un%20diagramma%20di%20esploso%20ingegneristico%20in%20stile%20vintage%20della%20%7Bargument%20name%3D%22weapon_name%22%20default%3D%22balestra%20a%20ripetizione%20Zhuge%22%7D%2C%20con%20tutte%20le%20etichette%20e%20il%20testo%20in%20cinese.)**
 
 ---
 
@@ -1109,7 +1109,7 @@ Un prompt per trasformare una foto di cibo in una pagina di ricette di un libro 
 #### 📝 Prompt
 
 ```
-Trasforma questo {argument name="dish_en" default="ramen"} in una graziosa pagina di ricette con illustrazioni nello stile di un ricettario vintage disegnato a mano. Circonda il piatto principale con ingredienti disegnati con cura, incluse etichette, misurazioni e utensili come ciotole, fruste o cucchiai. Per creare un'atmosfera accogliente e nostalgica, utilizza sfumature texturizzate, colori pastello caldi e contorni sottili, simili all'inchiostro. Aggiungi il testo della ricetta in stile manoscritto, integrando gli ingredienti e le istruzioni in modo organico nel layout. Assicurati che la pagina sia sia artistica che educativa, combinando illustrazioni colorate con un'estetica da ricettario classico.
+Trasforma questo {argument name="dish_en" default="ramen"} in una graziosa pagina di ricette con illustrazioni nello stile di un libro di cucina vintage disegnato a mano. Circonda il piatto principale con ingredienti disegnati con cura, incluse etichette, misurazioni e utensili come ciotole, fruste o cucchiai. Per creare un'atmosfera accogliente e nostalgica, usa sfumature texturizzate, colori pastello caldi e contorni sottili simili a inchiostro. Aggiungi un testo della ricetta in stile manoscritto, integrando gli ingredienti e le istruzioni in modo organico nel layout. Assicurati che la pagina sia sia artistica che educativa, combinando illustrazioni colorate con un'estetica classica da libro di cucina.
 ```
 
 #### 🖼️ Immagini generate
@@ -1133,23 +1133,23 @@ Trasforma questo {argument name="dish_en" default="ramen"} in una graziosa pagin
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Trasforma%20questo%20%7Bargument%20name%3D%22dish_en%22%20default%3D%22ramen%22%7D%20in%20una%20graziosa%20pagina%20di%20ricette%20con%20illustrazioni%20nello%20stile%20di%20un%20ricettario%20vintage%20disegnato%20a%20mano.%20Circonda%20il%20piatto%20principale%20con%20ingredienti%20disegnati%20con%20cura%2C%20incluse%20etichette%2C%20misurazioni%20e%20utensili%20come%20ciotole%2C%20fruste%20o%20cucchiai.%20Per%20creare%20un'atmosfera%20accogliente%20e%20nostalgica%2C%20utilizza%20sfumature%20texturizzate%2C%20colori%20pastello%20caldi%20e%20contorni%20sottili%2C%20simili%20all'inchiostro.%20Aggiungi%20il%20testo%20della%20ricetta%20in%20stile%20manoscritto%2C%20integrando%20gli%20ingredienti%20e%20le%20istruzioni%20in%20modo%20organico%20nel%20layout.%20Assicurati%20che%20la%20pagina%20sia%20sia%20artistica%20che%20educativa%2C%20combinando%20illustrazioni%20colorate%20con%20un'estetica%20da%20ricettario%20classico.)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Trasforma%20questo%20%7Bargument%20name%3D%22dish_en%22%20default%3D%22ramen%22%7D%20in%20una%20graziosa%20pagina%20di%20ricette%20con%20illustrazioni%20nello%20stile%20di%20un%20libro%20di%20cucina%20vintage%20disegnato%20a%20mano.%20Circonda%20il%20piatto%20principale%20con%20ingredienti%20disegnati%20con%20cura%2C%20incluse%20etichette%2C%20misurazioni%20e%20utensili%20come%20ciotole%2C%20fruste%20o%20cucchiai.%20Per%20creare%20un'atmosfera%20accogliente%20e%20nostalgica%2C%20usa%20sfumature%20texturizzate%2C%20colori%20pastello%20caldi%20e%20contorni%20sottili%20simili%20a%20inchiostro.%20Aggiungi%20un%20testo%20della%20ricetta%20in%20stile%20manoscritto%2C%20integrando%20gli%20ingredienti%20e%20le%20istruzioni%20in%20modo%20organico%20nel%20layout.%20Assicurati%20che%20la%20pagina%20sia%20sia%20artistica%20che%20educativa%2C%20combinando%20illustrazioni%20colorate%20con%20un'estetica%20classica%20da%20libro%20di%20cucina.)**
 
 ---
 
-### No. 20: Sequenza cinematografica a pannelli multipli per l'IT
+### No. 20: Sequenza cinematografica a più pannelli per l'IT
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Un prompt breve per generare una sequenza cinematografica widescreen a più pannelli che illustra una sceneggiatura fantasiosa tratta dal romanzo IT.
+Un prompt breve per generare una sequenza cinematografica widescreen a pannelli multipli che illustri una sceneggiatura fantasiosa tratta dal romanzo IT.
 
 #### 📝 Prompt
 
 ```
-Crea una sequenza cinematografica utilizzando più griglie di pannelli widescreen per raccontare la storia di una sceneggiatura fantasiosa tratta dal libro "{argument name="book_title_en" default="IT"}."
+Crea una sequenza cinematografica utilizzando più griglie di pannelli widescreen per raccontare la storia di una sceneggiatura fantasiosa tratta dal libro "{argument name="book_title_en" default="IT"}".
 ```
 
 #### 🖼️ Immagini generate
@@ -1157,13 +1157,13 @@ Crea una sequenza cinematografica utilizzando più griglie di pannelli widescree
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209275413_3m39wy_G6f_WMXa8AAb2Rn.jpg" width="600" alt="Sequenza cinematografica a pannelli multipli per l'IT - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209275413_3m39wy_G6f_WMXa8AAb2Rn.jpg" width="600" alt="Sequenza cinematografica a più pannelli per l'IT - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209277760_veaaja_G6cgXctW4AAbDuy.jpg" width="600" alt="Sequenza cinematografica a pannelli multipli per l'IT - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209277760_veaaja_G6cgXctW4AAbDuy.jpg" width="600" alt="Sequenza cinematografica a più pannelli per l'IT - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -1173,11 +1173,11 @@ Crea una sequenza cinematografica utilizzando più griglie di pannelli widescree
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20una%20sequenza%20cinematografica%20utilizzando%20pi%C3%B9%20griglie%20di%20pannelli%20widescreen%20per%20raccontare%20la%20storia%20di%20una%20sceneggiatura%20fantasiosa%20tratta%20dal%20libro%20%22%7Bargument%20name%3D%22book_title_en%22%20default%3D%22IT%22%7D.%22)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20una%20sequenza%20cinematografica%20utilizzando%20pi%C3%B9%20griglie%20di%20pannelli%20widescreen%20per%20raccontare%20la%20storia%20di%20una%20sceneggiatura%20fantasiosa%20tratta%20dal%20libro%20%22%7Bargument%20name%3D%22book_title_en%22%20default%3D%22IT%22%7D%22.)**
 
 ---
 
-### No. 21: Ritratto editoriale in denim che preserva l'identità del viso
+### No. 21: Ritratto editoriale in denim che preserva l'identità del volto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1203,7 +1203,7 @@ Un prompt in stile JSON per creare un ritratto editoriale di moda in 8K di una p
       "position": "seduta",
       "legs": "posa rilassata con una gamba piegata",
       "hands": "una mano che sostiene la testa",
-      "expression": "calma, atmosfera minimalista"
+      "expression": "umore calmo, minimalista"
     },
     "wardrobe": {
       "jacket": {
@@ -1235,16 +1235,16 @@ Un prompt in stile JSON per creare un ritratto editoriale di moda in 8K di una p
       ]
     },
     "environment": {
-      "backdrop": "sfondo da studio pulito grigio chiaro",
+      "backdrop": "sfondo studio pulito grigio chiaro",
       "lighting": {
-        "style": "illuminazione da studio morbida e naturale",
+        "style": "illuminazione studio morbida e naturale",
         "key_light": "luce chiave laterale delicata",
-        "fill_light": "luce di riempimento sottile",
+        "fill_light": "riempimento sottile",
         "shadows": "ombre morbide"
       }
     },
     "color_grade": {
-      "type": "cinematografico",
+      "type": "cinematica",
       "balance": "equilibrio neutro di toni caldi e freddi"
     }
   }
@@ -1256,13 +1256,13 @@ Un prompt in stile JSON per creare un ritratto editoriale di moda in 8K di una p
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209287561_cussb9_G6ffMXfbQAABUWE.jpg" width="600" alt="Ritratto editoriale in denim che preserva l'identità del viso - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209287561_cussb9_G6ffMXfbQAABUWE.jpg" width="600" alt="Ritratto editoriale in denim che preserva l'identità del volto - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209290078_kmguwq_G6ffMYaaoAA9ko6.jpg" width="600" alt="Ritratto editoriale in denim che preserva l'identità del viso - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209290078_kmguwq_G6ffMYaaoAA9ko6.jpg" width="600" alt="Ritratto editoriale in denim che preserva l'identità del volto - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -1272,7 +1272,7 @@ Un prompt in stile JSON per creare un ritratto editoriale di moda in 8K di una p
 - **Pubblicato:** 24 novembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22photo%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22foto%20editoriale%20di%20moda%22%2C%0A%20%20%20%20%22quality%22%3A%20%22fotorealistico%208k%22%2C%0A%20%20%20%20%22lens%22%3A%20%2250mm%20con%20profondit%C3%A0%20di%20campo%20ridotta%22%2C%0A%20%20%20%20%22composition%22%3A%20%22ritratto%20medio%2C%20inquadratura%20editoriale%2C%20senza%20testo%2C%20senza%20filigrana%22%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22reference_match%22%3A%20true%2C%0A%20%20%20%20%20%20%22description%22%3A%20%22Il%20viso%20della%20modella%20deve%20rimanere%20identico%20al%20100%25%20all'immagine%20di%20riferimento%20fornita%20in%20tutte%20le%20caratteristiche%20facciali%2C%20proporzioni%2C%20stile%20del%20trucco%20ed%20espressione.%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22model_pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22seduta%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22posa%20rilassata%20con%20una%20gamba%20piegata%22%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%22una%20mano%20che%20sostiene%20la%20testa%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22calma%2C%20atmosfera%20minimalista%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22giacca%20shearling%20color%20crema%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22ispida%2C%20soffice%2C%20tattile%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22shirt%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22camicia%20di%20jeans%22%2C%0A%20%20%20%20%20%20%20%20%22layered%22%3A%20true%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22pants%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22jeans%20azzurri%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22boots%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22stivali%20Chelsea%20in%20pelle%20nera%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22pelle%20liscia%20lucida%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22socks%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22beige%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22textures%22%3A%20%7B%0A%20%20%20%20%20%20%22emphasis%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22fibre%20di%20shearling%20soffici%22%2C%0A%20%20%20%20%20%20%20%20%22tessuto%20denim%20robusto%22%2C%0A%20%20%20%20%20%20%20%20%22stivali%20in%20pelle%20liscia%22%2C%0A%20%20%20%20%20%20%20%20%22cuciture%20visibili%22%2C%0A%20%20%20%20%20%20%20%20%22punti%20visibili%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22backdrop%22%3A%20%22sfondo%20da%20studio%20pulito%20grigio%20chiaro%22%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22illuminazione%20da%20studio%20morbida%20e%20naturale%22%2C%0A%20%20%20%20%20%20%20%20%22key_light%22%3A%20%22luce%20chiave%20laterale%20delicata%22%2C%0A%20%20%20%20%20%20%20%20%22fill_light%22%3A%20%22luce%20di%20riempimento%20sottile%22%2C%0A%20%20%20%20%20%20%20%20%22shadows%22%3A%20%22ombre%20morbide%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22color_grade%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22cinematografico%22%2C%0A%20%20%20%20%20%20%22balance%22%3A%20%22equilibrio%20neutro%20di%20toni%20caldi%20e%20freddi%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22photo%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22foto%20editoriale%20di%20moda%22%2C%0A%20%20%20%20%22quality%22%3A%20%22fotorealistico%208k%22%2C%0A%20%20%20%20%22lens%22%3A%20%2250mm%20con%20profondit%C3%A0%20di%20campo%20ridotta%22%2C%0A%20%20%20%20%22composition%22%3A%20%22ritratto%20medio%2C%20inquadratura%20editoriale%2C%20senza%20testo%2C%20senza%20filigrana%22%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22reference_match%22%3A%20true%2C%0A%20%20%20%20%20%20%22description%22%3A%20%22Il%20viso%20della%20modella%20deve%20rimanere%20identico%20al%20100%25%20all'immagine%20di%20riferimento%20fornita%20in%20tutte%20le%20caratteristiche%20facciali%2C%20proporzioni%2C%20stile%20del%20trucco%20ed%20espressione.%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22model_pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22seduta%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22posa%20rilassata%20con%20una%20gamba%20piegata%22%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%22una%20mano%20che%20sostiene%20la%20testa%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22umore%20calmo%2C%20minimalista%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22giacca%20shearling%20color%20crema%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22ispida%2C%20soffice%2C%20tattile%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22shirt%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22camicia%20di%20jeans%22%2C%0A%20%20%20%20%20%20%20%20%22layered%22%3A%20true%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22pants%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22jeans%20azzurri%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22boots%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22stivali%20Chelsea%20in%20pelle%20nera%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22pelle%20liscia%20lucida%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22socks%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22beige%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22textures%22%3A%20%7B%0A%20%20%20%20%20%20%22emphasis%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22fibre%20di%20shearling%20soffici%22%2C%0A%20%20%20%20%20%20%20%20%22tessuto%20denim%20robusto%22%2C%0A%20%20%20%20%20%20%20%20%22stivali%20in%20pelle%20liscia%22%2C%0A%20%20%20%20%20%20%20%20%22cuciture%20visibili%22%2C%0A%20%20%20%20%20%20%20%20%22punti%20visibili%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22backdrop%22%3A%20%22sfondo%20studio%20pulito%20grigio%20chiaro%22%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22illuminazione%20studio%20morbida%20e%20naturale%22%2C%0A%20%20%20%20%20%20%20%20%22key_light%22%3A%20%22luce%20chiave%20laterale%20delicata%22%2C%0A%20%20%20%20%20%20%20%20%22fill_light%22%3A%20%22riempimento%20sottile%22%2C%0A%20%20%20%20%20%20%20%20%22shadows%22%3A%20%22ombre%20morbide%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22color_grade%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22cinematica%22%2C%0A%20%20%20%20%20%20%22balance%22%3A%20%22equilibrio%20neutro%20di%20toni%20caldi%20e%20freddi%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -1283,14 +1283,14 @@ Un prompt in stile JSON per creare un ritratto editoriale di moda in 8K di una p
 
 #### 📖 Descrizione
 
-Un prompt in coreano per trasformare solo il disegno su un foglio di carta in un'illustrazione in stile pastello a cera, infantile, di una scena di campeggio familiare, mantenendo il resto dell'immagine invariato. È pensato per il trasferimento di stile o l'uso da immagine a immagine, dove gli elementi circostanti rimangono gli stessi.
+Un prompt in coreano per trasformare solo il disegno su un foglio di carta in un'illustrazione in stile pastello infantile di una scena di campeggio familiare, mantenendo il resto dell'immagine invariato. È pensato per il trasferimento di stile o l'uso da immagine a immagine, dove gli elementi circostanti rimangono gli stessi.
 
 #### 📝 Prompt
 
 ```
 Mantieni tutti gli altri elementi nell'immagine esattamente come sono e cambia solo il disegno sul foglio di carta con uno stile diverso.
 
-Il contenuto del disegno è un viaggio in campeggio fatto con una {argument name="vehicle_en" default="caravan"}. A sinistra, le due persone sono {argument name="left_characters_en" default="una madre e un bambino"} sedute a un tavolo, e a destra c'è {argument name="right_character_en" default="il padre"} che griglia la carne usando un {argument name="cooking_tool_en" default="barbecue"}.
+Il contenuto del disegno è un viaggio in campeggio fatto con una {argument name="vehicle_en" default="roulotte"}. A sinistra, le due persone sono {argument name="left_characters_en" default="una madre e un bambino"} sedute a un tavolo, e a destra c'è {argument name="right_character_en" default="il padre"} che griglia la carne usando un {argument name="cooking_tool_en" default="barbecue"}.
 
 Cambia il disegno in uno stile simile a un disegno a pastello di uno studente di scuola elementare.
 ```
@@ -1310,7 +1310,7 @@ Cambia il disegno in uno stile simile a un disegno a pastello di uno studente di
 - **Pubblicato:** 23 novembre 2025
 - **Lingue:** ko
 
-**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Mantieni%20tutti%20gli%20altri%20elementi%20nell'immagine%20esattamente%20come%20sono%20e%20cambia%20solo%20il%20disegno%20sul%20foglio%20di%20carta%20con%20uno%20stile%20diverso.%0A%0AIl%20contenuto%20del%20disegno%20%C3%A8%20un%20viaggio%20in%20campeggio%20fatto%20con%20una%20%7Bargument%20name%3D%22vehicle_en%22%20default%3D%22caravan%22%7D.%20A%20sinistra%2C%20le%20due%20persone%20sono%20%7Bargument%20name%3D%22left_characters_en%22%20default%3D%22una%20madre%20e%20un%20bambino%22%7D%20sedute%20a%20un%20tavolo%2C%20e%20a%20destra%20c'%C3%A8%20%7Bargument%20name%3D%22right_character_en%22%20default%3D%22il%20padre%22%7D%20che%20griglia%20la%20carne%20usando%20un%20%7Bargument%20name%3D%22cooking_tool_en%22%20default%3D%22barbecue%22%7D.%0A%0ACambia%20il%20disegno%20in%20uno%20stile%20simile%20a%20un%20disegno%20a%20pastello%20di%20uno%20studente%20di%20scuola%20elementare.)**
+**[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Mantieni%20tutti%20gli%20altri%20elementi%20nell'immagine%20esattamente%20come%20sono%20e%20cambia%20solo%20il%20disegno%20sul%20foglio%20di%20carta%20con%20uno%20stile%20diverso.%0A%0AIl%20contenuto%20del%20disegno%20%C3%A8%20un%20viaggio%20in%20campeggio%20fatto%20con%20una%20%7Bargument%20name%3D%22vehicle_en%22%20default%3D%22roulotte%22%7D.%20A%20sinistra%2C%20le%20due%20persone%20sono%20%7Bargument%20name%3D%22left_characters_en%22%20default%3D%22una%20madre%20e%20un%20bambino%22%7D%20sedute%20a%20un%20tavolo%2C%20e%20a%20destra%20c'%C3%A8%20%7Bargument%20name%3D%22right_character_en%22%20default%3D%22il%20padre%22%7D%20che%20griglia%20la%20carne%20usando%20un%20%7Bargument%20name%3D%22cooking_tool_en%22%20default%3D%22barbecue%22%7D.%0A%0ACambia%20il%20disegno%20in%20uno%20stile%20simile%20a%20un%20disegno%20a%20pastello%20di%20uno%20studente%20di%20scuola%20elementare.)**
 
 ---
 
@@ -8379,6 +8379,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-11-27T12:24:24.785Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-11-27T16:14:24.791Z</sub>
 
 </div>

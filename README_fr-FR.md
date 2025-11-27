@@ -82,7 +82,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **519** |
 | ⭐ En vedette | **5** |
-| 🔄 Dernière mise à jour | **jeudi 27 novembre 2025 à 12:24:23 UTC** |
+| 🔄 Dernière mise à jour | **jeudi 27 novembre 2025 à 16:14:18 UTC** |
 
 </div>
 
@@ -100,12 +100,12 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 #### 📖 Description
 
-Une invite pour générer une carte de citation large présentant le portrait d'une personne célèbre, avec un fond marron, un texte de citation à empattement doré clair et une mise en page où le texte occupe les deux tiers et la personne un tiers. Le texte de la citation et l'auteur sont paramétrés pour être réutilisés.
+Un prompt pour générer une carte de citation large présentant le portrait d'une personne célèbre, avec un fond marron, un texte de citation en caractères à empattement doré clair, et une mise en page où le texte occupe les deux tiers et la personne un tiers. Le texte de la citation et l'auteur sont paramétrés pour être réutilisés.
 
 #### 📝 Prompt
 
 ```
-Une grande carte de citation présentant une personne célèbre, avec un fond marron et une police à empattements or clair pour la citation : « {argument name="famous_quote" default="Stay Hungry, Stay Foolish"} » et un texte plus petit : « —{argument name="author" default="Steve Jobs"}. » Il y a un grand guillemet subtil avant le texte. Le portrait de la personne est à gauche, le texte à droite. Le texte occupe les deux tiers de l'image et le portrait un tiers, avec un léger effet de transition de dégradé sur le portrait.
+Une grande carte de citation présentant une personne célèbre, avec un fond marron et une police à empattements or clair pour la citation : « {argument name="famous_quote" default="Stay Hungry, Stay Foolish"} » et un texte plus petit : « —{argument name="author" default="Steve Jobs"} ». Il y a un grand guillemet subtil avant le texte. Le portrait de la personne est à gauche, le texte à droite. Le texte occupe les deux tiers de l'image et le portrait un tiers, avec un léger effet de transition dégradé sur le portrait.
 ```
 
 #### 🖼️ Images générées
@@ -141,7 +141,7 @@ Une grande carte de citation présentant une personne célèbre, avec un fond ma
 - **Publié:** 21 novembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Une%20grande%20carte%20de%20citation%20pr%C3%A9sentant%20une%20personne%20c%C3%A9l%C3%A8bre%2C%20avec%20un%20fond%20marron%20et%20une%20police%20%C3%A0%20empattements%20or%20clair%20pour%20la%20citation%20%3A%20%C2%AB%20%7Bargument%20name%3D%22famous_quote%22%20default%3D%22Stay%20Hungry%2C%20Stay%20Foolish%22%7D%20%C2%BB%20et%20un%20texte%20plus%20petit%20%3A%20%C2%AB%20%E2%80%94%7Bargument%20name%3D%22author%22%20default%3D%22Steve%20Jobs%22%7D.%20%C2%BB%20Il%20y%20a%20un%20grand%20guillemet%20subtil%20avant%20le%20texte.%20Le%20portrait%20de%20la%20personne%20est%20%C3%A0%20gauche%2C%20le%20texte%20%C3%A0%20droite.%20Le%20texte%20occupe%20les%20deux%20tiers%20de%20l'image%20et%20le%20portrait%20un%20tiers%2C%20avec%20un%20l%C3%A9ger%20effet%20de%20transition%20de%20d%C3%A9grad%C3%A9%20sur%20le%20portrait.)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Une%20grande%20carte%20de%20citation%20pr%C3%A9sentant%20une%20personne%20c%C3%A9l%C3%A8bre%2C%20avec%20un%20fond%20marron%20et%20une%20police%20%C3%A0%20empattements%20or%20clair%20pour%20la%20citation%20%3A%20%C2%AB%20%7Bargument%20name%3D%22famous_quote%22%20default%3D%22Stay%20Hungry%2C%20Stay%20Foolish%22%7D%20%C2%BB%20et%20un%20texte%20plus%20petit%20%3A%20%C2%AB%20%E2%80%94%7Bargument%20name%3D%22author%22%20default%3D%22Steve%20Jobs%22%7D%20%C2%BB.%20Il%20y%20a%20un%20grand%20guillemet%20subtil%20avant%20le%20texte.%20Le%20portrait%20de%20la%20personne%20est%20%C3%A0%20gauche%2C%20le%20texte%20%C3%A0%20droite.%20Le%20texte%20occupe%20les%20deux%20tiers%20de%20l'image%20et%20le%20portrait%20un%20tiers%2C%20avec%20un%20l%C3%A9ger%20effet%20de%20transition%20d%C3%A9grad%C3%A9%20sur%20le%20portrait.)**
 
 ---
 
@@ -187,7 +187,7 @@ Générez une carte de l'Allemagne dans un style aquarelle, sur laquelle tous le
 
 #### 📖 Description
 
-Une invite japonaise détaillée pour générer une publicité de style livre d'affaires au format 16:9, présentant une image de livre spécifique avec des points de copie en japonais.
+Une invite détaillée en japonais pour générer une publicité de style livre d'affaires au format 16:9, présentant une image de livre spécifique avec des points de copie en japonais.
 
 #### 📝 Prompt
 
@@ -198,13 +198,13 @@ Veuillez générer une image publicitaire.
 - Ratio d'aspect : 16:9 (horizontal)
 - Produit à annoncer : le livre de la première image jointe
 - Élément principal : placer le livre de la première image jointe de manière tridimensionnelle
-- Langue : japonais
+- Langue : Japonais
 - Style : publicité pour un livre de business
 
 # Texte à inclure :
-- Texte d'accroche : 【Nouvelle impression décidée environ une semaine après la sortie】
+- Texte d'accroche : 【Nouvelle réimpression décidée environ une semaine après la sortie】
 
-Le livre « {argument name="book_title_en" default="Designing from Zero with AI"} » est maintenant en vente et connaît un grand succès.
+Le livre « {argument name="book_title_en" default="Designing from Zero with AI"} » est maintenant en vente et se porte bien.
 
 Classement des meilleures ventes Amazon
 Classé n°1 des ventes de design commercial (au 15/10)
@@ -226,7 +226,7 @@ https://t.co/QxbYpfFVj6
 - **Publié:** 22 novembre 2025
 - **Langues:** ja
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Veuillez%20g%C3%A9n%C3%A9rer%20une%20image%20publicitaire.%0A%0A%3D%3D%3D%3D%20Sp%C3%A9cifications%20de%20l'annonce%20%3D%3D%3D%0A-%20Ratio%20d'aspect%20%3A%2016%3A9%20(horizontal)%0A-%20Produit%20%C3%A0%20annoncer%20%3A%20le%20livre%20de%20la%20premi%C3%A8re%20image%20jointe%0A-%20%C3%89l%C3%A9ment%20principal%20%3A%20placer%20le%20livre%20de%20la%20premi%C3%A8re%20image%20jointe%20de%20mani%C3%A8re%20tridimensionnelle%0A-%20Langue%20%3A%20japonais%0A-%20Style%20%3A%20publicit%C3%A9%20pour%20un%20livre%20de%20business%0A%0A%23%20Texte%20%C3%A0%20inclure%20%3A%0A-%20Texte%20d'accroche%20%3A%20%E3%80%90Nouvelle%20impression%20d%C3%A9cid%C3%A9e%20environ%20une%20semaine%20apr%C3%A8s%20la%20sortie%E3%80%91%0A%0ALe%20livre%20%C2%AB%20%7Bargument%20name%3D%22book_title_en%22%20default%3D%22Designing%20from%20Zero%20with%20AI%22%7D%20%C2%BB%20est%20maintenant%20en%20vente%20et%20conna%C3%AEt%20un%20grand%20succ%C3%A8s.%0A%0AClassement%20des%20meilleures%20ventes%20Amazon%0AClass%C3%A9%20n%C2%B01%20des%20ventes%20de%20design%20commercial%20(au%2015%2F10)%0Ahttps%3A%2F%2Ft.co%2FQxbYpfFVj6)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Veuillez%20g%C3%A9n%C3%A9rer%20une%20image%20publicitaire.%0A%0A%3D%3D%3D%3D%20Sp%C3%A9cifications%20de%20l'annonce%20%3D%3D%3D%0A-%20Ratio%20d'aspect%20%3A%2016%3A9%20(horizontal)%0A-%20Produit%20%C3%A0%20annoncer%20%3A%20le%20livre%20de%20la%20premi%C3%A8re%20image%20jointe%0A-%20%C3%89l%C3%A9ment%20principal%20%3A%20placer%20le%20livre%20de%20la%20premi%C3%A8re%20image%20jointe%20de%20mani%C3%A8re%20tridimensionnelle%0A-%20Langue%20%3A%20Japonais%0A-%20Style%20%3A%20publicit%C3%A9%20pour%20un%20livre%20de%20business%0A%0A%23%20Texte%20%C3%A0%20inclure%20%3A%0A-%20Texte%20d'accroche%20%3A%20%E3%80%90Nouvelle%20r%C3%A9impression%20d%C3%A9cid%C3%A9e%20environ%20une%20semaine%20apr%C3%A8s%20la%20sortie%E3%80%91%0A%0ALe%20livre%20%C2%AB%20%7Bargument%20name%3D%22book_title_en%22%20default%3D%22Designing%20from%20Zero%20with%20AI%22%7D%20%C2%BB%20est%20maintenant%20en%20vente%20et%20se%20porte%20bien.%0A%0AClassement%20des%20meilleures%20ventes%20Amazon%0AClass%C3%A9%20n%C2%B01%20des%20ventes%20de%20design%20commercial%20(au%2015%2F10)%0Ahttps%3A%2F%2Ft.co%2FQxbYpfFVj6)**
 
 ---
 
@@ -378,7 +378,7 @@ Selfie dans un miroir, dans un coin ordinateur de style otaku, ton bleu.
 
 #### 📖 Description
 
-Une invite pour créer une image d'un lieu et d'une heure spécifiques en utilisant la latitude, la longitude et un horodatage précis, idéale pour les reconstitutions historiques.
+Une invite pour créer une image d'un lieu et d'une heure spécifiques à l'aide de la latitude, de la longitude et d'un horodatage précis, idéale pour les reconstitutions historiques.
 
 #### 📝 Prompt
 
@@ -405,19 +405,19 @@ Créer une image à {argument name="coordinates_en" default="34°36’07’’S 
 
 ---
 
-### No. 2: Infographie des phases de la journée en pâte à modeler pour les enfants
+### No. 2: Infographie des phases du jour en pâte à modeler pour les enfants
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Une invite pour générer une infographie fantaisiste de style pâte à modeler qui explique les phases de la journée à un enfant de six ans, idéale pour des visuels éducatifs ou des explications animées.
+Une invite pour générer une infographie fantaisiste de style pâte à modeler qui explique les phases de la journée à un enfant de six ans, idéale pour des supports visuels éducatifs ou des explications animées.
 
 #### 📝 Prompt
 
 ```
-Créez une infographie qui explique les phases de la journée, parfaite pour un enfant de {argument name="child_age" default="6 ans"}, dans le style d'une animation en pâte à modeler distinctive avec de grandes bouches expressives, des yeux mobiles et un humour charmant. Des textures d'argile mates, des accessoires faits à la main et un éclairage de plateau chaleureux et pratique définissent le look.
+Créez une infographie expliquant les phases de la journée, parfaite pour un enfant de {argument name="child_age" default="6 ans"}, dans le style distinctif de l'animation en pâte à modeler (claymation) avec de grandes bouches expressives, des yeux mobiles et un humour charmant. Des textures de pâte à modeler mates, des accessoires faits à la main et un éclairage de plateau chaleureux et pratique définissent l'esthétique.
 ```
 
 #### 🖼️ Images générées
@@ -425,7 +425,7 @@ Créez une infographie qui explique les phases de la journée, parfaite pour un 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209309346_g5b9ok_AP3iAst7yX0FsgN9.jpg" width="600" alt="Infographie des phases de la journée en pâte à modeler pour les enfants - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209309346_g5b9ok_AP3iAst7yX0FsgN9.jpg" width="600" alt="Infographie des phases du jour en pâte à modeler pour les enfants - Image 1">
 </div>
 
 #### 📌 Détails
@@ -435,11 +435,11 @@ Créez une infographie qui explique les phases de la journée, parfaite pour un 
 - **Publié:** 24 novembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Cr%C3%A9ez%20une%20infographie%20qui%20explique%20les%20phases%20de%20la%20journ%C3%A9e%2C%20parfaite%20pour%20un%20enfant%20de%20%7Bargument%20name%3D%22child_age%22%20default%3D%226%20ans%22%7D%2C%20dans%20le%20style%20d'une%20animation%20en%20p%C3%A2te%20%C3%A0%20modeler%20distinctive%20avec%20de%20grandes%20bouches%20expressives%2C%20des%20yeux%20mobiles%20et%20un%20humour%20charmant.%20Des%20textures%20d'argile%20mates%2C%20des%20accessoires%20faits%20%C3%A0%20la%20main%20et%20un%20%C3%A9clairage%20de%20plateau%20chaleureux%20et%20pratique%20d%C3%A9finissent%20le%20look.)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Cr%C3%A9ez%20une%20infographie%20expliquant%20les%20phases%20de%20la%20journ%C3%A9e%2C%20parfaite%20pour%20un%20enfant%20de%20%7Bargument%20name%3D%22child_age%22%20default%3D%226%20ans%22%7D%2C%20dans%20le%20style%20distinctif%20de%20l'animation%20en%20p%C3%A2te%20%C3%A0%20modeler%20(claymation)%20avec%20de%20grandes%20bouches%20expressives%2C%20des%20yeux%20mobiles%20et%20un%20humour%20charmant.%20Des%20textures%20de%20p%C3%A2te%20%C3%A0%20modeler%20mates%2C%20des%20accessoires%20faits%20%C3%A0%20la%20main%20et%20un%20%C3%A9clairage%20de%20plateau%20chaleureux%20et%20pratique%20d%C3%A9finissent%20l'esth%C3%A9tique.)**
 
 ---
 
-### No. 3: Édition de selfie hyperréaliste de fan VIP de F1
+### No. 3: Retouche de selfie hyperréaliste de fan VIP de F1
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -451,12 +451,12 @@ Une instruction détaillée pour transformer le selfie d'un utilisateur en une p
 #### 📝 Prompt
 
 ```
-Créez une image 8K hyperréaliste qui conserve mon vrai visage, mes traits, ma couleur de peau, mes yeux et mes cheveux exactement comme sur l'image de référence.
+Créez une image 8K hyperréaliste qui conserve mon vrai visage, mes traits, ma couleur de peau, mes yeux et mes cheveux exactement tels qu'ils apparaissent sur l'image de référence.
 Je suis la {argument name="subject_gender_role_en" default="femme"} sur la photo ; préservez mon expression confiante, charmante et élégante, avec un léger sourire et une posture détendue.
-Placez-moi lors d'un événement automobile en extérieur, dans une tribune ou un salon VIP, avec une vue dégagée sur la piste et la foule en arrière-plan. Le temps est ensoleillé, avec un ciel bleu intense et une lumière naturelle qui rehausse les couleurs et crée une ambiance de course vibrante.
+Placez-moi lors d'un événement automobile en extérieur, dans une tribune ou un espace VIP, avec une vue dégagée sur la piste et la foule en arrière-plan. Le temps est ensoleillé, avec un ciel bleu intense et une lumière naturelle qui rehausse les couleurs et crée une atmosphère de course vibrante.
 Utilisez un cadrage en plan moyen, capturant le haut du corps et l'arrière-plan animé avec un léger flou de profondeur de champ.
 La tenue est sportive mais sophistiquée, composée de :
- * Une casquette {argument name="cap_brand_en" default="Red Ferrari"}, avec le logo du cheval cabré jaune (cavallino rampante) sur le devant et le numéro "{argument name="driver_number_en" default="16"}" en blanc sur la visière ;
+ * Une casquette {argument name="cap_brand_en" default="Red Ferrari"}, avec le logo du cheval cabré (cavallino rampante) jaune sur le devant et le numéro "{argument name="driver_number_en" default="16"}" en blanc sur la visière ;
  * Un top bustier en jean structuré, ajusté avec des coutures apparentes, soulignant le décolleté et la silhouette ;
  * Des lunettes de soleil {argument name="sunglasses_brand_en" default="Miu Miu"} avec des verres dégradés marron et une monture métallique rectangulaire, couvrant partiellement les yeux ;
  * Un double collier – l'un avec de larges maillons dorés et l'autre avec de délicats diamants près du cou ;
@@ -466,10 +466,10 @@ La tenue est sportive mais sophistiquée, composée de :
 Les cheveux sont naturels et lâches.
 Le maquillage est impeccable et glamour, avec une peau éclatante, des yeux définis, un rouge à lèvres rose et un blush chaud.
 Les ongles sont longs et décorés de nail art dans des tons de rose et de rouge avec des détails blancs, visibles en tenant le verre.
-La pose doit transmettre de l'attitude et de la sophistication :
- * La main droite tenant la visière de la casquette, l'ajustant légèrement ;
- * La main gauche tenant un verre de {argument name="drink_type_en" default="vin blanc"}, le bras détendu ;
- * Le corps légèrement penché, le visage tourné vers la caméra.
+La pose doit exprimer l'attitude et la sophistication :
+ * Main droite tenant la visière de la casquette, l'ajustant légèrement ;
+ * Main gauche tenant un verre de {argument name="drink_type_en" default="vin blanc"}, le bras détendu ;
+ * Corps légèrement penché, visage tourné vers la caméra.
 L'éclairage est naturel et intense, avec de subtils reflets du soleil sur le visage et les cheveux.
 Utilisez une palette de couleurs vibrantes – des nuances de rouge, de bleu denim, d'or et de caramel, contrastant avec l'arrière-plan ensoleillé.
 L'atmosphère générale est moderne, luxueuse et détendue, exprimant le style de vie de quelqu'un qui apprécie les expériences exclusives, avec élégance et une forte présence lors d'un événement automobile haut de gamme.
@@ -484,19 +484,19 @@ Important :
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209297048_n7xo8a_G6jRUN9WAAAsoLO.jpg" width="600" alt="Édition de selfie hyperréaliste de fan VIP de F1 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209297048_n7xo8a_G6jRUN9WAAAsoLO.jpg" width="600" alt="Retouche de selfie hyperréaliste de fan VIP de F1 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209299373_as206e_G6jRUVAWsAA60lX.jpg" width="600" alt="Édition de selfie hyperréaliste de fan VIP de F1 - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209299373_as206e_G6jRUVAWsAA60lX.jpg" width="600" alt="Retouche de selfie hyperréaliste de fan VIP de F1 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209301563_vql86q_G6jRUcoW4AAsbyw.jpg" width="600" alt="Édition de selfie hyperréaliste de fan VIP de F1 - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764209301563_vql86q_G6jRUcoW4AAsbyw.jpg" width="600" alt="Retouche de selfie hyperréaliste de fan VIP de F1 - Image 3">
 </div>
 
 #### 📌 Détails
@@ -506,7 +506,7 @@ Important :
 - **Publié:** 24 novembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Cr%C3%A9ez%20une%20image%208K%20hyperr%C3%A9aliste%20qui%20conserve%20mon%20vrai%20visage%2C%20mes%20traits%2C%20ma%20couleur%20de%20peau%2C%20mes%20yeux%20et%20mes%20cheveux%20exactement%20comme%20sur%20l'image%20de%20r%C3%A9f%C3%A9rence.%0AJe%20suis%20la%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22femme%22%7D%20sur%20la%20photo%20%3B%20pr%C3%A9servez%20mon%20expression%20confiante%2C%20charmante%20et%20%C3%A9l%C3%A9gante%2C%20avec%20un%20l%C3%A9ger%20sourire%20et%20une%20posture%20d%C3%A9tendue.%0APlacez-moi%20lors%20d'un%20%C3%A9v%C3%A9nement%20automobile%20en%20ext%C3%A9rieur%2C%20dans%20une%20tribune%20ou%20un%20salon%20VIP%2C%20avec%20une%20vue%20d%C3%A9gag%C3%A9e%20sur%20la%20piste%20et%20la%20foule%20en%20arri%C3%A8re-plan.%20Le%20temps%20est%20ensoleill%C3%A9%2C%20avec%20un%20ciel%20bleu%20intense%20et%20une%20lumi%C3%A8re%20naturelle%20qui%20rehausse%20les%20couleurs%20et%20cr%C3%A9e%20une%20ambiance%20de%20course%20vibrante.%0AUtilisez%20un%20cadrage%20en%20plan%20moyen%2C%20capturant%20le%20haut%20du%20corps%20et%20l'arri%C3%A8re-plan%20anim%C3%A9%20avec%20un%20l%C3%A9ger%20flou%20de%20profondeur%20de%20champ.%0ALa%20tenue%20est%20sportive%20mais%20sophistiqu%C3%A9e%2C%20compos%C3%A9e%20de%20%3A%0A%20*%20Une%20casquette%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22Red%20Ferrari%22%7D%2C%20avec%20le%20logo%20du%20cheval%20cabr%C3%A9%20jaune%20(cavallino%20rampante)%20sur%20le%20devant%20et%20le%20num%C3%A9ro%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20en%20blanc%20sur%20la%20visi%C3%A8re%20%3B%0A%20*%20Un%20top%20bustier%20en%20jean%20structur%C3%A9%2C%20ajust%C3%A9%20avec%20des%20coutures%20apparentes%2C%20soulignant%20le%20d%C3%A9collet%C3%A9%20et%20la%20silhouette%20%3B%0A%20*%20Des%20lunettes%20de%20soleil%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D%20avec%20des%20verres%20d%C3%A9grad%C3%A9s%20marron%20et%20une%20monture%20m%C3%A9tallique%20rectangulaire%2C%20couvrant%20partiellement%20les%20yeux%20%3B%0A%20*%20Un%20double%20collier%20%E2%80%93%20l'un%20avec%20de%20larges%20maillons%20dor%C3%A9s%20et%20l'autre%20avec%20de%20d%C3%A9licats%20diamants%20pr%C3%A8s%20du%20cou%20%3B%0A%20*%20Des%20boucles%20d'oreilles%20g%C3%A9om%C3%A9triques%20en%20or%20%3B%0A%20*%20Un%20bracelet%20argent%C3%A9%20au%20poignet%20droit%20%3B%0A%20*%20Un%20sac%20rouge%20discret%20suspendu%20%C3%A0%20l'%C3%A9paule%2C%20partiellement%20visible%20%C3%A0%20c%C3%B4t%C3%A9%20du%20bras.%0ALes%20cheveux%20sont%20naturels%20et%20l%C3%A2ches.%0ALe%20maquillage%20est%20impeccable%20et%20glamour%2C%20avec%20une%20peau%20%C3%A9clatante%2C%20des%20yeux%20d%C3%A9finis%2C%20un%20rouge%20%C3%A0%20l%C3%A8vres%20rose%20et%20un%20blush%20chaud.%0ALes%20ongles%20sont%20longs%20et%20d%C3%A9cor%C3%A9s%20de%20nail%20art%20dans%20des%20tons%20de%20rose%20et%20de%20rouge%20avec%20des%20d%C3%A9tails%20blancs%2C%20visibles%20en%20tenant%20le%20verre.%0ALa%20pose%20doit%20transmettre%20de%20l'attitude%20et%20de%20la%20sophistication%20%3A%0A%20*%20La%20main%20droite%20tenant%20la%20visi%C3%A8re%20de%20la%20casquette%2C%20l'ajustant%20l%C3%A9g%C3%A8rement%20%3B%0A%20*%20La%20main%20gauche%20tenant%20un%20verre%20de%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22vin%20blanc%22%7D%2C%20le%20bras%20d%C3%A9tendu%20%3B%0A%20*%20Le%20corps%20l%C3%A9g%C3%A8rement%20pench%C3%A9%2C%20le%20visage%20tourn%C3%A9%20vers%20la%20cam%C3%A9ra.%0AL'%C3%A9clairage%20est%20naturel%20et%20intense%2C%20avec%20de%20subtils%20reflets%20du%20soleil%20sur%20le%20visage%20et%20les%20cheveux.%0AUtilisez%20une%20palette%20de%20couleurs%20vibrantes%20%E2%80%93%20des%20nuances%20de%20rouge%2C%20de%20bleu%20denim%2C%20d'or%20et%20de%20caramel%2C%20contrastant%20avec%20l'arri%C3%A8re-plan%20ensoleill%C3%A9.%0AL'atmosph%C3%A8re%20g%C3%A9n%C3%A9rale%20est%20moderne%2C%20luxueuse%20et%20d%C3%A9tendue%2C%20exprimant%20le%20style%20de%20vie%20de%20quelqu'un%20qui%20appr%C3%A9cie%20les%20exp%C3%A9riences%20exclusives%2C%20avec%20%C3%A9l%C3%A9gance%20et%20une%20forte%20pr%C3%A9sence%20lors%20d'un%20%C3%A9v%C3%A9nement%20automobile%20haut%20de%20gamme.%0AQualit%C3%A9%20%3A%20photo%208K%20hyperr%C3%A9aliste%2C%20mise%20au%20point%20nette%20sur%20le%20visage%20et%20la%20tenue%2C%20arri%C3%A8re-plan%20l%C3%A9g%C3%A8rement%20flou%20avec%20une%20foule%20color%C3%A9e%20et%20la%20piste%20sous%20le%20soleil.%0AImportant%20%3A%0A%20*%20Conservez%20mon%20visage%2C%20mes%20cheveux%20et%20ma%20couleur%20de%20peau%20d'origine.%0A%20*%20Pr%C3%A9servez%20l'authentique%20p)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Cr%C3%A9ez%20une%20image%208K%20hyperr%C3%A9aliste%20qui%20conserve%20mon%20vrai%20visage%2C%20mes%20traits%2C%20ma%20couleur%20de%20peau%2C%20mes%20yeux%20et%20mes%20cheveux%20exactement%20tels%20qu'ils%20apparaissent%20sur%20l'image%20de%20r%C3%A9f%C3%A9rence.%0AJe%20suis%20la%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22femme%22%7D%20sur%20la%20photo%20%3B%20pr%C3%A9servez%20mon%20expression%20confiante%2C%20charmante%20et%20%C3%A9l%C3%A9gante%2C%20avec%20un%20l%C3%A9ger%20sourire%20et%20une%20posture%20d%C3%A9tendue.%0APlacez-moi%20lors%20d'un%20%C3%A9v%C3%A9nement%20automobile%20en%20ext%C3%A9rieur%2C%20dans%20une%20tribune%20ou%20un%20espace%20VIP%2C%20avec%20une%20vue%20d%C3%A9gag%C3%A9e%20sur%20la%20piste%20et%20la%20foule%20en%20arri%C3%A8re-plan.%20Le%20temps%20est%20ensoleill%C3%A9%2C%20avec%20un%20ciel%20bleu%20intense%20et%20une%20lumi%C3%A8re%20naturelle%20qui%20rehausse%20les%20couleurs%20et%20cr%C3%A9e%20une%20atmosph%C3%A8re%20de%20course%20vibrante.%0AUtilisez%20un%20cadrage%20en%20plan%20moyen%2C%20capturant%20le%20haut%20du%20corps%20et%20l'arri%C3%A8re-plan%20anim%C3%A9%20avec%20un%20l%C3%A9ger%20flou%20de%20profondeur%20de%20champ.%0ALa%20tenue%20est%20sportive%20mais%20sophistiqu%C3%A9e%2C%20compos%C3%A9e%20de%20%3A%0A%20*%20Une%20casquette%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22Red%20Ferrari%22%7D%2C%20avec%20le%20logo%20du%20cheval%20cabr%C3%A9%20(cavallino%20rampante)%20jaune%20sur%20le%20devant%20et%20le%20num%C3%A9ro%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20en%20blanc%20sur%20la%20visi%C3%A8re%20%3B%0A%20*%20Un%20top%20bustier%20en%20jean%20structur%C3%A9%2C%20ajust%C3%A9%20avec%20des%20coutures%20apparentes%2C%20soulignant%20le%20d%C3%A9collet%C3%A9%20et%20la%20silhouette%20%3B%0A%20*%20Des%20lunettes%20de%20soleil%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D%20avec%20des%20verres%20d%C3%A9grad%C3%A9s%20marron%20et%20une%20monture%20m%C3%A9tallique%20rectangulaire%2C%20couvrant%20partiellement%20les%20yeux%20%3B%0A%20*%20Un%20double%20collier%20%E2%80%93%20l'un%20avec%20de%20larges%20maillons%20dor%C3%A9s%20et%20l'autre%20avec%20de%20d%C3%A9licats%20diamants%20pr%C3%A8s%20du%20cou%20%3B%0A%20*%20Des%20boucles%20d'oreilles%20g%C3%A9om%C3%A9triques%20en%20or%20%3B%0A%20*%20Un%20bracelet%20argent%C3%A9%20au%20poignet%20droit%20%3B%0A%20*%20Un%20sac%20rouge%20discret%20suspendu%20%C3%A0%20l'%C3%A9paule%2C%20partiellement%20visible%20%C3%A0%20c%C3%B4t%C3%A9%20du%20bras.%0ALes%20cheveux%20sont%20naturels%20et%20l%C3%A2ches.%0ALe%20maquillage%20est%20impeccable%20et%20glamour%2C%20avec%20une%20peau%20%C3%A9clatante%2C%20des%20yeux%20d%C3%A9finis%2C%20un%20rouge%20%C3%A0%20l%C3%A8vres%20rose%20et%20un%20blush%20chaud.%0ALes%20ongles%20sont%20longs%20et%20d%C3%A9cor%C3%A9s%20de%20nail%20art%20dans%20des%20tons%20de%20rose%20et%20de%20rouge%20avec%20des%20d%C3%A9tails%20blancs%2C%20visibles%20en%20tenant%20le%20verre.%0ALa%20pose%20doit%20exprimer%20l'attitude%20et%20la%20sophistication%20%3A%0A%20*%20Main%20droite%20tenant%20la%20visi%C3%A8re%20de%20la%20casquette%2C%20l'ajustant%20l%C3%A9g%C3%A8rement%20%3B%0A%20*%20Main%20gauche%20tenant%20un%20verre%20de%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22vin%20blanc%22%7D%2C%20le%20bras%20d%C3%A9tendu%20%3B%0A%20*%20Corps%20l%C3%A9g%C3%A8rement%20pench%C3%A9%2C%20visage%20tourn%C3%A9%20vers%20la%20cam%C3%A9ra.%0AL'%C3%A9clairage%20est%20naturel%20et%20intense%2C%20avec%20de%20subtils%20reflets%20du%20soleil%20sur%20le%20visage%20et%20les%20cheveux.%0AUtilisez%20une%20palette%20de%20couleurs%20vibrantes%20%E2%80%93%20des%20nuances%20de%20rouge%2C%20de%20bleu%20denim%2C%20d'or%20et%20de%20caramel%2C%20contrastant%20avec%20l'arri%C3%A8re-plan%20ensoleill%C3%A9.%0AL'atmosph%C3%A8re%20g%C3%A9n%C3%A9rale%20est%20moderne%2C%20luxueuse%20et%20d%C3%A9tendue%2C%20exprimant%20le%20style%20de%20vie%20de%20quelqu'un%20qui%20appr%C3%A9cie%20les%20exp%C3%A9riences%20exclusives%2C%20avec%20%C3%A9l%C3%A9gance%20et%20une%20forte%20pr%C3%A9sence%20lors%20d'un%20%C3%A9v%C3%A9nement%20automobile%20haut%20de%20gamme.%0AQualit%C3%A9%20%3A%20photo%208K%20hyperr%C3%A9aliste%2C%20mise%20au%20point%20nette%20sur%20le%20visage%20et%20la%20tenue%2C%20arri%C3%A8re-plan%20l%C3%A9g%C3%A8rement%20flou%20avec%20une%20foule%20color%C3%A9e%20et%20la%20piste%20sous%20le%20soleil.%0AImportant%20%3A%0A%20*%20Conservez%20mon%20visage%2C%20mes%20cheveux%20et%20ma%20couleur%20de%20peau%20d'origine.%0A%20*%20Pr%C3%A9servez%20l'authentique%20p)**
 
 ---
 
@@ -517,17 +517,17 @@ Important :
 
 #### 📖 Description
 
-Une invite pour générer des portraits emoji chibi colorés dessinés à la main, de style LINE, disposés en grille avec un texte humoristique, idéaux pour les autocollants de chat ou les réactions sur les réseaux sociaux.
+Une invite pour générer des portraits emoji chibi colorés dessinés à la main, de style LINE, disposés en grille avec du texte humoristique, idéal pour les autocollants de chat ou les réactions sur les réseaux sociaux.
 
 #### 📝 Prompt
 
 ```
-Créez un ensemble de portraits emoji chibi colorés, dessinés à la main, de style LINE, en demi-corps, basés sur les {argument name="reference_characters_en" default="personnages présentés dans l'image de référence"}, en veillant à ce que leurs accessoires de tête soient représentés avec précision.
+Créez un ensemble de portraits emoji chibi colorés, dessinés à la main, de style LINE, en demi-corps, basés sur les {argument name="reference_characters_en" default="personnages montrés dans l'image de référence"}, en veillant à ce que leurs accessoires de tête soient représentés avec précision.
 
-Disposez les portraits dans une grille {argument name="grid_layout_en" default="4x6"}, avec des phrases de chat courantes ou des mèmes humoristiques pertinents.
+Disposez les portraits dans une grille {argument name="grid_layout_en" default="4x6"}, présentant des phrases de chat courantes ou des mèmes humoristiques pertinents.
 Utilisez des polices de caractères manuscrites pour le texte.
 Le résultat doit être original — ne copiez pas directement l'image de référence.
-L'image finale doit avoir une résolution 4K avec un rapport d'aspect de {argument name="aspect_ratio_en" default="16:9"}.
+L'image finale doit être en résolution 4K avec un rapport d'aspect {argument name="aspect_ratio_en" default="16:9"}.
 ```
 
 #### 🖼️ Images générées
@@ -557,7 +557,7 @@ L'image finale doit avoir une résolution 4K avec un rapport d'aspect de {argume
 - **Publié:** 24 novembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Cr%C3%A9ez%20un%20ensemble%20de%20portraits%20emoji%20chibi%20color%C3%A9s%2C%20dessin%C3%A9s%20%C3%A0%20la%20main%2C%20de%20style%20LINE%2C%20en%20demi-corps%2C%20bas%C3%A9s%20sur%20les%20%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22personnages%20pr%C3%A9sent%C3%A9s%20dans%20l'image%20de%20r%C3%A9f%C3%A9rence%22%7D%2C%20en%20veillant%20%C3%A0%20ce%20que%20leurs%20accessoires%20de%20t%C3%AAte%20soient%20repr%C3%A9sent%C3%A9s%20avec%20pr%C3%A9cision.%0A%0ADisposez%20les%20portraits%20dans%20une%20grille%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%2C%20avec%20des%20phrases%20de%20chat%20courantes%20ou%20des%20m%C3%A8mes%20humoristiques%20pertinents.%0AUtilisez%20des%20polices%20de%20caract%C3%A8res%20manuscrites%20pour%20le%20texte.%0ALe%20r%C3%A9sultat%20doit%20%C3%AAtre%20original%20%E2%80%94%20ne%20copiez%20pas%20directement%20l'image%20de%20r%C3%A9f%C3%A9rence.%0AL'image%20finale%20doit%20avoir%20une%20r%C3%A9solution%204K%20avec%20un%20rapport%20d'aspect%20de%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D.)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Cr%C3%A9ez%20un%20ensemble%20de%20portraits%20emoji%20chibi%20color%C3%A9s%2C%20dessin%C3%A9s%20%C3%A0%20la%20main%2C%20de%20style%20LINE%2C%20en%20demi-corps%2C%20bas%C3%A9s%20sur%20les%20%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22personnages%20montr%C3%A9s%20dans%20l'image%20de%20r%C3%A9f%C3%A9rence%22%7D%2C%20en%20veillant%20%C3%A0%20ce%20que%20leurs%20accessoires%20de%20t%C3%AAte%20soient%20repr%C3%A9sent%C3%A9s%20avec%20pr%C3%A9cision.%0A%0ADisposez%20les%20portraits%20dans%20une%20grille%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%2C%20pr%C3%A9sentant%20des%20phrases%20de%20chat%20courantes%20ou%20des%20m%C3%A8mes%20humoristiques%20pertinents.%0AUtilisez%20des%20polices%20de%20caract%C3%A8res%20manuscrites%20pour%20le%20texte.%0ALe%20r%C3%A9sultat%20doit%20%C3%AAtre%20original%20%E2%80%94%20ne%20copiez%20pas%20directement%20l'image%20de%20r%C3%A9f%C3%A9rence.%0AL'image%20finale%20doit%20%C3%AAtre%20en%20r%C3%A9solution%204K%20avec%20un%20rapport%20d'aspect%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D.)**
 
 ---
 
@@ -568,12 +568,12 @@ L'image finale doit avoir une résolution 4K avec un rapport d'aspect de {argume
 
 #### 📖 Description
 
-Une invite pour générer une scène réaliste à des coordonnées géographiques et une époque historiques spécifiques, utile pour visualiser des événements passés à des emplacements précis.
+Une invite pour générer une scène réaliste à des coordonnées géographiques et une époque historiques spécifiques, utile pour visualiser des événements passés à des emplacements exacts.
 
 #### 📝 Prompt
 
 ```
-Créez une image qui correspond au moment suivant : {argument name="coordinates_en" default="31.7785° N, 35.2296° E"}, {argument name="date_en" default="3 avril 33 ap. J.-C."}, {argument name="time_en" default="15:00 heures"}
+Créez une image qui correspond au moment suivant : {argument name="coordinates_en" default="31.7785° N, 35.2296° E"}, {argument name="date_en" default="3 avril 33 ap. J.-C."}, {argument name="time_en" default="15h00"}
 ```
 
 #### 🖼️ Images générées
@@ -591,11 +591,11 @@ Créez une image qui correspond au moment suivant : {argument name="coordinates_
 - **Publié:** 24 novembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Cr%C3%A9ez%20une%20image%20qui%20correspond%20au%20moment%20suivant%20%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2231.7785%C2%B0%20N%2C%2035.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date_en%22%20default%3D%223%20avril%2033%20ap.%20J.-C.%22%7D%2C%20%7Bargument%20name%3D%22time_en%22%20default%3D%2215%3A00%20heures%22%7D)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Cr%C3%A9ez%20une%20image%20qui%20correspond%20au%20moment%20suivant%20%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2231.7785%C2%B0%20N%2C%2035.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date_en%22%20default%3D%223%20avril%2033%20ap.%20J.-C.%22%7D%2C%20%7Bargument%20name%3D%22time_en%22%20default%3D%2215h00%22%7D)**
 
 ---
 
-### No. 6: Schéma isométrique dessiné à la main d'un point de repère
+### No. 6: Schéma isométrique de monument dessiné à la main
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -615,7 +615,7 @@ Créez un schéma isométrique dessiné à la main de {argument name="landmark_e
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209280491_x1ll9v_G6inJYdXcAAtK84.jpg" width="600" alt="Schéma isométrique dessiné à la main d'un point de repère - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209280491_x1ll9v_G6inJYdXcAAtK84.jpg" width="600" alt="Schéma isométrique de monument dessiné à la main - Image 1">
 </div>
 
 #### 📌 Détails
@@ -635,12 +635,12 @@ Créez un schéma isométrique dessiné à la main de {argument name="landmark_e
 
 #### 📖 Description
 
-Une invite structurée pour la création d'un portrait photoréaliste en noir et blanc, dramatique, d'une jeune femme sérieuse en costume, avec un style et des détails de caméra clairement définis.
+Une invite structurée pour créer un portrait photoréaliste dramatique en noir et blanc d'une jeune femme sérieuse en costume, avec un style et des détails de caméra clairement définis.
 
 #### 📝 Prompt
 
 ```
-Une photographie réaliste en noir et blanc d'une jeune femme aux cheveux longs et foncés, dont les traits du visage, la structure et l'expression correspondent étroitement à ceux du sujet de l'image de référence. Elle a une expression imposante ou sérieuse, regardant directement l'appareil photo. Elle porte une veste de costume noire, une chemise blanche à col et une cravate noire fine. L'éclairage est dramatique et l'arrière-plan est sombre et uniforme. Style : photoréaliste, cinématographique, contrasté, noir et blanc. Sujet : femme, en costume noir, chemise blanche, cravate noire fine, avec une expression imposante, sérieuse, confiante, cadrée en plan rapproché, de face.
+Une photographie réaliste en noir et blanc d'une jeune femme aux cheveux longs et foncés, dont les traits du visage, la structure et l'expression correspondent étroitement à ceux du sujet de l'image de référence. Elle a une expression imposante ou sérieuse, regardant directement l'appareil photo. Elle porte une veste de costume noire, une chemise blanche à col et une cravate noire fine. L'éclairage est dramatique et l'arrière-plan est sombre et uniforme. Style : photoréaliste, cinématographique, contrasté, noir et blanc. Sujet : femme, en costume noir, chemise blanche, cravate noire fine, avec une expression imposante, sérieuse et confiante, cadrée en plan rapproché, de face.
 ```
 
 #### 🖼️ Images générées
@@ -664,18 +664,18 @@ Une photographie réaliste en noir et blanc d'une jeune femme aux cheveux longs 
 - **Publié:** 24 novembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Une%20photographie%20r%C3%A9aliste%20en%20noir%20et%20blanc%20d'une%20jeune%20femme%20aux%20cheveux%20longs%20et%20fonc%C3%A9s%2C%20dont%20les%20traits%20du%20visage%2C%20la%20structure%20et%20l'expression%20correspondent%20%C3%A9troitement%20%C3%A0%20ceux%20du%20sujet%20de%20l'image%20de%20r%C3%A9f%C3%A9rence.%20Elle%20a%20une%20expression%20imposante%20ou%20s%C3%A9rieuse%2C%20regardant%20directement%20l'appareil%20photo.%20Elle%20porte%20une%20veste%20de%20costume%20noire%2C%20une%20chemise%20blanche%20%C3%A0%20col%20et%20une%20cravate%20noire%20fine.%20L'%C3%A9clairage%20est%20dramatique%20et%20l'arri%C3%A8re-plan%20est%20sombre%20et%20uniforme.%20Style%20%3A%20photor%C3%A9aliste%2C%20cin%C3%A9matographique%2C%20contrast%C3%A9%2C%20noir%20et%20blanc.%20Sujet%20%3A%20femme%2C%20en%20costume%20noir%2C%20chemise%20blanche%2C%20cravate%20noire%20fine%2C%20avec%20une%20expression%20imposante%2C%20s%C3%A9rieuse%2C%20confiante%2C%20cadr%C3%A9e%20en%20plan%20rapproch%C3%A9%2C%20de%20face.)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Une%20photographie%20r%C3%A9aliste%20en%20noir%20et%20blanc%20d'une%20jeune%20femme%20aux%20cheveux%20longs%20et%20fonc%C3%A9s%2C%20dont%20les%20traits%20du%20visage%2C%20la%20structure%20et%20l'expression%20correspondent%20%C3%A9troitement%20%C3%A0%20ceux%20du%20sujet%20de%20l'image%20de%20r%C3%A9f%C3%A9rence.%20Elle%20a%20une%20expression%20imposante%20ou%20s%C3%A9rieuse%2C%20regardant%20directement%20l'appareil%20photo.%20Elle%20porte%20une%20veste%20de%20costume%20noire%2C%20une%20chemise%20blanche%20%C3%A0%20col%20et%20une%20cravate%20noire%20fine.%20L'%C3%A9clairage%20est%20dramatique%20et%20l'arri%C3%A8re-plan%20est%20sombre%20et%20uniforme.%20Style%20%3A%20photor%C3%A9aliste%2C%20cin%C3%A9matographique%2C%20contrast%C3%A9%2C%20noir%20et%20blanc.%20Sujet%20%3A%20femme%2C%20en%20costume%20noir%2C%20chemise%20blanche%2C%20cravate%20noire%20fine%2C%20avec%20une%20expression%20imposante%2C%20s%C3%A9rieuse%20et%20confiante%2C%20cadr%C3%A9e%20en%20plan%20rapproch%C3%A9%2C%20de%20face.)**
 
 ---
 
-### No. 8: Infographie de recettes à partir d'un scan de réfrigérateur
+### No. 8: Infographie de recettes à partir du contenu du réfrigérateur
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Une suggestion conceptuelle pour transformer le contenu d'un réfrigérateur en une infographie de recette simple, étape par étape, utile pour la cuisine ou le contenu alimentaire.
+Une proposition conceptuelle pour transformer le contenu d'un réfrigérateur en une infographie de recette simple, étape par étape, utile pour la cuisine ou le contenu alimentaire.
 
 #### 📝 Prompt
 
@@ -688,13 +688,13 @@ Scannez le contenu du {argument name="container_en" default="réfrigérateur"} e
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209304921_59ezzl_G6iRr_OXQAApGxR.jpg" width="600" alt="Infographie de recettes à partir d'un scan de réfrigérateur - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209304921_59ezzl_G6iRr_OXQAApGxR.jpg" width="600" alt="Infographie de recettes à partir du contenu du réfrigérateur - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209307247_lpjakr_G6iRr_GXIAAmzY2.jpg" width="600" alt="Infographie de recettes à partir d'un scan de réfrigérateur - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209307247_lpjakr_G6iRr_GXIAAmzY2.jpg" width="600" alt="Infographie de recettes à partir du contenu du réfrigérateur - Image 2">
 </div>
 
 #### 📌 Détails
@@ -708,19 +708,19 @@ Scannez le contenu du {argument name="container_en" default="réfrigérateur"} e
 
 ---
 
-### No. 9: Photo à plat éclatée de style Knolling
+### No. 9: Photo à plat éclatée de style « knolling »
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Une invite détaillée pour transformer n'importe quel objet en une image à plat ultra-réaliste de style knolling en 8K avec des pièces démontées étiquetées.
+Une invite détaillée pour transformer n'importe quel objet en une image à plat ultra-réaliste de style knolling en 8K avec des pièces démontées et étiquetées.
 
 #### 📝 Prompt
 
 ```
-Photo ultra-réaliste en 8K, à plat, dans un style knolling strict. Une prise de vue à 90° de haut en bas de l'objet de l'image jointe, entièrement démonté en {argument name="min_parts_en" default="8"} à {argument name="max_parts_en" default="12"} pièces clés et disposé en grille nette ou en motif radial sur une table minimaliste en {argument name="surface_material_en" default="bois ou gris mat"}. Utilisez un espacement régulier, un alignement parfait, sans chevauchement et sans objets supplémentaires. Éclairez la scène avec un éclairage doux et diffus provenant de plusieurs sources, créant des ombres subtiles, un équilibre des couleurs neutre et une mise au point nette sur l'ensemble du cadre. Montrez des matériaux réels très détaillés (métal, plastique, poignées en caoutchouc, cartes de circuits imprimés, vis). Pour chaque pièce, ajoutez un fin cadre rectangulaire blanc et une courte étiquette anglaise nette en texte sans empattement propre, placée à côté du composant sans le recouvrir ; les annotations doivent être lisibles mais discrètes.
+Photo ultra-réaliste en 8K, en aplat, dans un style knolling strict. Une prise de vue à 90° de haut en bas de l'objet de l'image jointe, entièrement démonté en {argument name="min_parts_en" default="8"} à {argument name="max_parts_en" default="12"} pièces clés et disposé en grille nette ou en motif radial sur une table minimaliste en {argument name="surface_material_en" default="bois ou gris mat"}. Utilisez un espacement régulier, un alignement parfait, sans chevauchements et sans objets supplémentaires. Éclairez la scène avec un éclairage doux et diffus provenant de plusieurs sources, créant des ombres subtiles, un équilibre des couleurs neutre et une mise au point nette sur l'ensemble du cadre. Montrez des matériaux réels très détaillés (métal, plastique, poignées en caoutchouc, circuits imprimés, vis). Pour chaque pièce, ajoutez un fin cadre rectangulaire blanc et une courte étiquette anglaise nette en texte sans-serif propre, placée à côté du composant sans le recouvrir ; les annotations doivent être lisibles mais discrètes.
 ```
 
 #### 🖼️ Images générées
@@ -728,7 +728,7 @@ Photo ultra-réaliste en 8K, à plat, dans un style knolling strict. Une prise d
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209292148_v43ti8_G6iCbeKXUAAKINx.jpg" width="600" alt="Photo à plat éclatée de style Knolling - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209292148_v43ti8_G6iCbeKXUAAKINx.jpg" width="600" alt="Photo à plat éclatée de style « knolling » - Image 1">
 </div>
 
 #### 📌 Détails
@@ -738,7 +738,7 @@ Photo ultra-réaliste en 8K, à plat, dans un style knolling strict. Une prise d
 - **Publié:** 24 novembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Photo%20ultra-r%C3%A9aliste%20en%208K%2C%20%C3%A0%20plat%2C%20dans%20un%20style%20knolling%20strict.%20Une%20prise%20de%20vue%20%C3%A0%2090%C2%B0%20de%20haut%20en%20bas%20de%20l'objet%20de%20l'image%20jointe%2C%20enti%C3%A8rement%20d%C3%A9mont%C3%A9%20en%20%7Bargument%20name%3D%22min_parts_en%22%20default%3D%228%22%7D%20%C3%A0%20%7Bargument%20name%3D%22max_parts_en%22%20default%3D%2212%22%7D%20pi%C3%A8ces%20cl%C3%A9s%20et%20dispos%C3%A9%20en%20grille%20nette%20ou%20en%20motif%20radial%20sur%20une%20table%20minimaliste%20en%20%7Bargument%20name%3D%22surface_material_en%22%20default%3D%22bois%20ou%20gris%20mat%22%7D.%20Utilisez%20un%20espacement%20r%C3%A9gulier%2C%20un%20alignement%20parfait%2C%20sans%20chevauchement%20et%20sans%20objets%20suppl%C3%A9mentaires.%20%C3%89clairez%20la%20sc%C3%A8ne%20avec%20un%20%C3%A9clairage%20doux%20et%20diffus%20provenant%20de%20plusieurs%20sources%2C%20cr%C3%A9ant%20des%20ombres%20subtiles%2C%20un%20%C3%A9quilibre%20des%20couleurs%20neutre%20et%20une%20mise%20au%20point%20nette%20sur%20l'ensemble%20du%20cadre.%20Montrez%20des%20mat%C3%A9riaux%20r%C3%A9els%20tr%C3%A8s%20d%C3%A9taill%C3%A9s%20(m%C3%A9tal%2C%20plastique%2C%20poign%C3%A9es%20en%20caoutchouc%2C%20cartes%20de%20circuits%20imprim%C3%A9s%2C%20vis).%20Pour%20chaque%20pi%C3%A8ce%2C%20ajoutez%20un%20fin%20cadre%20rectangulaire%20blanc%20et%20une%20courte%20%C3%A9tiquette%20anglaise%20nette%20en%20texte%20sans%20empattement%20propre%2C%20plac%C3%A9e%20%C3%A0%20c%C3%B4t%C3%A9%20du%20composant%20sans%20le%20recouvrir%20%3B%20les%20annotations%20doivent%20%C3%AAtre%20lisibles%20mais%20discr%C3%A8tes.)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Photo%20ultra-r%C3%A9aliste%20en%208K%2C%20en%20aplat%2C%20dans%20un%20style%20knolling%20strict.%20Une%20prise%20de%20vue%20%C3%A0%2090%C2%B0%20de%20haut%20en%20bas%20de%20l'objet%20de%20l'image%20jointe%2C%20enti%C3%A8rement%20d%C3%A9mont%C3%A9%20en%20%7Bargument%20name%3D%22min_parts_en%22%20default%3D%228%22%7D%20%C3%A0%20%7Bargument%20name%3D%22max_parts_en%22%20default%3D%2212%22%7D%20pi%C3%A8ces%20cl%C3%A9s%20et%20dispos%C3%A9%20en%20grille%20nette%20ou%20en%20motif%20radial%20sur%20une%20table%20minimaliste%20en%20%7Bargument%20name%3D%22surface_material_en%22%20default%3D%22bois%20ou%20gris%20mat%22%7D.%20Utilisez%20un%20espacement%20r%C3%A9gulier%2C%20un%20alignement%20parfait%2C%20sans%20chevauchements%20et%20sans%20objets%20suppl%C3%A9mentaires.%20%C3%89clairez%20la%20sc%C3%A8ne%20avec%20un%20%C3%A9clairage%20doux%20et%20diffus%20provenant%20de%20plusieurs%20sources%2C%20cr%C3%A9ant%20des%20ombres%20subtiles%2C%20un%20%C3%A9quilibre%20des%20couleurs%20neutre%20et%20une%20mise%20au%20point%20nette%20sur%20l'ensemble%20du%20cadre.%20Montrez%20des%20mat%C3%A9riaux%20r%C3%A9els%20tr%C3%A8s%20d%C3%A9taill%C3%A9s%20(m%C3%A9tal%2C%20plastique%2C%20poign%C3%A9es%20en%20caoutchouc%2C%20circuits%20imprim%C3%A9s%2C%20vis).%20Pour%20chaque%20pi%C3%A8ce%2C%20ajoutez%20un%20fin%20cadre%20rectangulaire%20blanc%20et%20une%20courte%20%C3%A9tiquette%20anglaise%20nette%20en%20texte%20sans-serif%20propre%2C%20plac%C3%A9e%20%C3%A0%20c%C3%B4t%C3%A9%20du%20composant%20sans%20le%20recouvrir%20%3B%20les%20annotations%20doivent%20%C3%AAtre%20lisibles%20mais%20discr%C3%A8tes.)**
 
 ---
 
@@ -785,13 +785,13 @@ Style : portrait de voyage éditorial, hyperréalisme, plage dynamique élevée,
 
 ---
 
-### No. 11: Storyboard de bande dessinée de style Marvel d'une héroïne
+### No. 11: Scénarimage de bande dessinée de style Marvel d'une héroïne
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Un prompt pour générer des storyboards de bande dessinée au format vertical, dans un style Marvel dynamique, mettant en scène une héroïne à cape rouge sauvant des personnes dans une ville futuriste éclairée au néon, avec une boîte de texte sur Nano Banana Pro.
+Un prompt pour générer des storyboards de bande dessinée au format vertical, dans le style Marvel dynamique, mettant en scène une héroïne à cape rouge sauvant des gens dans une ville futuriste éclairée au néon, avec une boîte de texte sur Nano Banana Pro.
 
 #### 📝 Prompt
 
@@ -804,13 +804,13 @@ Plusieurs planches de bande dessinée dans le style Marvel avec des couleurs viv
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209320245_2ackqz_G6hnaa3W4AAF5I5.jpg" width="600" alt="Storyboard de bande dessinée de style Marvel d'une héroïne - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209320245_2ackqz_G6hnaa3W4AAF5I5.jpg" width="600" alt="Scénarimage de bande dessinée de style Marvel d'une héroïne - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209323055_5xt2wj_G6hnaynXYAIVFuu.jpg" width="600" alt="Storyboard de bande dessinée de style Marvel d'une héroïne - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209323055_5xt2wj_G6hnaynXYAIVFuu.jpg" width="600" alt="Scénarimage de bande dessinée de style Marvel d'une héroïne - Image 2">
 </div>
 
 #### 📌 Détails
@@ -830,12 +830,12 @@ Plusieurs planches de bande dessinée dans le style Marvel avec des couleurs viv
 
 #### 📖 Description
 
-Une invite détaillée pour générer un plan cinématographique vertical hyperréaliste en 8K de l'homme des photos ci-jointes, assis sur le bord d'un gratte-ciel pendant l'heure dorée avec une faible profondeur de champ et un fort bokeh.
+Une invite détaillée pour générer une image cinématographique verticale 8K hyperréaliste de l'homme des photos ci-jointes, assis sur le bord d'un gratte-ciel au lever ou au coucher du soleil (golden hour), avec une faible profondeur de champ et un bokeh prononcé.
 
 #### 📝 Prompt
 
 ```
-Plan aérien hyperréaliste en 9:16 de l'homme de l'image ci-jointe (je télécharge 2 photos de moi), assis au bord d'un gratte-ciel à l'heure dorée, les jambes pendantes et les mains jointes. Il porte les vêtements qui apparaissent sur l'image, regardant par-dessus son épaule, avec la ligne d'horizon de la ville légèrement floue. Éclairage naturel, étalonnage des couleurs cinématographique, bokeh intense, faible profondeur de champ, plan cinématographique 8K avec de grands détails.
+Plan aérien hyperréaliste en 9:16 de l'homme de l'image ci-jointe (je télécharge 2 photos de moi), assis au bord d'un gratte-ciel à l'heure dorée, les jambes pendantes et les mains jointes. Il porte les vêtements qui apparaissent sur l'image, regardant par-dessus son épaule, avec la silhouette de la ville légèrement floue. Éclairage naturel, étalonnage des couleurs cinématographique, bokeh intense, faible profondeur de champ, plan cinématographique 8K avec de nombreux détails.
 ```
 
 #### 🖼️ Images générées
@@ -859,7 +859,7 @@ Plan aérien hyperréaliste en 9:16 de l'homme de l'image ci-jointe (je téléch
 - **Publié:** 24 novembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Plan%20a%C3%A9rien%20hyperr%C3%A9aliste%20en%209%3A16%20de%20l'homme%20de%20l'image%20ci-jointe%20(je%20t%C3%A9l%C3%A9charge%202%20photos%20de%20moi)%2C%20assis%20au%20bord%20d'un%20gratte-ciel%20%C3%A0%20l'heure%20dor%C3%A9e%2C%20les%20jambes%20pendantes%20et%20les%20mains%20jointes.%20Il%20porte%20les%20v%C3%AAtements%20qui%20apparaissent%20sur%20l'image%2C%20regardant%20par-dessus%20son%20%C3%A9paule%2C%20avec%20la%20ligne%20d'horizon%20de%20la%20ville%20l%C3%A9g%C3%A8rement%20floue.%20%C3%89clairage%20naturel%2C%20%C3%A9talonnage%20des%20couleurs%20cin%C3%A9matographique%2C%20bokeh%20intense%2C%20faible%20profondeur%20de%20champ%2C%20plan%20cin%C3%A9matographique%208K%20avec%20de%20grands%20d%C3%A9tails.)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Plan%20a%C3%A9rien%20hyperr%C3%A9aliste%20en%209%3A16%20de%20l'homme%20de%20l'image%20ci-jointe%20(je%20t%C3%A9l%C3%A9charge%202%20photos%20de%20moi)%2C%20assis%20au%20bord%20d'un%20gratte-ciel%20%C3%A0%20l'heure%20dor%C3%A9e%2C%20les%20jambes%20pendantes%20et%20les%20mains%20jointes.%20Il%20porte%20les%20v%C3%AAtements%20qui%20apparaissent%20sur%20l'image%2C%20regardant%20par-dessus%20son%20%C3%A9paule%2C%20avec%20la%20silhouette%20de%20la%20ville%20l%C3%A9g%C3%A8rement%20floue.%20%C3%89clairage%20naturel%2C%20%C3%A9talonnage%20des%20couleurs%20cin%C3%A9matographique%2C%20bokeh%20intense%2C%20faible%20profondeur%20de%20champ%2C%20plan%20cin%C3%A9matographique%208K%20avec%20de%20nombreux%20d%C3%A9tails.)**
 
 ---
 
@@ -937,14 +937,14 @@ Créez un diagramme technique en vue éclatée d'un {argument name="subject_en" 
 
 #### 📖 Description
 
-Une instruction longue et détaillée pour la création d'une infographie de portrait hyperréaliste qui analyse les facteurs de vieillissement facial avec des superpositions et des pourcentages étiquetés, dans le style d'une publicité cosmétique-technologique haut de gamme.
+Une instruction longue et détaillée pour créer une infographie de portrait hyperréaliste qui analyse les facteurs de vieillissement facial avec des superpositions et des pourcentages étiquetés, dans le style d'une publicité cosmétique-technologique haut de gamme.
 
 #### 📝 Prompt
 
 ```
-Une infographie portrait hyperréaliste et haute résolution basée sur ({argument name="reference_photo_en" default="votre photo"}). Conservez la même personne, identité, coiffure, vêtements et teint naturel de ({argument name="reference_photo_short_en" default="votre photo"}), avec un fond de studio neutre. Superposez une grille d'analyse faciale subtile et semi-transparente sur l'ensemble du visage, similaire à un maillage de scan facial 3D : des lignes blanches fines et douces suivant les contours du visage, légèrement lumineuses mais ne masquant pas les détails de la peau. Ajoutez une ligne laser rouge verticale nette descendant sur un côté du visage, comme un scan futuriste. Toutes les lignes d'analyse doivent être douces, minimalistes et élégantes, exactement comme une publicité de technologie cosmétique.
+Une infographie portrait hyperréaliste et haute résolution basée sur ({argument name="reference_photo_en" default="votre photo"}). Conservez la même personne, identité, coiffure, vêtements et teint naturel de ({argument name="reference_photo_short_en" default="votre photo"}), avec un fond de studio neutre. Superposez une grille d'analyse faciale subtile et semi-transparente sur l'ensemble du visage, similaire à un maillage de scan facial 3D : des lignes blanches fines et douces suivant les contours du visage, légèrement lumineuses mais ne cachant pas les détails de la peau. Ajoutez une ligne laser rouge verticale nette descendant sur un côté du visage, comme un scan futuriste. Toutes les lignes d'analyse doivent être douces, minimales et élégantes, exactement comme dans une publicité de technologie cosmétique.
 
-Créez une infographie médico-esthétique épurée qui évalue 5 facteurs de vieillissement à l'aide de pourcentages de données mondiales :
+Créez une infographie médico-esthétique épurée qui évalue 5 facteurs de vieillissement en utilisant des pourcentages de données mondiales :
 1. Rides et ridules
 2. Texture et élasticité de la peau
 3. Volume facial et relâchement
@@ -958,10 +958,10 @@ Pour chaque facteur, placez une petite étiquette avec une ligne fine pointant v
 « Signes de vieillissement du contour des yeux – 41 % »
 « Teint et pigmentation de la peau – 63 % »
 
-Utilisez une typographie sans empattement propre et moderne et un petit texte de style technique, comme une interface utilisateur d'analyse faciale scientifique. En bas de l'image, au centre, écrivez un grand texte en gras affichant l'âge réel estimé final basé sur l'analyse, par exemple :
+Utilisez une typographie sans-serif propre et moderne et un petit texte de style technique, comme une interface utilisateur d'analyse faciale scientifique. En bas de l'image, au centre, écrivez un grand texte en gras affichant l'âge réel estimé final basé sur l'analyse, par exemple :
 « ÂGE ESTIMÉ : (nombre aléatoire basé sur l'analyse faciale) »
 
-Style général : analyse de soins de la peau futuriste guidée par l'IA, minimaliste, éclairage éditorial haut de gamme, sans genre spécifié, adapté à tout visage humain.
+Style général : analyse de soins de la peau futuriste guidée par l'IA, minimaliste, éclairage éditorial haut de gamme, pas de genre spécifié, convient à tout visage humain.
 ```
 
 #### 🖼️ Images générées
@@ -985,7 +985,7 @@ Style général : analyse de soins de la peau futuriste guidée par l'IA, minima
 - **Publié:** 24 novembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Une%20infographie%20portrait%20hyperr%C3%A9aliste%20et%20haute%20r%C3%A9solution%20bas%C3%A9e%20sur%20(%7Bargument%20name%3D%22reference_photo_en%22%20default%3D%22votre%20photo%22%7D).%20Conservez%20la%20m%C3%AAme%20personne%2C%20identit%C3%A9%2C%20coiffure%2C%20v%C3%AAtements%20et%20teint%20naturel%20de%20(%7Bargument%20name%3D%22reference_photo_short_en%22%20default%3D%22votre%20photo%22%7D)%2C%20avec%20un%20fond%20de%20studio%20neutre.%20Superposez%20une%20grille%20d'analyse%20faciale%20subtile%20et%20semi-transparente%20sur%20l'ensemble%20du%20visage%2C%20similaire%20%C3%A0%20un%20maillage%20de%20scan%20facial%203D%20%3A%20des%20lignes%20blanches%20fines%20et%20douces%20suivant%20les%20contours%20du%20visage%2C%20l%C3%A9g%C3%A8rement%20lumineuses%20mais%20ne%20masquant%20pas%20les%20d%C3%A9tails%20de%20la%20peau.%20Ajoutez%20une%20ligne%20laser%20rouge%20verticale%20nette%20descendant%20sur%20un%20c%C3%B4t%C3%A9%20du%20visage%2C%20comme%20un%20scan%20futuriste.%20Toutes%20les%20lignes%20d'analyse%20doivent%20%C3%AAtre%20douces%2C%20minimalistes%20et%20%C3%A9l%C3%A9gantes%2C%20exactement%20comme%20une%20publicit%C3%A9%20de%20technologie%20cosm%C3%A9tique.%0A%0ACr%C3%A9ez%20une%20infographie%20m%C3%A9dico-esth%C3%A9tique%20%C3%A9pur%C3%A9e%20qui%20%C3%A9value%205%20facteurs%20de%20vieillissement%20%C3%A0%20l'aide%20de%20pourcentages%20de%20donn%C3%A9es%20mondiales%20%3A%0A1.%20Rides%20et%20ridules%0A2.%20Texture%20et%20%C3%A9lasticit%C3%A9%20de%20la%20peau%0A3.%20Volume%20facial%20et%20rel%C3%A2chement%0A4.%20Signes%20de%20vieillissement%20du%20contour%20des%20yeux%0A5.%20Teint%20et%20pigmentation%20de%20la%20peau%0A%0APour%20chaque%20facteur%2C%20placez%20une%20petite%20%C3%A9tiquette%20avec%20une%20ligne%20fine%20pointant%20vers%20la%20zone%20faciale%20pertinente%2C%20et%20%C3%A0%20c%C3%B4t%C3%A9%2C%20%C3%A9crivez%20un%20court%20titre%20et%20un%20score%20en%20pourcentage%20r%C3%A9aliste%20de%200%20%C3%A0%20100%20%25%20(bas%C3%A9%20sur%20des%20donn%C3%A9es%20mondiales)%2C%20par%20exemple%20%3A%0A%C2%AB%20Rides%20et%20ridules%20%E2%80%93%2018%20%25%20%C2%BB%0A%C2%AB%20Texture%20et%20%C3%A9lasticit%C3%A9%20de%20la%20peau%20%E2%80%93%2072%20%25%20%C2%BB%0A%C2%AB%20Volume%20facial%20et%20rel%C3%A2chement%20%E2%80%93%2035%20%25%20%C2%BB%0A%C2%AB%20Signes%20de%20vieillissement%20du%20contour%20des%20yeux%20%E2%80%93%2041%20%25%20%C2%BB%0A%C2%AB%20Teint%20et%20pigmentation%20de%20la%20peau%20%E2%80%93%2063%20%25%20%C2%BB%0A%0AUtilisez%20une%20typographie%20sans%20empattement%20propre%20et%20moderne%20et%20un%20petit%20texte%20de%20style%20technique%2C%20comme%20une%20interface%20utilisateur%20d'analyse%20faciale%20scientifique.%20En%20bas%20de%20l'image%2C%20au%20centre%2C%20%C3%A9crivez%20un%20grand%20texte%20en%20gras%20affichant%20l'%C3%A2ge%20r%C3%A9el%20estim%C3%A9%20final%20bas%C3%A9%20sur%20l'analyse%2C%20par%20exemple%20%3A%0A%C2%AB%20%C3%82GE%20ESTIM%C3%89%20%3A%20(nombre%20al%C3%A9atoire%20bas%C3%A9%20sur%20l'analyse%20faciale)%20%C2%BB%0A%0AStyle%20g%C3%A9n%C3%A9ral%20%3A%20analyse%20de%20soins%20de%20la%20peau%20futuriste%20guid%C3%A9e%20par%20l'IA%2C%20minimaliste%2C%20%C3%A9clairage%20%C3%A9ditorial%20haut%20de%20gamme%2C%20sans%20genre%20sp%C3%A9cifi%C3%A9%2C%20adapt%C3%A9%20%C3%A0%20tout%20visage%20humain.)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Une%20infographie%20portrait%20hyperr%C3%A9aliste%20et%20haute%20r%C3%A9solution%20bas%C3%A9e%20sur%20(%7Bargument%20name%3D%22reference_photo_en%22%20default%3D%22votre%20photo%22%7D).%20Conservez%20la%20m%C3%AAme%20personne%2C%20identit%C3%A9%2C%20coiffure%2C%20v%C3%AAtements%20et%20teint%20naturel%20de%20(%7Bargument%20name%3D%22reference_photo_short_en%22%20default%3D%22votre%20photo%22%7D)%2C%20avec%20un%20fond%20de%20studio%20neutre.%20Superposez%20une%20grille%20d'analyse%20faciale%20subtile%20et%20semi-transparente%20sur%20l'ensemble%20du%20visage%2C%20similaire%20%C3%A0%20un%20maillage%20de%20scan%20facial%203D%20%3A%20des%20lignes%20blanches%20fines%20et%20douces%20suivant%20les%20contours%20du%20visage%2C%20l%C3%A9g%C3%A8rement%20lumineuses%20mais%20ne%20cachant%20pas%20les%20d%C3%A9tails%20de%20la%20peau.%20Ajoutez%20une%20ligne%20laser%20rouge%20verticale%20nette%20descendant%20sur%20un%20c%C3%B4t%C3%A9%20du%20visage%2C%20comme%20un%20scan%20futuriste.%20Toutes%20les%20lignes%20d'analyse%20doivent%20%C3%AAtre%20douces%2C%20minimales%20et%20%C3%A9l%C3%A9gantes%2C%20exactement%20comme%20dans%20une%20publicit%C3%A9%20de%20technologie%20cosm%C3%A9tique.%0A%0ACr%C3%A9ez%20une%20infographie%20m%C3%A9dico-esth%C3%A9tique%20%C3%A9pur%C3%A9e%20qui%20%C3%A9value%205%20facteurs%20de%20vieillissement%20en%20utilisant%20des%20pourcentages%20de%20donn%C3%A9es%20mondiales%20%3A%0A1.%20Rides%20et%20ridules%0A2.%20Texture%20et%20%C3%A9lasticit%C3%A9%20de%20la%20peau%0A3.%20Volume%20facial%20et%20rel%C3%A2chement%0A4.%20Signes%20de%20vieillissement%20du%20contour%20des%20yeux%0A5.%20Teint%20et%20pigmentation%20de%20la%20peau%0A%0APour%20chaque%20facteur%2C%20placez%20une%20petite%20%C3%A9tiquette%20avec%20une%20ligne%20fine%20pointant%20vers%20la%20zone%20faciale%20pertinente%2C%20et%20%C3%A0%20c%C3%B4t%C3%A9%2C%20%C3%A9crivez%20un%20court%20titre%20et%20un%20score%20en%20pourcentage%20r%C3%A9aliste%20de%200%20%C3%A0%20100%20%25%20(bas%C3%A9%20sur%20des%20donn%C3%A9es%20mondiales)%2C%20par%20exemple%20%3A%0A%C2%AB%20Rides%20et%20ridules%20%E2%80%93%2018%20%25%20%C2%BB%0A%C2%AB%20Texture%20et%20%C3%A9lasticit%C3%A9%20de%20la%20peau%20%E2%80%93%2072%20%25%20%C2%BB%0A%C2%AB%20Volume%20facial%20et%20rel%C3%A2chement%20%E2%80%93%2035%20%25%20%C2%BB%0A%C2%AB%20Signes%20de%20vieillissement%20du%20contour%20des%20yeux%20%E2%80%93%2041%20%25%20%C2%BB%0A%C2%AB%20Teint%20et%20pigmentation%20de%20la%20peau%20%E2%80%93%2063%20%25%20%C2%BB%0A%0AUtilisez%20une%20typographie%20sans-serif%20propre%20et%20moderne%20et%20un%20petit%20texte%20de%20style%20technique%2C%20comme%20une%20interface%20utilisateur%20d'analyse%20faciale%20scientifique.%20En%20bas%20de%20l'image%2C%20au%20centre%2C%20%C3%A9crivez%20un%20grand%20texte%20en%20gras%20affichant%20l'%C3%A2ge%20r%C3%A9el%20estim%C3%A9%20final%20bas%C3%A9%20sur%20l'analyse%2C%20par%20exemple%20%3A%0A%C2%AB%20%C3%82GE%20ESTIM%C3%89%20%3A%20(nombre%20al%C3%A9atoire%20bas%C3%A9%20sur%20l'analyse%20faciale)%20%C2%BB%0A%0AStyle%20g%C3%A9n%C3%A9ral%20%3A%20analyse%20de%20soins%20de%20la%20peau%20futuriste%20guid%C3%A9e%20par%20l'IA%2C%20minimaliste%2C%20%C3%A9clairage%20%C3%A9ditorial%20haut%20de%20gamme%2C%20pas%20de%20genre%20sp%C3%A9cifi%C3%A9%2C%20convient%20%C3%A0%20tout%20visage%20humain.)**
 
 ---
 
@@ -996,7 +996,7 @@ Style général : analyse de soins de la peau futuriste guidée par l'IA, minima
 
 #### 📖 Description
 
-Une invite qui demande à Nano Banana Pro d'agir comme un mangaka japonais avec un style dessiné à la main à la manière de Demon Slayer et de convertir le contenu fourni en planches de bande dessinée en chinois.
+Une invite qui demande à Nano Banana Pro d'agir comme un mangaka japonais avec un style dessiné à la main à la Demon Slayer et de convertir le contenu fourni en planches de bande dessinée en chinois.
 
 #### 📝 Prompt
 
@@ -1066,16 +1066,15 @@ Générez une image réaliste montrant l'emplacement de la caméra et des lumiè
 ### No. 18: Vue éclatée d'ingénierie vintage de l'arbalète à répétition de Zhuge
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Une instruction concise en chinois demandant à Nano Banana Pro de créer un diagramme isométrique éclaté d'ingénierie de style rétro de l'arbalète à répétition de Zhuge, avec toutes les étiquettes en chinois.
+Une invite chinoise concise demandant à Nano Banana Pro de créer un diagramme isométrique éclaté d'ingénierie de style rétro de l'arbalète à répétition de Zhuge, avec toutes les étiquettes en chinois.
 
 #### 📝 Prompt
 
 ```
-Veuillez créer un diagramme de vue éclatée d'ingénierie de style vintage de l'« {argument name="weapon_name" default="arbalète à répétition de Zhuge"} », avec toutes les étiquettes et le texte en chinois.
+Veuillez créer un diagramme de vue éclatée d'ingénierie de style vintage de l'arbalète à répétition de Zhuge, avec toutes les étiquettes et le texte en chinois.
 ```
 
 #### 🖼️ Images générées
@@ -1093,7 +1092,7 @@ Veuillez créer un diagramme de vue éclatée d'ingénierie de style vintage de 
 - **Publié:** 24 novembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Veuillez%20cr%C3%A9er%20un%20diagramme%20de%20vue%20%C3%A9clat%C3%A9e%20d'ing%C3%A9nierie%20de%20style%20vintage%20de%20l'%C2%AB%20%7Bargument%20name%3D%22weapon_name%22%20default%3D%22arbal%C3%A8te%20%C3%A0%20r%C3%A9p%C3%A9tition%20de%20Zhuge%22%7D%20%C2%BB%2C%20avec%20toutes%20les%20%C3%A9tiquettes%20et%20le%20texte%20en%20chinois.)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Veuillez%20cr%C3%A9er%20un%20diagramme%20de%20vue%20%C3%A9clat%C3%A9e%20d'ing%C3%A9nierie%20de%20style%20vintage%20de%20l'arbal%C3%A8te%20%C3%A0%20r%C3%A9p%C3%A9tition%20de%20Zhuge%2C%20avec%20toutes%20les%20%C3%A9tiquettes%20et%20le%20texte%20en%20chinois.)**
 
 ---
 
@@ -1109,7 +1108,7 @@ Une invite pour transformer une photo de plat en une page de recette de livre de
 #### 📝 Prompt
 
 ```
-Transformez ce {argument name="dish_en" default="ramen"} en une jolie page de recette illustrée, dans le style d'un livre de cuisine vintage dessiné à la main. Entourez le plat principal d'ingrédients soigneusement dessinés, avec des étiquettes, des mesures et des ustensiles comme des bols, des fouets ou des cuillères. Pour créer une atmosphère chaleureuse et nostalgique, utilisez des ombres texturées, des couleurs pastel chaudes et des contours fins, semblables à de l'encre. Ajoutez un texte de recette manuscrit, en intégrant les ingrédients et les instructions de manière organique dans la mise en page. Assurez-vous que la page soit à la fois artistique et éducative, combinant des illustrations colorées avec une esthétique de livre de cuisine classique.
+Transformez ce {argument name="dish_en" default="ramen"} en une jolie page de recette illustrée, dans le style d'un livre de cuisine vintage dessiné à la main. Entourez le plat principal d'ingrédients soigneusement dessinés, avec des étiquettes, des mesures et des ustensiles comme des bols, des fouets ou des cuillères. Pour créer une ambiance chaleureuse et nostalgique, utilisez des ombres texturées, des couleurs pastel chaudes et des contours fins, semblables à de l'encre. Ajoutez un texte de recette manuscrit, intégrant les ingrédients et les instructions de manière organique dans la mise en page. Assurez-vous que la page soit à la fois artistique et éducative, combinant des illustrations colorées avec une esthétique de livre de cuisine classique.
 ```
 
 #### 🖼️ Images générées
@@ -1133,18 +1132,18 @@ Transformez ce {argument name="dish_en" default="ramen"} en une jolie page de re
 - **Publié:** 24 novembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Transformez%20ce%20%7Bargument%20name%3D%22dish_en%22%20default%3D%22ramen%22%7D%20en%20une%20jolie%20page%20de%20recette%20illustr%C3%A9e%2C%20dans%20le%20style%20d'un%20livre%20de%20cuisine%20vintage%20dessin%C3%A9%20%C3%A0%20la%20main.%20Entourez%20le%20plat%20principal%20d'ingr%C3%A9dients%20soigneusement%20dessin%C3%A9s%2C%20avec%20des%20%C3%A9tiquettes%2C%20des%20mesures%20et%20des%20ustensiles%20comme%20des%20bols%2C%20des%20fouets%20ou%20des%20cuill%C3%A8res.%20Pour%20cr%C3%A9er%20une%20atmosph%C3%A8re%20chaleureuse%20et%20nostalgique%2C%20utilisez%20des%20ombres%20textur%C3%A9es%2C%20des%20couleurs%20pastel%20chaudes%20et%20des%20contours%20fins%2C%20semblables%20%C3%A0%20de%20l'encre.%20Ajoutez%20un%20texte%20de%20recette%20manuscrit%2C%20en%20int%C3%A9grant%20les%20ingr%C3%A9dients%20et%20les%20instructions%20de%20mani%C3%A8re%20organique%20dans%20la%20mise%20en%20page.%20Assurez-vous%20que%20la%20page%20soit%20%C3%A0%20la%20fois%20artistique%20et%20%C3%A9ducative%2C%20combinant%20des%20illustrations%20color%C3%A9es%20avec%20une%20esth%C3%A9tique%20de%20livre%20de%20cuisine%20classique.)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Transformez%20ce%20%7Bargument%20name%3D%22dish_en%22%20default%3D%22ramen%22%7D%20en%20une%20jolie%20page%20de%20recette%20illustr%C3%A9e%2C%20dans%20le%20style%20d'un%20livre%20de%20cuisine%20vintage%20dessin%C3%A9%20%C3%A0%20la%20main.%20Entourez%20le%20plat%20principal%20d'ingr%C3%A9dients%20soigneusement%20dessin%C3%A9s%2C%20avec%20des%20%C3%A9tiquettes%2C%20des%20mesures%20et%20des%20ustensiles%20comme%20des%20bols%2C%20des%20fouets%20ou%20des%20cuill%C3%A8res.%20Pour%20cr%C3%A9er%20une%20ambiance%20chaleureuse%20et%20nostalgique%2C%20utilisez%20des%20ombres%20textur%C3%A9es%2C%20des%20couleurs%20pastel%20chaudes%20et%20des%20contours%20fins%2C%20semblables%20%C3%A0%20de%20l'encre.%20Ajoutez%20un%20texte%20de%20recette%20manuscrit%2C%20int%C3%A9grant%20les%20ingr%C3%A9dients%20et%20les%20instructions%20de%20mani%C3%A8re%20organique%20dans%20la%20mise%20en%20page.%20Assurez-vous%20que%20la%20page%20soit%20%C3%A0%20la%20fois%20artistique%20et%20%C3%A9ducative%2C%20combinant%20des%20illustrations%20color%C3%A9es%20avec%20une%20esth%C3%A9tique%20de%20livre%20de%20cuisine%20classique.)**
 
 ---
 
-### No. 20: Séquence cinématique multi-panneaux pour l'informatique
+### No. 20: Séquence cinématique multi-panneaux pour l'IT
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Une courte invite pour générer une séquence cinématographique multi-panneaux au format écran large illustrant un script imaginatif tiré du roman IT.
+Une courte invite pour générer une séquence cinématographique multi-panneaux grand écran illustrant un script imaginatif tiré du roman IT.
 
 #### 📝 Prompt
 
@@ -1157,13 +1156,13 @@ Créez une séquence cinématographique en utilisant plusieurs grilles de pannea
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209275413_3m39wy_G6f_WMXa8AAb2Rn.jpg" width="600" alt="Séquence cinématique multi-panneaux pour l'informatique - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209275413_3m39wy_G6f_WMXa8AAb2Rn.jpg" width="600" alt="Séquence cinématique multi-panneaux pour l'IT - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209277760_veaaja_G6cgXctW4AAbDuy.jpg" width="600" alt="Séquence cinématique multi-panneaux pour l'informatique - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209277760_veaaja_G6cgXctW4AAbDuy.jpg" width="600" alt="Séquence cinématique multi-panneaux pour l'IT - Image 2">
 </div>
 
 #### 📌 Détails
@@ -1192,12 +1191,12 @@ Une invite de style JSON pour créer un portrait de mode éditorial en 8K d'une 
   "photo": {
     "type": "photo éditoriale de mode",
     "quality": "photographique 8k",
-    "lens": "50mm faible profondeur de champ",
+    "lens": "50mm, faible profondeur de champ",
     "composition": "portrait moyen, cadrage éditorial, pas de texte, pas de filigrane",
     "face": {
       "preserve_original": true,
       "reference_match": true,
-      "description": "Le visage du modèle doit rester 100% identique à l'image de référence fournie pour toutes les caractéristiques faciales, les proportions, le style de maquillage et l'expression."
+      "description": "Le visage du modèle doit rester 100 % identique à l'image de référence fournie en termes de traits du visage, de proportions, de style de maquillage et d'expression."
     },
     "model_pose": {
       "position": "assise",
@@ -1207,7 +1206,7 @@ Une invite de style JSON pour créer un portrait de mode éditorial en 8K d'une 
     },
     "wardrobe": {
       "jacket": {
-        "type": "veste en peau de mouton retournée crème",
+        "type": "veste en peau de mouton crème",
         "texture": "ébouriffée, duveteuse, tactile"
       },
       "shirt": {
@@ -1218,7 +1217,7 @@ Une invite de style JSON pour créer un portrait de mode éditorial en 8K d'une 
         "type": "jean bleu clair"
       },
       "boots": {
-        "type": "bottines Chelsea en cuir noir",
+        "type": "bottes Chelsea en cuir noir",
         "texture": "cuir lisse et poli"
       },
       "socks": {
@@ -1272,7 +1271,7 @@ Une invite de style JSON pour créer un portrait de mode éditorial en 8K d'une 
 - **Publié:** 24 novembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22photo%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22photo%20%C3%A9ditoriale%20de%20mode%22%2C%0A%20%20%20%20%22quality%22%3A%20%22photographique%208k%22%2C%0A%20%20%20%20%22lens%22%3A%20%2250mm%20faible%20profondeur%20de%20champ%22%2C%0A%20%20%20%20%22composition%22%3A%20%22portrait%20moyen%2C%20cadrage%20%C3%A9ditorial%2C%20pas%20de%20texte%2C%20pas%20de%20filigrane%22%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22reference_match%22%3A%20true%2C%0A%20%20%20%20%20%20%22description%22%3A%20%22Le%20visage%20du%20mod%C3%A8le%20doit%20rester%20100%25%20identique%20%C3%A0%20l'image%20de%20r%C3%A9f%C3%A9rence%20fournie%20pour%20toutes%20les%20caract%C3%A9ristiques%20faciales%2C%20les%20proportions%2C%20le%20style%20de%20maquillage%20et%20l'expression.%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22model_pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22assise%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22pose%20d%C3%A9contract%C3%A9e%20avec%20une%20jambe%20pli%C3%A9e%22%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%22une%20main%20soutenant%20la%20t%C3%AAte%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22calme%2C%20ambiance%20minimaliste%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22veste%20en%20peau%20de%20mouton%20retourn%C3%A9e%20cr%C3%A8me%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22%C3%A9bouriff%C3%A9e%2C%20duveteuse%2C%20tactile%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22shirt%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22chemise%20en%20jean%22%2C%0A%20%20%20%20%20%20%20%20%22layered%22%3A%20true%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22pants%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22jean%20bleu%20clair%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22boots%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22bottines%20Chelsea%20en%20cuir%20noir%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22cuir%20lisse%20et%20poli%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22socks%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22beige%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22textures%22%3A%20%7B%0A%20%20%20%20%20%20%22emphasis%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22fibres%20de%20peau%20de%20mouton%20duveteuses%22%2C%0A%20%20%20%20%20%20%20%20%22tissu%20denim%20robuste%22%2C%0A%20%20%20%20%20%20%20%20%22bottes%20en%20cuir%20lisse%22%2C%0A%20%20%20%20%20%20%20%20%22coutures%20visibles%22%2C%0A%20%20%20%20%20%20%20%20%22points%20de%20couture%20visibles%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22backdrop%22%3A%20%22fond%20de%20studio%20gris%20clair%20et%20%C3%A9pur%C3%A9%22%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22%C3%A9clairage%20de%20studio%20doux%20et%20naturel%22%2C%0A%20%20%20%20%20%20%20%20%22key_light%22%3A%20%22lumi%C3%A8re%20principale%20lat%C3%A9rale%20douce%22%2C%0A%20%20%20%20%20%20%20%20%22fill_light%22%3A%20%22remplissage%20subtil%22%2C%0A%20%20%20%20%20%20%20%20%22shadows%22%3A%20%22ombres%20douces%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22color_grade%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22cin%C3%A9matique%22%2C%0A%20%20%20%20%20%20%22balance%22%3A%20%22%C3%A9quilibre%20neutre%20des%20tons%20chauds-froids%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22photo%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22photo%20%C3%A9ditoriale%20de%20mode%22%2C%0A%20%20%20%20%22quality%22%3A%20%22photographique%208k%22%2C%0A%20%20%20%20%22lens%22%3A%20%2250mm%2C%20faible%20profondeur%20de%20champ%22%2C%0A%20%20%20%20%22composition%22%3A%20%22portrait%20moyen%2C%20cadrage%20%C3%A9ditorial%2C%20pas%20de%20texte%2C%20pas%20de%20filigrane%22%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22reference_match%22%3A%20true%2C%0A%20%20%20%20%20%20%22description%22%3A%20%22Le%20visage%20du%20mod%C3%A8le%20doit%20rester%20100%20%25%20identique%20%C3%A0%20l'image%20de%20r%C3%A9f%C3%A9rence%20fournie%20en%20termes%20de%20traits%20du%20visage%2C%20de%20proportions%2C%20de%20style%20de%20maquillage%20et%20d'expression.%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22model_pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22assise%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22pose%20d%C3%A9contract%C3%A9e%20avec%20une%20jambe%20pli%C3%A9e%22%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%22une%20main%20soutenant%20la%20t%C3%AAte%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22calme%2C%20ambiance%20minimaliste%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22veste%20en%20peau%20de%20mouton%20cr%C3%A8me%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22%C3%A9bouriff%C3%A9e%2C%20duveteuse%2C%20tactile%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22shirt%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22chemise%20en%20jean%22%2C%0A%20%20%20%20%20%20%20%20%22layered%22%3A%20true%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22pants%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22jean%20bleu%20clair%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22boots%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22bottes%20Chelsea%20en%20cuir%20noir%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22cuir%20lisse%20et%20poli%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22socks%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22beige%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22textures%22%3A%20%7B%0A%20%20%20%20%20%20%22emphasis%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22fibres%20de%20peau%20de%20mouton%20duveteuses%22%2C%0A%20%20%20%20%20%20%20%20%22tissu%20denim%20robuste%22%2C%0A%20%20%20%20%20%20%20%20%22bottes%20en%20cuir%20lisse%22%2C%0A%20%20%20%20%20%20%20%20%22coutures%20visibles%22%2C%0A%20%20%20%20%20%20%20%20%22points%20de%20couture%20visibles%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22backdrop%22%3A%20%22fond%20de%20studio%20gris%20clair%20et%20%C3%A9pur%C3%A9%22%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22%C3%A9clairage%20de%20studio%20doux%20et%20naturel%22%2C%0A%20%20%20%20%20%20%20%20%22key_light%22%3A%20%22lumi%C3%A8re%20principale%20lat%C3%A9rale%20douce%22%2C%0A%20%20%20%20%20%20%20%20%22fill_light%22%3A%20%22remplissage%20subtil%22%2C%0A%20%20%20%20%20%20%20%20%22shadows%22%3A%20%22ombres%20douces%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22color_grade%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22cin%C3%A9matique%22%2C%0A%20%20%20%20%20%20%22balance%22%3A%20%22%C3%A9quilibre%20neutre%20des%20tons%20chauds-froids%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -1283,16 +1282,16 @@ Une invite de style JSON pour créer un portrait de mode éditorial en 8K d'une 
 
 #### 📖 Description
 
-Une invite en coréen pour transformer uniquement le dessin sur une feuille de papier en une illustration de scène de camping familial de style crayon enfantin, tout en gardant le reste de l'image inchangé. Elle est destinée à un transfert de style ou à une utilisation d'image à image où les éléments environnants restent les mêmes.
+Une instruction en coréen pour transformer uniquement le dessin sur une feuille de papier en une illustration de scène de camping familial de style crayon d'enfant, tout en gardant le reste de l'image inchangé. Elle est destinée à être utilisée pour le transfert de style ou d'image à image, où les éléments environnants restent les mêmes.
 
 #### 📝 Prompt
 
 ```
-Conservez tous les autres éléments de l’image exactement tels quels, et ne modifiez que le dessin sur la feuille de papier pour lui donner un style différent.
+Conservez tous les autres éléments de l'image exactement tels quels, et ne modifiez que le dessin sur la feuille de papier pour lui donner un style différent.
 
-Le contenu du dessin est un voyage de camping effectué avec une {argument name="vehicle_en" default="caravane"}. À gauche, les deux personnes sont {argument name="left_characters_en" default="une mère et son enfant"} assises à une table, et à droite se trouve {argument name="right_character_en" default="le père"} qui fait griller de la viande à l’aide d’un {argument name="cooking_tool_en" default="barbecue"}.
+Le contenu du dessin est un voyage de camping effectué avec une {argument name="vehicle_en" default="caravane"}. À gauche, les deux personnes sont {argument name="left_characters_en" default="une mère et son enfant"} assises à une table, et à droite se trouve {argument name="right_character_en" default="le père"} qui fait griller de la viande à l'aide d'un {argument name="cooking_tool_en" default="barbecue"}.
 
-Modifiez le dessin pour lui donner un style de dessin au crayon d’écolier.
+Changez le dessin pour qu'il ressemble à un dessin au crayon d'écolier.
 ```
 
 #### 🖼️ Images générées
@@ -1310,7 +1309,7 @@ Modifiez le dessin pour lui donner un style de dessin au crayon d’écolier.
 - **Publié:** 23 novembre 2025
 - **Langues:** ko
 
-**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Conservez%20tous%20les%20autres%20%C3%A9l%C3%A9ments%20de%20l%E2%80%99image%20exactement%20tels%20quels%2C%20et%20ne%20modifiez%20que%20le%20dessin%20sur%20la%20feuille%20de%20papier%20pour%20lui%20donner%20un%20style%20diff%C3%A9rent.%0A%0ALe%20contenu%20du%20dessin%20est%20un%20voyage%20de%20camping%20effectu%C3%A9%20avec%20une%20%7Bargument%20name%3D%22vehicle_en%22%20default%3D%22caravane%22%7D.%20%C3%80%20gauche%2C%20les%20deux%20personnes%20sont%20%7Bargument%20name%3D%22left_characters_en%22%20default%3D%22une%20m%C3%A8re%20et%20son%20enfant%22%7D%20assises%20%C3%A0%20une%20table%2C%20et%20%C3%A0%20droite%20se%20trouve%20%7Bargument%20name%3D%22right_character_en%22%20default%3D%22le%20p%C3%A8re%22%7D%20qui%20fait%20griller%20de%20la%20viande%20%C3%A0%20l%E2%80%99aide%20d%E2%80%99un%20%7Bargument%20name%3D%22cooking_tool_en%22%20default%3D%22barbecue%22%7D.%0A%0AModifiez%20le%20dessin%20pour%20lui%20donner%20un%20style%20de%20dessin%20au%20crayon%20d%E2%80%99%C3%A9colier.)**
+**[👉 Essayer maintenant →](https://youmind.com/nano-banana-pro-prompts?prompt=Conservez%20tous%20les%20autres%20%C3%A9l%C3%A9ments%20de%20l'image%20exactement%20tels%20quels%2C%20et%20ne%20modifiez%20que%20le%20dessin%20sur%20la%20feuille%20de%20papier%20pour%20lui%20donner%20un%20style%20diff%C3%A9rent.%0A%0ALe%20contenu%20du%20dessin%20est%20un%20voyage%20de%20camping%20effectu%C3%A9%20avec%20une%20%7Bargument%20name%3D%22vehicle_en%22%20default%3D%22caravane%22%7D.%20%C3%80%20gauche%2C%20les%20deux%20personnes%20sont%20%7Bargument%20name%3D%22left_characters_en%22%20default%3D%22une%20m%C3%A8re%20et%20son%20enfant%22%7D%20assises%20%C3%A0%20une%20table%2C%20et%20%C3%A0%20droite%20se%20trouve%20%7Bargument%20name%3D%22right_character_en%22%20default%3D%22le%20p%C3%A8re%22%7D%20qui%20fait%20griller%20de%20la%20viande%20%C3%A0%20l'aide%20d'un%20%7Bargument%20name%3D%22cooking_tool_en%22%20default%3D%22barbecue%22%7D.%0A%0AChangez%20le%20dessin%20pour%20qu'il%20ressemble%20%C3%A0%20un%20dessin%20au%20crayon%20d'%C3%A9colier.)**
 
 ---
 
@@ -8356,6 +8355,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-11-27T12:24:23.751Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-11-27T16:14:18.673Z</sub>
 
 </div>
