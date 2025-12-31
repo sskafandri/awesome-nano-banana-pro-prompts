@@ -140,7 +140,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **3251** |
 | ⭐ विशेष | **12** |
-| 🔄 अंतिम अपडेट | **बुधवार, 31 दिसंबर 2025 को 8:17:50 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **बुधवार, 31 दिसंबर 2025 को 12:22:23 pm UTC बजे** |
 
 </div>
 
@@ -737,81 +737,82 @@ https://t.co/QxbYpfFVj6
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### No. 1: प्रोफ़ाइल / अवतार - Sunkissed Glamour Tight Crop Selfie at Golden Hour
+### No. 1: प्रोफ़ाइल / अवतार - गोल्डन आवर में सनकिस्ड ग्लैमर टाइट क्रॉप सेल्फी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A highly detailed, structured prompt for generating a hyper-photorealistic, intimate tight crop selfie with a 'Sunkissed Glamour' aesthetic. It simulates a professional mirrorless camera shot (f/1.4) with dramatic backlighting (contre-jour) and intense golden hour glow, focusing on extreme textural fidelity and a playful expression.
+'सनकिस्ड ग्लैमर' सौंदर्य के साथ एक अति-यथार्थवादी, अंतरंग, टाइट क्रॉप सेल्फी बनाने के लिए एक अत्यधिक विस्तृत, संरचित प्रॉम्प्ट। यह नाटकीय बैकलाइटिंग (कॉन्ट्रे-जॉर) और तीव्र गोल्डन आवर चमक के साथ एक पेशेवर मिररलेस कैमरा शॉट (f/1.4) का अनुकरण करता है, जो अत्यधिक बनावट संबंधी सटीकता और एक चंचल अभिव्यक्ति पर केंद्रित है।
 
 #### 📝 प्रॉम्पट
 
 ```
 {
-  "image_type": "Digital Self-Portrait",
-  "shot": "Tight Crop Selfie",
-  "shot_details": "Intimate, high-resolution lifestyle editorial portrait simulating a social media upload.",
-  "style": "Sunkissed Glamour Aesthetic",
-  "quality": "Hyper-photorealistic, Cinematic Quality, Extreme Textural Fidelity",
-  "color_grade": "Warm, Golden Hour Tones, High Contrast due to backlighting, Silvery/White Highlights",
-  "meta": {
-    "aspect_ratio": "4:5",
-    "resolution": "16K UHD"
-  },
-  "camera": {
-    "device": "Professional Mirrorless Camera (Simulated)",
-    "lens": "Wide-angle lens (28mm to 35mm equivalent)",
-    "aperture": "f/1.4 (Extremely Shallow Depth of Field)",
-    "distance": "Selfie range (Very close)",
-    "angle": "Slight Low Angle",
-    "framing": "Headshot/Bust Shot",
-    "pov": "Direct First-Person Perspective",
-    "focus": "Critical focus on the blue eyes",
-    "lens_effect": "Diffuse Warm Lens Flares, Strong Backlight Glow, Subtle Chromatic Aberration"
-  },
-  "lighting": {
-    "description": "Dramatic High-Key Contre-jour (Strong Backlighting)",
-    "type": "Directional Sunlight",
-    "source": "Intense sunlight streaming through large window",
-    "primary": "Backlight creating severe contrast and silhouette effect on the face.",
-    "secondary": "Soft, reflected fill light bouncing from bright white walls/environment.",
-    "highlights": "Brilliant, silvery Rim Light halo along the contours of the hair and shoulder; fully Blown-out Highlights in the background (pure white).",
-    "shadows": "Softly modeled shadows on the face, created by ambient fill light."
-  },
+  "image_type": "डिजिटल सेल्फ-पोर्ट्रेट",
+  "shot": "टाइट क्रॉप सेल्फी",
+  "shot_details": "एक सोशल मीडिया अपलोड का अनुकरण करते हुए अंतरंग, उच्च-रिज़ॉल्यूशन वाला लाइफस्टाइल संपादकीय पोर्ट्रेट।",
+  "style": "सनकिस्ड ग्लैमर एस्थेटिक",
+  "quality": "हाइपर-फोटोरियलिस्टिक, सिनेमैटिक क्वालिटी, एक्सट्रीम टेक्स्चरल फिडेलिटी",
+  "color_grade": "गर्म, गोल्डन आवर टोन, बैकलाइटिंग के कारण उच्च कंट्रास्ट, सिल्वर/सफेद हाइलाइट्स",
+  "meta": {
+    "aspect_ratio": "4:5",
+    "resolution": "16K UHD"
+  },
+  "camera": {
+    "device": "प्रोफेशनल मिररलेस कैमरा (सिम्युलेटेड)",
+    "lens": "वाइड-एंगल लेंस (28mm से 35mm के बराबर)",
+    "aperture": "f/1.4 (अत्यंत उथली डेप्थ ऑफ़ फील्ड)",
+    "distance": "सेल्फी रेंज (बहुत करीब)",
+    "angle": "थोड़ा कम कोण",
+    "framing": "हेडशॉट/बस्ट शॉट",
+    "pov": "प्रत्यक्ष फर्स्ट-पर्सन पर्सपेक्टिव",
+    "focus": "नीली आँखों पर क्रिटिकल फोकस",
+    "lens_effect": "डिफ्यूज़ वार्म लेंस फ्लेयर्स, स्ट्रॉन्ग बैकलाइट ग्लो, सबटल क्रोमैटिक एबरेशन"
+  },
+  "lighting": {
+    "description": "ड्रैमेटिक हाई-की कॉन्ट्रे-जूर (तेज बैकलाइटिंग)",
+    "type": "दिशात्मक सूर्य का प्रकाश",
+    "source": "बड़ी खिड़की से आती तीव्र धूप",
+    "primary": "बैकलाइट चेहरे पर गंभीर कंट्रास्ट और सिल्हूट प्रभाव पैदा करती है।",
+    "secondary": "सफेद दीवारों/वातावरण से उछलती नरम, परावर्तित फिल लाइट।",
+    "highlights": "बालों और कंधे के किनारों पर शानदार, चांदी जैसी रिम लाइट हेलो; बैकग्राउंड में पूरी तरह से ब्लोन-आउट हाइलाइट्स (शुद्ध सफेद)।",
+    "shadows": "चेहरे पर नरम, मॉडल की हुई छायाएँ, जो एम्बिएंट फिल लाइट द्वारा बनाई गई हैं।"
+  },
   "scene": {
-    "location": "Modern, minimalist interior",
-    "environment": "Bright room with large, white window frames visible in the heavily overexposed background.",
-    "time": "Daytime (simulating Golden Hour or intense midday sun)",
-    "atmosphere": "Warm, luminous, airy, summer aesthetic."
-  },
-  "subject": {
-    "gender": "Female",
-    "age": "Early 20s",
-    "ethnicity": "Nordic appearance",
-    "appearance": "Tanned, healthy complexion",
-    "body": {
-      "skin": "Visible fine pores, sun-kissed tan, smooth texture."
-    },
-    "expression": {
-      "eyes": "Clear light blue",
-      "gaze": "Intense, direct eye contact with the camera",
-      "mouth": "Slightly opened, wet glossy lips, tip of tongue playfully touching upper incisors.",
-      "face_vibe": "Coquettish, playful, intimate."
-    },
-    "hair": {
-      "color": "{argument name=\"hair color\" default=\"Long, platinum blonde\"}",
-      "style": "Voluminous modern cut",
-      "details": "Distinct, brighter face-framing strands."
-    },
-    "pose": {
-      "description": "Frontal, intimate selfie pose, face directed slightly toward the light source.",
-      "stance": "Close up, head and shoulder visible.",
-      "energy": "Confident and inviting."
-    }
-  },
-  "wardrobe": "Deep navy/black ribbed tank"
+    "location": "आधुनिक, न्यूनतम इंटीरियर",
+    "environment": "तेजी से ओवरएक्सपोज़्ड बैकग्राउंड में बड़ी, सफेद खिड़की के फ्रेम के साथ उज्ज्वल कमरा।",
+    "time": "दिन का समय (गोल्डन आवर या तीव्र दोपहर की धूप का अनुकरण)",
+    "atmosphere": "गर्म, चमकदार, हवादार, गर्मियों का सौंदर्य।"
+  },
+  "subject": {
+    "gender": "महिला",
+    "age": "20 की शुरुआत में",
+    "ethnicity": "नॉर्डिक उपस्थिति",
+    "appearance": "टैन, स्वस्थ रंगत",
+    "body": {
+      "skin": "दिखने वाले महीन रोमछिद्र, धूप से तनी हुई त्वचा, चिकनी बनावट।"
+    },
+    "expression": {
+      "eyes": "साफ हल्की नीली",
+      "gaze": "कैमरे के साथ तीव्र, सीधा नेत्र संपर्क",
+      "mouth": "थोड़ा खुला, गीले चमकदार होंठ, जीभ का सिरा चंचल रूप से ऊपरी इनसाइज़र को छूता हुआ।",
+      "face_vibe": "कोक्वेटिश, चंचल, अंतरंग।"
+    },
+    "hair": {
+      "color": "{argument name=\"hair color\" default=\"लंबे, प्लैटिनम ब्लॉन्ड\"}",
+      "style": "वॉल्यूमिनस मॉडर्न कट",
+      "details": "अलग, चमकीले चेहरे को फ्रेम करने वाले स्ट्रैंड्स।"
+    },
+    "pose": {
+      "description": "फ्रंटल, अंतरंग सेल्फी पोज़, चेहरा थोड़ा प्रकाश स्रोत की ओर निर्देशित।",
+      "stance": "क्लोज अप, सिर और कंधे दिखाई दे रहे हैं।",
+      "energy": "आत्मविश्वासी और आमंत्रित करने वाला।"
+    }
+  },
+  "wardrobe": "गहरा नेवी/काला रिब्ड टैंक"
+}
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -819,7 +820,7 @@ A highly detailed, structured prompt for generating a hyper-photorealistic, inti
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166889966_i14ki5_G9X-4XdWYAAzsgs.jpg" width="600" alt="प्रोफ़ाइल / अवतार - Sunkissed Glamour Tight Crop Selfie at Golden Hour - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166889966_i14ki5_G9X-4XdWYAAzsgs.jpg" width="600" alt="प्रोफ़ाइल / अवतार - गोल्डन आवर में सनकिस्ड ग्लैमर टाइट क्रॉप सेल्फी - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -872,77 +873,77 @@ Nano Banana Pro के उन उपयोगकर्ताओं के लि
 
 ---
 
-### No. 3: प्रोफ़ाइल / अवतार - Christmas Selfie in a Decorated Bathroom Mirror
+### No. 3: प्रोफ़ाइल / अवतार - सजे हुए बाथरूम के शीशे में क्रिसमस सेल्फ़ी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A structured prompt for generating a photorealistic mirror selfie taken by a woman in a red bodycon dress and Santa hat inside a decorated bathroom, focusing on accurate reflection physics, warm lighting, and the inclusion of background elements like garland and other people.
+एक सुसज्जित बाथरूम के अंदर लाल बॉडीकॉन ड्रेस और सांता हैट पहने एक महिला द्वारा ली गई एक यथार्थवादी मिरर सेल्फ़ी बनाने के लिए एक संरचित प्रॉम्प्ट, जिसमें सटीक प्रतिबिंब भौतिकी, गर्म रोशनी और माला व अन्य लोगों जैसे पृष्ठभूमि तत्वों को शामिल करने पर ध्यान केंद्रित किया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
 {
 "subject": {
-"primary_subject_type": "human",
-"count": "1 primary subject",
-"age_range_appearance": "adult-appearing",
-"gender_presentation": "feminine-presenting",
-"skin_tone_or_material": "light to medium skin tone",
-"visibility": "full body mostly visible from head to mid-thigh",
+"primary_subject_type": "मानव",
+"count": "1 प्राथमिक विषय",
+"age_range_appearance": "वयस्क-दिखने वाली",
+"gender_presentation": "स्त्री-प्रस्तुत",
+"skin_tone_or_material": "हल्की से मध्यम त्वचा का रंग",
+"visibility": "पूरा शरीर सिर से लेकर जांघ के मध्य तक अधिकतर दिखाई दे रहा है",
 "hair": {
-"color": "dark brown or black",
-"style": "loose curls/waves",
-"length": "long, past shoulders",
-"parting": "center or slightly off-center"
+"color": "गहरा भूरा या काला",
+"style": "खुले घुंघराले बाल/लहरें",
+"length": "लंबे, कंधों से नीचे",
+"parting": "बीच से या थोड़ा हटकर"
 },
 "face": {
-"expression": "neutral to slight smile",
-"gaze_direction": "toward smartphone screen or mirror",
-"visibility": "fully visible"
+"expression": "तटस्थ से हल्की मुस्कान",
+"gaze_direction": "स्मार्टफोन स्क्रीन या दर्पण की ओर",
+"visibility": "पूरी तरह से दिखाई दे रहा है"
 },
 "body": {
-"build": "slim",
-"posture": "standing upright",
-"torso_visibility": "fully visible",
-"limb_visibility": "both arms visible, legs visible to mid-thigh"
+"build": "पतला",
+"posture": "सीधा खड़ा",
+"torso_visibility": "पूरी तरह से दिखाई दे रहा है",
+"limb_visibility": "दोनों हाथ दिखाई दे रहे हैं, पैर जांघ के मध्य तक दिखाई दे रहे हैं"
 },
 "pose": {
-"stance": "facing mirror/front-facing to camera via reflection",
-"torso_angle": "very slight angle, mostly straight on",
-"head_angle": "slightly tilted",
-"arm_positions": "one arm bent upward holding phone near face/chest; other arm relaxed down by side",
-"hand_positions": "one hand gripping smartphone; other hand relaxed with fingers slightly curved",
-"weight_distribution": "unknown"
+"stance": "दर्पण/सामने की ओर कैमरे की ओर प्रतिबिंब के माध्यम से",
+"torso_angle": "बहुत हल्का कोण, अधिकतर सीधा",
+"head_angle": "थोड़ा झुका हुआ",
+"arm_positions": "एक हाथ ऊपर की ओर मुड़ा हुआ चेहरे/छाती के पास फोन पकड़े हुए; दूसरा हाथ बगल में आराम से नीचे",
+"hand_positions": "एक हाथ स्मार्टफोन पकड़े हुए; दूसरा हाथ उंगलियों को थोड़ा मोड़कर आराम से",
+"weight_distribution": "अज्ञात"
 },
 "clothing": {
-"top": { "type": "sleeveless dress bodice", "color": "{argument name=\"dress color\" default=\"red\"}", "fit": "tight/ bodycon", "coverage": "shoulders and arms uncovered", "details": "simple, no visible patterns" },
-"bottom": { "type": "dress skirt (part of single-piece dress)", "color": "red", "fit": "tight/ bodycon", "coverage": "extends to upper thigh", "details": "simple, no slit visible" },
-"footwear": "not visible",
-"other_items": "none"
+"top": { "type": "स्लीवलेस ड्रेस चोली", "color": "{argument name=\"dress color\" default=\"red\"}", "fit": "तंग/बॉडीकॉन", "coverage": "कंधे और हाथ खुले", "details": "सरल, कोई दृश्यमान पैटर्न नहीं" },
+"bottom": { "type": "ड्रेस स्कर्ट (एकल-टुकड़े वाली ड्रेस का हिस्सा)", "color": "लाल", "fit": "तंग/बॉडीकॉन", "coverage": "ऊपरी जांघ तक फैली हुई", "details": "सरल, कोई स्लिट दिखाई नहीं दे रहा है" },
+"footwear": "दिखाई नहीं दे रहा है",
+"other_items": "कोई नहीं"
 },
 "accessories": ["{argument name=\"accessory\" default=\"red and white Santa hat\"}"],
-"props_interacted_with": ["smartphone"]
+"props_interacted_with": ["स्मार्टफोन"]
 },
 "environment": {
-"setting_type": "bathroom or restroom with decorative elements",
-"indoor_or_outdoor": "indoor",
-"depth_description": "foreground is mirror frame area; subject appears in mirror; background contains decorated wall and additional people",
-"foreground_objects": ["mirror surface", "lower edge of mirror frame"],
-"midground_objects": ["primary subject reflection"],
-"background_objects": ["green garland with lights above mirror", "wall-mounted light sconce on left", "tiled walls", "doorway or dark opening", "two other feminine-presenting people in dark clothing"],
-"textures_or_materials": "glossy ceramic tiles, reflective glass mirror, soft greenery with small lights",
-"notable_layout_relationships": "garland runs horizontally across top of mirror; light sconce mounted on tiled wall to left of mirror; other people are reflected further back behind subject"
+"setting_type": "सजावटी तत्वों वाला बाथरूम या शौचालय",
+"indoor_or_outdoor": "घर के अंदर",
+"depth_description": "अग्रभूमि दर्पण फ्रेम क्षेत्र है; विषय दर्पण में दिखाई देता है; पृष्ठभूमि में सजावटी दीवार और अतिरिक्त लोग शामिल हैं",
+"foreground_objects": ["दर्पण की सतह", "दर्पण फ्रेम का निचला किनारा"],
+"midground_objects": ["प्राथमिक विषय प्रतिबिंब"],
+"background_objects": ["दर्पण के ऊपर रोशनी के साथ हरी माला", "बाईं ओर दीवार पर लगा प्रकाश स्कॉन्स", "टाइल वाली दीवारें", "दरवाजा या अंधेरा खुला स्थान", "गहरे रंग के कपड़े पहने दो अन्य स्त्री-प्रस्तुत लोग"],
+"textures_or_materials": "चमकीली सिरेमिक टाइलें, परावर्तक कांच का दर्पण, छोटी रोशनी के साथ नरम हरियाली",
+"notable_layout_relationships": "माला दर्पण के शीर्ष पर क्षैतिज रूप से चलती है; प्रकाश स्कॉन्स दर्पण के बाईं ओर टाइल वाली दीवार पर लगा है; अन्य लोग विषय के पीछे और दूर प्रतिबिंबित होते हैं"
 },
 "lighting": {
-"lighting_type": "mixed ambient and artificial indoor lighting",
-"light_direction": "multiple sources including overhead/garland lights and a wall sconce to the left",
-"intensity": "moderate",
-"color_temperature": "warm",
-"shadow_behavior": "soft shadows with gentle falloff",
-"reflections_or_glare": "mirror reflection of subject and background; mild specular reflections from tiles and mirror"
+"lighting_type": "मिश्रित परिवेश और कृत्रिम इनडोर प्रकाश व्यवस्था",
+"light_direction": "कई स्रोत जिनमें ऊपर/माला की रोशनी और बाईं ओर एक दीवार स्कॉन्स शामिल है",
+"intensity": "मध्यम",
+"color_temperature": "गर्म",
+"shadow_behavior": "हल्के गिरावट के साथ नरम छाया",
+"reflections_or_glare": "विषय और पृष्ठभूमि का दर्पण प्रतिबिंब; टाइलों और दर्पण से हल्के स्पेक्युलर प्रतिबिंब"
 },
 "camera": "{argument name=\"camera type\" default=\"smartphone\"}"
 }
@@ -953,7 +954,7 @@ A structured prompt for generating a photorealistic mirror selfie taken by a wom
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166886502_kf0kjb_G9WbeFJaEAEjtmd.png" width="600" alt="प्रोफ़ाइल / अवतार - Christmas Selfie in a Decorated Bathroom Mirror - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166886502_kf0kjb_G9WbeFJaEAEjtmd.png" width="600" alt="प्रोफ़ाइल / अवतार - सजे हुए बाथरूम के शीशे में क्रिसमस सेल्फ़ी - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -967,55 +968,55 @@ A structured prompt for generating a photorealistic mirror selfie taken by a wom
 
 ---
 
-### No. 4: प्रोफ़ाइल / अवतार - Photorealistic Low-Angle Café Selfie
+### No. 4: प्रोफ़ाइल / अवतार - फोटोरियलिस्टिक लो-एंगल कैफे सेल्फी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A highly detailed prompt for generating a photorealistic, low-angle, handheld selfie of a woman in a cozy café. It focuses heavily on realistic details: natural posture, visible pores and skin imperfections, realistic fabric texture (low-cut halter top), and soft, diffused warm indoor lighting consistent with an intimate café environment.
+एक आरामदायक कैफे में एक महिला की फोटोरियलिस्टिक, लो-एंगल, हैंडहेल्ड सेल्फी बनाने के लिए एक अत्यधिक विस्तृत प्रॉम्प्ट। यह यथार्थवादी विवरणों पर बहुत अधिक केंद्रित है: प्राकृतिक मुद्रा, दिखाई देने वाले रोमछिद्र और त्वचा की खामियां, यथार्थवादी कपड़े की बनावट (लो-कट हॉल्टर टॉप), और एक अंतरंग कैफे के वातावरण के अनुरूप नरम, विसरित गर्म इनडोर प्रकाश व्यवस्था।
 
 #### 📝 प्रॉम्पट
 
 ```
 {
-  "prompt": "Photorealistic low-angle handheld selfie of an adult woman (25 years old) in a cozy café interior. The camera is positioned slightly below eye level and angled upward, creating a natural sense of proximity and depth. She is leaning forward over a table with realistic posture and natural weight distribution, giving a relaxed and playful feel. Facial expression shows a subtle, playful half-smile conveying confidence and warmth. Lips are softly defined with red lipstick, expression natural and unforced. Eyes are directed toward the camera, engaging and lively. She is wearing a {argument name="top color" default="deep blue"} low-cut halter top with realistic fabric texture and natural drape. The neckline follows realistic anatomy and gravity, with subtle fabric tension and folds where it interacts with the body, without exaggerated shaping. Skin appears natural and healthy with visible pores, fine texture, soft tonal transitions, and slight imperfections. Warm indoor lighting creates gentle highlights without any glossy or plastic effect. Hair is naturally styled, matching the reference image exactly in shape and structure, with realistic volume and visible individual strands, without stylization or alteration. Lighting is warm, soft, and diffused café lighting, producing gentle shadows under the chin and along facial contours. The light feels ambient and natural, consistent with an intimate café environment. The background is a cozy café setting with a mosaic tile wall and indoor plants, softly out of focus to provide texture and atmosphere without distracting from the subject.",
-  "style": "photorealistic",
+  "prompt": "एक आरामदायक कैफे के अंदर एक वयस्क महिला (25 वर्ष) की फोटोरियलिस्टिक लो-एंगल हैंडहेल्ड सेल्फी। कैमरा आँखों के स्तर से थोड़ा नीचे रखा गया है और ऊपर की ओर झुका हुआ है, जिससे निकटता और गहराई का एक स्वाभाविक एहसास होता है। वह एक मेज पर यथार्थवादी मुद्रा और प्राकृतिक वजन वितरण के साथ आगे की ओर झुकी हुई है, जिससे एक आरामदायक और चंचल एहसास होता है। चेहरे के भाव में एक सूक्ष्म, चंचल आधी मुस्कान है जो आत्मविश्वास और गर्मजोशी व्यक्त करती है। होंठ लाल लिपस्टिक से हल्के से परिभाषित हैं, भाव स्वाभाविक और सहज हैं। आँखें कैमरे की ओर निर्देशित हैं, आकर्षक और जीवंत हैं। उसने एक {argument name=\"top color\" default=\"गहरा नीला\"} लो-कट हॉल्टर टॉप पहना हुआ है जिसमें यथार्थवादी कपड़े की बनावट और प्राकृतिक ड्रेप है। नेकलाइन यथार्थवादी शरीर रचना और गुरुत्वाकर्षण का अनुसरण करती है, जिसमें शरीर के साथ बातचीत करने पर सूक्ष्म कपड़े का तनाव और सिलवटें होती हैं, बिना अतिरंजित आकार के। त्वचा प्राकृतिक और स्वस्थ दिखती है जिसमें दिखाई देने वाले छिद्र, महीन बनावट, नरम टोनल संक्रमण और हल्की खामियां हैं। गर्म इनडोर प्रकाश व्यवस्था बिना किसी चमकदार या प्लास्टिक प्रभाव के हल्की रोशनी बनाती है। बाल स्वाभाविक रूप से स्टाइल किए गए हैं, संदर्भ छवि के आकार और संरचना से बिल्कुल मेल खाते हैं, यथार्थवादी मात्रा और दिखाई देने वाले व्यक्तिगत बाल, बिना स्टाइल या बदलाव के। प्रकाश व्यवस्था गर्म, नरम और विसरित कैफे प्रकाश व्यवस्था है, जो ठोड़ी के नीचे और चेहरे के समोच्चों के साथ हल्की छाया उत्पन्न करती है। प्रकाश एक अंतरंग कैफे वातावरण के अनुरूप परिवेशी और प्राकृतिक लगता है। पृष्ठभूमि एक आरामदायक कैफे सेटिंग है जिसमें एक मोज़ेक टाइल की दीवार और इनडोर पौधे हैं, जो विषय से विचलित हुए बिना बनावट और वातावरण प्रदान करने के लिए हल्के से धुंधले हैं।",
+  "style": "फोटोरियलिस्टिक",
   "camera": {
-    "angle": "slightly low angle",
-    "perspective": "handheld selfie",
-    "position": "below eye level",
-    "lens_effect": "natural depth, shallow depth of field"
+    "angle": "थोड़ा लो एंगल",
+    "perspective": "हैंडहेल्ड सेल्फी",
+    "position": "आँखों के स्तर से नीचे",
+    "lens_effect": "प्राकृतिक गहराई, उथली गहराई का क्षेत्र"
   },
   "lighting": {
-    "type": "warm indoor café lighting",
-    "quality": "soft and diffused",
-    "shadows": "gentle, natural facial contour shadows"
+    "type": "गर्म इनडोर कैफे प्रकाश व्यवस्था",
+    "quality": "नरम और विसरित",
+    "shadows": "हल्की, प्राकृतिक चेहरे की समोच्च छाया"
   },
   "environment": {
-    "location": "cozy café",
+    "location": "आरामदायक कैफे",
     "background_elements": [
-      "mosaic tile wall",
-      "indoor plants"
+      "मोज़ेक टाइल की दीवार",
+      "इनडोर पौधे"
     ],
-    "background_focus": "softly blurred"
+    "background_focus": "हल्के से धुंधला"
   },
   "subject": {
     "age": 25,
-    "expression": "subtle playful half-smile",
-    "eye_direction": "looking at camera",
-    "skin": "natural texture with visible pores and imperfections",
-    "hair": "natural styling, realistic volume, visible strands"
+    "expression": "सूक्ष्म चंचल आधी मुस्कान",
+    "eye_direction": "कैमरे की ओर देख रही है",
+    "skin": "दिखाई देने वाले छिद्रों और खामियों के साथ प्राकृतिक बनावट",
+    "hair": "प्राकृतिक स्टाइलिंग, यथार्थवादी मात्रा, दिखाई देने वाले बाल"
   },
   "clothing": {
-    "top": "deep blue low-cut halter top",
-    "fabric": "realistic texture and natural drape"
+    "top": "गहरा नीला लो-कट हॉल्टर टॉप",
+    "fabric": "यथार्थवादी बनावट और प्राकृतिक ड्रेप"
   },
   "quality": {
-    "realism": "high",
-    "detail_level": "ultra-detailed",
-    "rendering": "photorealistic"
+    "realism": "उच्च",
+    "detail_level": "अल्ट्रा-विस्तृत",
+    "rendering": "फोटोरियलिस्टिक"
   }
 }
 ```
@@ -1025,7 +1026,7 @@ A highly detailed prompt for generating a photorealistic, low-angle, handheld se
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166862466_xag2uk_G9WYJ1oWIAAZfki.jpg" width="600" alt="प्रोफ़ाइल / अवतार - Photorealistic Low-Angle Café Selfie - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166862466_xag2uk_G9WYJ1oWIAAZfki.jpg" width="600" alt="प्रोफ़ाइल / अवतार - फोटोरियलिस्टिक लो-एंगल कैफे सेल्फी - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1176,69 +1177,69 @@ A highly detailed prompt for generating a photorealistic, low-angle, handheld se
 
 ---
 
-### No. 6: प्रोफ़ाइल / अवतार - Bathroom Mirror Selfie Lifestyle Shot
+### No. 6: प्रोफ़ाइल / अवतार - बाथरूम मिरर सेल्फी लाइफस्टाइल शॉट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 विवरण
 
-A prompt for generating a photorealistic, casual lifestyle snapshot simulating a smartphone mirror selfie. It features a young woman seated on a white marble bathroom counter in a black bodysuit, captured from a rear 3/4 view with a playful expression. It includes specific camera controls (DWPose, ZoeDepth) and a detailed negative prompt to ensure realism and avoid common AI artifacts.
+एक फोटो-रियलिस्टिक, कैज़ुअल लाइफस्टाइल स्नैपशॉट बनाने के लिए एक प्रॉम्प्ट जो स्मार्टफोन मिरर सेल्फी का अनुकरण करता है। इसमें एक युवा महिला काले बॉडीसूट में सफेद संगमरमर के बाथरूम काउंटर पर बैठी हुई है, जिसे पीछे के 3/4 व्यू से चंचल अभिव्यक्ति के साथ कैप्चर किया गया है। इसमें विशिष्ट कैमरा नियंत्रण (DWPose, ZoeDepth) और यथार्थवाद सुनिश्चित करने और सामान्य AI कलाकृतियों से बचने के लिए एक विस्तृत नकारात्मक प्रॉम्प्ट शामिल है।
 
 #### 📝 प्रॉम्पट
 
 ```
 {
   "subject": {
-    "description": "Young woman with long straight dark brown hair seated on a bathroom counter.",
-    "attire": "Black matte high-cut open-back bodysuit.",
-    "anatomy": "Emphasis on hips, thighs, and glutes from seated angle; natural tan skin.",
-    "accessories": "Gold clover chain bracelet.",
-    "makeup": "Natural glam with eyeliner and matte lips."
+    "description": "लंबे, सीधे गहरे भूरे बालों वाली एक युवती बाथरूम काउंटर पर बैठी है।",
+    "attire": "काले रंग का मैट हाई-कट ओपन-बैक बॉडीसूट।",
+    "anatomy": "बैठे हुए कोण से कूल्हों, जांघों और नितंबों पर जोर; प्राकृतिक टैन त्वचा।",
+    "accessories": "सोने की क्लोवर चेन ब्रेसलेट।",
+    "makeup": "आईलाइनर और मैट होंठों के साथ प्राकृतिक ग्लैमर।"
   },
   "pose": {
-    "type": "Seated mirror selfie",
-    "orientation": "Rear 3/4 view, torso twisted toward mirror",
-    "expression": "Playful, tongue out",
-    "arms": "Right hand holding phone, left resting",
-    "legs": "One knee bent in foreground",
-    "spine": "Natural seated arch"
+    "type": "बैठी हुई मिरर सेल्फी",
+    "orientation": "पीछे से 3/4 दृश्य, धड़ दर्पण की ओर मुड़ा हुआ",
+    "expression": "चंचल, जीभ बाहर",
+    "arms": "दाहिने हाथ में फोन, बायां हाथ आराम की मुद्रा में",
+    "legs": "एक घुटना सामने की ओर मुड़ा हुआ",
+    "spine": "प्राकृतिक बैठी हुई मेहराब"
   },
   "environment": {
-    "location": "Modern bright bathroom",
-    "features": "White marble counter, glass shower, freestanding tub, small windows, wooden stool, recessed lights",
-    "floor": "White marble tile"
+    "location": "आधुनिक चमकदार बाथरूम",
+    "features": "सफेद संगमरमर का काउंटर, कांच का शॉवर, फ्रीस्टैंडिंग टब, छोटी खिड़कियां, लकड़ी का स्टूल, रीसेस्ड लाइट्स",
+    "floor": "सफेद संगमरमर की टाइल"
   },
   "camera": {
-    "type": "Smartphone mirror selfie",
-    "lens": "Wide (~26mm equiv)",
-    "dof": "Deep focus",
-    "device": "iPhone with dark patterned case"
+    "type": "स्मार्टफोन मिरर सेल्फी",
+    "lens": "वाइड (~26mm समतुल्य)",
+    "dof": "डीप फोकस",
+    "device": "गहरे पैटर्न वाले केस वाला iPhone"
   },
   "lighting": {
     "sources": [
-      "Ceiling downlights",
-      "Window daylight"
+      "छत की डाउनलाइट्स",
+      "खिड़की से दिन का प्रकाश"
     ],
-    "quality": "Bright, even, cool-neutral"
+    "quality": "चमकीला, समान, कूल-न्यूट्रल"
   },
   "output": {
     "ratio": "3:4",
-    "orientation": "Portrait",
-    "style": "Photorealistic casual snapshot"
+    "orientation": "पोर्ट्रेट",
+    "style": "फोटोरियलिस्टिक कैजुअल स्नैपशॉट"
   },
   "controls": {
     "pose": "DWPose (1.0)",
     "depth": "ZoeDepth (0.8)"
   },
   "negative_prompt": [
-    "body averaging",
-    "slimmed proportions",
-    "closed mouth",
-    "cinematic lighting",
-    "blur",
-    "low resolution",
-    "illustration",
-    "3d render"
+    "बॉडी एवरेजिंग",
+    "स्लिम्ड अनुपात",
+    "बंद मुंह",
+    "सिनेमैटिक लाइटिंग",
+    "ब्लर",
+    "कम रिज़ॉल्यूशन",
+    "इलस्ट्रेशन",
+    "3डी रेंडर"
   ]
 }
 ```
@@ -1248,7 +1249,7 @@ A prompt for generating a photorealistic, casual lifestyle snapshot simulating a
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166855237_2tdrj3_G9VdZWmXcAAT_cb.jpg" width="600" alt="प्रोफ़ाइल / अवतार - Bathroom Mirror Selfie Lifestyle Shot - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166855237_2tdrj3_G9VdZWmXcAAT_cb.jpg" width="600" alt="प्रोफ़ाइल / अवतार - बाथरूम मिरर सेल्फी लाइफस्टाइल शॉट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2347,93 +2348,94 @@ A prompt for generating a photorealistic, casual lifestyle snapshot simulating a
 
 ---
 
-### No. 23: सोशल मीडिया पोस्ट - Cinematic Yacht Portrait in Crimson Silk at Golden Hour
+### No. 23: सोशल मीडिया पोस्ट - गोल्डन आवर में क्रिमसन सिल्क में सिनेमैटिक यॉट पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A highly detailed, structured prompt for generating an ultra-photorealistic cinematic portrait of an athletic woman on a luxury yacht deck at sunset. The prompt emphasizes dynamic movement of a massive crimson silk drape due to strong wind, low-angle framing, and sensual details, rendered with an Arri Alexa LF aesthetic.
+एक एथलेटिक महिला का सूर्यास्त के समय एक लक्जरी नौका के डेक पर एक अति-फोटोरियलिस्टिक सिनेमाई पोर्ट्रेट बनाने के लिए एक अत्यधिक विस्तृत, संरचित प्रॉम्प्ट। प्रॉम्प्ट में तेज़ हवा के कारण एक विशाल गहरे लाल रेशमी पर्दे की गतिशील गति, लो-एंगल फ्रेमिंग और कामुक विवरण पर ज़ोर दिया गया है, जिसे Arri Alexa LF सौंदर्यशास्त्र के साथ प्रस्तुत किया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
 {
-  "image_type": "Ultra-Photorealistic Cinematic Portrait",
-  "meta": {
-    "aspect_ratio": "3:4",
-    "quality": "photorealistic, hyperdetailed, cinematic light",
-    "camera": "Arri Alexa LF, 85mm prime lens",
-    "resolution": "8k",
-    "lens": "soft focus on background, razor-sharp on subject and fabric",
-    "style": "Opulent, dramatic lighting, dynamic movement"
-  },
-  "scene": {
-    "location": "Aft deck of a luxury yacht",
-    "environment": "Open ocean, smooth teak decking, polished mahogany railing",
-    "time": "Sunset (Golden Hour), strong dynamic wind",
-    "atmosphere": "Sensual, dynamic, rich, solitary"
-  },
-  "camera_perspective": {
-    "pov": "Slightly below eye level",
-    "angle": "Low angle to emphasize stature and the upward movement of fabric",
-    "framing": "Full body to capture the entire flow of the silk",
-    "lens_effect": "Subtle lens flare from the setting sun, cinematic depth of field",
-    "focus_priority": "The movement of the silk and the subject's expression",
-    "phone_visibility": "None"
-  },
-  "subject": {
-    "gender": "Female",
-    "age": "28-35",
-    "ethnicity": "Mediterranean/Tanned skin",
-    "body": {
-      "type": "Athletic and curvaceous",
-      "waist": "Defined",
-      "chest": "Full (partially exposed side or underboob due to draping)",
-      "hips": "Curvy",
-      "ass": "Round and firm",
-      "skin": "Sun-kissed, glistening with sea moisture"
-    },
-    "pose": {
-      "position": "Leaning against a railing, weight on one leg",
-      "stance": "Relaxed yet powerful, elegant posture",
-      "upper_body": "Torso slightly twisted away from the camera",
-      "lower_body": "Implied revealing contours beneath the silk drape",
-      "legs": "One knee slightly bent (hip cocked)",
-      "arms": "One arm relaxed at her side, the other hand lightly touches the silk",
-      "shoulders": "Bare and slightly raised (suggesting tension)",
-      "energy": "Dynamic tension due to the wind movement"
-    },
-    "expression": {
-      "eyes": "Smoldering/Intense",
-      "gaze": "Looking slightly off-camera toward the horizon",
-      "mouth": "Softly parted, suggestive smile",
-      "face_vibe": "Confident and empowered"
-    },
-    "hair": {
-      "color": "Dark chestnut",
-      "style": "Long, tousled waves",
-      "behavior": "Slightly wind-blown, catching the rim light"
-    },
-    "outfit": {
-      "top": {
-        "type": "Luxurious, massive draped silk scarf/wrap (heavy flow)",
-        "pattern": "Solid",
-        "colors": [
-          "{argument name=\"silk color 1\" default=\"Crimson\"}",
-          "{argument name=\"silk color 2\" default=\"Burgundy\"}"
-        ],
-        "fabric": "Heavy pure silk, high sheen",
-        "cut_details": "Draped loosely across the chest and shoulders, momentary reveal of skin due to wind (side-boob/under-boob outline)",
-        "fit": "Loose and flowing",
-        "support": "Implied strapless bra/minimalist base layer (mostly obscured)"
-      },
-      "bottom": {
-        "type": "Draped silk wrap (sarong style)",
-        "pattern": "{argument name=\"bottom pattern\" default=\"Solid\"}"
-      }
-    }
+  "image_type": "अल्ट्रा-फोटोरियलिस्टिक सिनेमैटिक पोर्ट्रेट",
+  "meta": {
+    "aspect_ratio": "3:4",
+    "quality": "फोटोरियलिस्टिक, हाइपरडिटेल्ड, सिनेमैटिक लाइट",
+    "camera": "एरी एलेक्सा एलएफ, 85mm प्राइम लेंस",
+    "resolution": "8k",
+    "lens": "बैकग्राउंड पर सॉफ्ट फोकस, सब्जेक्ट और फैब्रिक पर रेजर-शार्प",
+    "style": "भव्य, नाटकीय प्रकाश व्यवस्था, गतिशील गति"
+  },
+  "scene": {
+    "location": "एक लक्जरी नौका का पिछला डेक",
+    "environment": "खुला महासागर, चिकनी टीक डेकिंग, पॉलिश की हुई महोगनी रेलिंग",
+    "time": "सूर्यास्त (गोल्डन आवर), तेज गतिशील हवा",
+    "atmosphere": "संवेदी, गतिशील, समृद्ध, एकाकी"
+  },
+  "camera_perspective": {
+    "pov": "आँखों के स्तर से थोड़ा नीचे",
+    "angle": "कद और कपड़े की ऊपर की ओर गति पर जोर देने के लिए निम्न कोण",
+    "framing": "रेशम के पूरे प्रवाह को कैप्चर करने के लिए फुल बॉडी",
+    "lens_effect": "अस्त होते सूरज से सूक्ष्म लेंस फ्लेयर, सिनेमैटिक डेप्थ ऑफ फील्ड",
+    "focus_priority": "रेशम की गति और सब्जेक्ट की अभिव्यक्ति",
+    "phone_visibility": "कुछ नहीं"
+  },
+  "subject": {
+    "gender": "महिला",
+    "age": "28-35",
+    "ethnicity": "भूमध्यसागरीय/टैन त्वचा",
+    "body": {
+      "type": "एथलेटिक और सुडौल",
+      "waist": "परिभाषित",
+      "chest": "भरा हुआ (ड्रेपिंग के कारण आंशिक रूप से उजागर साइड या अंडरबूब)",
+      "hips": "सुडौल",
+      "ass": "गोल और सुदृढ़",
+      "skin": "धूप से चमकती, समुद्री नमी से चमकती हुई"
+    },
+    "pose": {
+      "position": "रेलिंग के सहारे झुकी हुई, एक पैर पर वजन",
+      "stance": "शांत फिर भी शक्तिशाली, सुरुचिपूर्ण मुद्रा",
+      "upper_body": "धड़ कैमरे से थोड़ा मुड़ा हुआ",
+      "lower_body": "रेशम के ड्रेप के नीचे छिपे हुए सुडौल आकार",
+      "legs": "एक घुटना थोड़ा मुड़ा हुआ (कूल्हा उठा हुआ)",
+      "arms": "एक हाथ बगल में आराम से, दूसरा हाथ रेशम को हल्के से छूता हुआ",
+      "shoulders": "नंगे और थोड़े उठे हुए (तनाव का सुझाव देते हुए)",
+      "energy": "हवा की गति के कारण गतिशील तनाव"
+    },
+    "expression": {
+      "eyes": "सुलगती/तीव्र",
+      "gaze": "क्षितिज की ओर कैमरे से थोड़ा दूर देखती हुई",
+      "mouth": "धीरे से खुले हुए, मोहक मुस्कान",
+      "face_vibe": "आत्मविश्वासी और सशक्त"
+    },
+    "hair": {
+      "color": "गहरा चेस्टनट",
+      "style": "लंबे, उलझे हुए बाल",
+      "behavior": "हवा से थोड़े उड़े हुए, रिम लाइट को पकड़ते हुए"
+    },
+    "outfit": {
+      "top": {
+        "type": "शानदार, विशाल ड्रेप्ड सिल्क स्कार्फ/रैप (भारी प्रवाह)",
+        "pattern": "ठोस",
+        "colors": [
+          "{argument name=\"silk color 1\" default=\"Crimson\"}",
+          "{argument name=\"silk color 2\" default=\"Burgundy\"}"
+        ],
+        "fabric": "भारी शुद्ध रेशम, उच्च चमक",
+        "cut_details": "छाती और कंधों पर ढीले ढंग से लपेटा हुआ, हवा के कारण त्वचा का क्षणिक खुलासा (साइड-बूब/अंडर-बूब आउटलाइन)",
+        "fit": "ढीला और बहता हुआ",
+        "support": "निहित स्ट्रैपलेस ब्रा/मिनिमलिस्ट बेस लेयर (ज्यादातर ढका हुआ)"
+      },
+      "bottom": {
+        "type": "ड्रेप्ड सिल्क रैप (सारोंग स्टाइल)",
+        "pattern": "{argument name=\"bottom pattern\" default=\"Solid\"}"
+      }
+    }
+  }
 }
 ```
 
@@ -2442,7 +2444,7 @@ A highly detailed, structured prompt for generating an ultra-photorealistic cine
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166888578_lvsxhh_G9XtLKrXwAA3BPv.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cinematic Yacht Portrait in Crimson Silk at Golden Hour - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166888578_lvsxhh_G9XtLKrXwAA3BPv.jpg" width="600" alt="सोशल मीडिया पोस्ट - गोल्डन आवर में क्रिमसन सिल्क में सिनेमैटिक यॉट पोर्ट्रेट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2718,19 +2720,19 @@ A highly detailed, structured prompt for generating an ultra-photorealistic cine
 
 ---
 
-### No. 28: सोशल मीडिया पोस्ट - Wes Anderson Style Pop-Art Food Photography
+### No. 28: सोशल मीडिया पोस्ट - वेस एंडरसन स्टाइल पॉप-आर्ट फ़ूड फ़ोटोग्राफ़ी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A prompt for creating a playful, high-contrast pop-art food photograph in the style of Wes Anderson. It features a pink mousse cake on a pastel blue table against a pink background, with two hands holding cutlery symmetrically, emphasizing vivid pastel colors and sharp studio lighting with distinct shadows.
+वेस एंडरसन की शैली में एक चंचल, उच्च-कंट्रास्ट वाली पॉप-आर्ट फूड फोटोग्राफ बनाने के लिए एक प्रॉम्प्ट। इसमें गुलाबी पृष्ठभूमि के सामने एक पेस्टल नीली मेज पर एक गुलाबी मूस केक दिखाया गया है, जिसमें दो हाथ सममित रूप से कटलरी पकड़े हुए हैं, जो चमकीले पेस्टल रंगों और विशिष्ट छायाओं के साथ तेज स्टूडियो लाइटिंग पर जोर देते हैं।
 
 #### 📝 प्रॉम्पट
 
 ```
-"A playful pop-art food photography shot featuring a round {argument name="cake color" default="pink"} mousse cake topped with white cream swirls and fresh raspberries. The cake sits on a pastel blue table against a solid pastel pink background. Two hands emerge from behind the table holding a silver fork and knife vertically in the air, creating a quirky symmetrical composition. Hard studio lighting creates sharp, distinct shadows. Small purple waxflowers are scattered on the blue surface. High contrast, vivid pastel colors, Wes Anderson aesthetic."
+सफ़ेद क्रीम के घुमावों और ताज़ी रास्पबेरी से सजा एक गोल {argument name="cake color" default="गुलाबी"} मूस केक, जिसमें चंचल पॉप-आर्ट फ़ूड फ़ोटोग्राफ़ी का शॉट है। केक एक ठोस पेस्टल गुलाबी पृष्ठभूमि के सामने एक पेस्टल नीली मेज पर रखा है। मेज के पीछे से दो हाथ हवा में एक चांदी का कांटा और चाकू लंबवत पकड़े हुए निकलते हैं, जिससे एक अनोखी सममित रचना बनती है। कठोर स्टूडियो लाइटिंग तेज, विशिष्ट छाया बनाती है। नीली सतह पर छोटे बैंगनी वैक्सफ्लावर बिखरे हुए हैं। उच्च कंट्रास्ट, चमकीले पेस्टल रंग, वेस एंडरसन सौंदर्यशास्त्र।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -2738,25 +2740,25 @@ A prompt for creating a playful, high-contrast pop-art food photograph in the st
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166851365_sxnagg_G9XBpmrX0AArxf_.jpg" width="600" alt="सोशल मीडिया पोस्ट - Wes Anderson Style Pop-Art Food Photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166851365_sxnagg_G9XBpmrX0AArxf_.jpg" width="600" alt="सोशल मीडिया पोस्ट - वेस एंडरसन स्टाइल पॉप-आर्ट फ़ूड फ़ोटोग्राफ़ी - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166852056_8xkeg6_G9XBpmpXIAAG4Xz.jpg" width="600" alt="सोशल मीडिया पोस्ट - Wes Anderson Style Pop-Art Food Photography - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767166852056_8xkeg6_G9XBpmpXIAAG4Xz.jpg" width="600" alt="सोशल मीडिया पोस्ट - वेस एंडरसन स्टाइल पॉप-आर्ट फ़ूड फ़ोटोग्राफ़ी - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166854030_u0xq8y_G9XBpm3WsAA3Tnq.jpg" width="600" alt="सोशल मीडिया पोस्ट - Wes Anderson Style Pop-Art Food Photography - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767166854030_u0xq8y_G9XBpm3WsAA3Tnq.jpg" width="600" alt="सोशल मीडिया पोस्ट - वेस एंडरसन स्टाइल पॉप-आर्ट फ़ूड फ़ोटोग्राफ़ी - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166854621_fgzm9q_G9XBpmqXYAAovuK.jpg" width="600" alt="सोशल मीडिया पोस्ट - Wes Anderson Style Pop-Art Food Photography - Image 4">
+<img src="https://cms-assets.youmind.com/media/1767166854621_fgzm9q_G9XBpmqXYAAovuK.jpg" width="600" alt="सोशल मीडिया पोस्ट - वेस एंडरसन स्टाइल पॉप-आर्ट फ़ूड फ़ोटोग्राफ़ी - Image 4">
 </div>
 
 #### 📌 विवरण
@@ -2935,13 +2937,13 @@ A prompt for creating a playful, high-contrast pop-art food photograph in the st
 
 ---
 
-### No. 31: सोशल मीडिया पोस्ट - Ultra Realistic Fashion Editorial with Identity and Scene Preservation
+### No. 31: सोशल मीडिया पोस्ट - पहचान और दृश्य संरक्षण के साथ अल्ट्रा रियलिस्टिक फैशन संपादकीय
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 विवरण
 
-A complex, structured prompt designed for image generation models like Nano Banana Pro, focusing on recreating a specific scene and pose from a reference image while strictly preserving the identity of the subject from a separate face reference image, resulting in an ultra-realistic, high-contrast fashion editorial.
+एक जटिल, संरचित प्रॉम्प्ट जिसे नैनो बनाना प्रो (Nano Banana Pro) जैसे इमेज जनरेशन मॉडल के लिए डिज़ाइन किया गया है, जो एक संदर्भ इमेज से एक विशिष्ट दृश्य और पोज़ को फिर से बनाने पर केंद्रित है, जबकि एक अलग चेहरे की संदर्भ इमेज से विषय की पहचान को सख्ती से बनाए रखता है, जिसके परिणामस्वरूप एक अल्ट्रा-रियलिस्टिक, हाई-कॉन्ट्रास्ट फैशन एडिटोरियल बनता है।
 
 #### 📝 प्रॉम्पट
 
@@ -2954,8 +2956,8 @@ A complex, structured prompt designed for image generation models like Nano Bana
     "face_reference_image": "<YOUR_FACE_IMAGE>",
     "scene_reference_image": "<SCENE_IMAGE_2>"
   },
-  "prompt": "Ultra realistic fashion editorial. EXACT SAME FACE as face_reference_image, identical identity. Recreate scene exactly from scene_reference_image: outdoor setting with tall mirrored panels reflecting trees. Muscular shirtless man standing, carrying the woman horizontally over shoulders. Woman wearing light fabric dress, arms and legs extended. Same pose, same proportions, same camera angle and framing. High-contrast, sharp details, cinematic fashion look.",
-  "negative_prompt": "different face, identity drift, illustration, CGI, plastic skin, deformed body, extra limbs, wrong pose, wrong mirrors, text, watermark, blur",
+  "prompt": "अल्ट्रा रियलिस्टिक फैशन एडिटोरियल। face_reference_image जैसा ही चेहरा, समान पहचान। scene_reference_image से दृश्य को हूबहू दोबारा बनाएं: बाहर का माहौल जिसमें ऊंचे दर्पण वाले पैनल पेड़ों को दर्शा रहे हैं। एक मांसपेशी वाला शर्टलेस आदमी खड़ा है, महिला को क्षैतिज रूप से कंधों पर उठाए हुए है। महिला ने हल्के कपड़े की पोशाक पहनी है, हाथ और पैर फैले हुए हैं। वही मुद्रा, वही अनुपात, वही कैमरा एंगल और फ्रेमिंग। हाई-कॉन्ट्रास्ट, शार्प डिटेल्स, सिनेमैटिक फैशन लुक।",
+  "negative_prompt": "अलग चेहरा, पहचान में बदलाव, चित्रण, CGI, प्लास्टिक जैसी त्वचा, विकृत शरीर, अतिरिक्त अंग, गलत मुद्रा, गलत दर्पण, टेक्स्ट, वॉटरमार्क, धुंधलापन",
   "settings": {
     "aspect_ratio": "9:16",
     "resolution": { "width": 1024, "height": 1365 },
@@ -2965,7 +2967,7 @@ A complex, structured prompt designed for image generation models like Nano Bana
     "composition_match": "max",
     "identity_preservation": "max",
     "face_consistency": "max",
-    "reference_strength": { "face": 1.0, "scene": 0.98 },
+    "reference_strength": { "face": 1.0, "scene": 0.98 }
   }
 }
 ```
@@ -2975,13 +2977,13 @@ A complex, structured prompt designed for image generation models like Nano Bana
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166873259_t2jrrr_G9W7-REXgAAmW7A.jpg" width="600" alt="सोशल मीडिया पोस्ट - Ultra Realistic Fashion Editorial with Identity and Scene Preservation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166873259_t2jrrr_G9W7-REXgAAmW7A.jpg" width="600" alt="सोशल मीडिया पोस्ट - पहचान और दृश्य संरक्षण के साथ अल्ट्रा रियलिस्टिक फैशन संपादकीय - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166876575_p75l9r_G9W7-lEWwAAkP4-.jpg" width="600" alt="सोशल मीडिया पोस्ट - Ultra Realistic Fashion Editorial with Identity and Scene Preservation - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767166876575_p75l9r_G9W7-lEWwAAkP4-.jpg" width="600" alt="सोशल मीडिया पोस्ट - पहचान और दृश्य संरक्षण के साथ अल्ट्रा रियलिस्टिक फैशन संपादकीय - Image 2">
 </div>
 
 #### 📌 विवरण
@@ -3148,19 +3150,19 @@ A complex, structured prompt designed for image generation models like Nano Bana
 
 ---
 
-### No. 35: इन्फोग्राफिक / शैक्षिक विज़ुअल - 3D Isometric Atlas Scene in Firefly Style
+### No. 35: इन्फोग्राफिक / शैक्षिक विज़ुअल - फायरफ्लाई स्टाइल में 3D आइसोमेट्रिक एटलस सीन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A prompt for generating an epic 3D isometric atlas scene, where a massive ancient map erupts from a scroll, transforming into a living landscape with stacked civilizations and dramatic golden-hour lighting, rendered in an 8K Unreal Engine 5 style.
+एक विशाल प्राचीन मानचित्र एक स्क्रॉल से निकलता है, जो ढेर सारी सभ्यताओं और नाटकीय सुनहरी-घंटे की रोशनी के साथ एक जीवंत परिदृश्य में बदल जाता है, जिसे 8K अवास्तविक इंजन 5 शैली में प्रस्तुत किया गया है, एक महाकाव्य 3D आइसोमेट्रिक एटलस दृश्य उत्पन्न करने के लिए एक प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Epic 3D isometric atlas scene: a massive ancient map of {argument name="subject" default="[SUBJECT]"} erupts from an unfurled parchment scroll, filling nearly the entire frame. Ink lines ignite into living terrain: mountain ranges push upward, cities rise in vertical layers, rivers glow and flow, borders burn softly in gold. Multiple civilizations {argument name="civilization layers" default="[CIVILIZATION LAYERS]"} coexist in stacked time, their architectures phasing through one another as if time is folding. A carved timeline spirals across the map with engraved dates. All text in {argument name="language" default="[LANGUAGE]"}. Extreme scale contrast, dense micro-detail everywhere, dramatic golden-hour light, volumetric dust, cinematic depth, 8K, UE5.
+महाकाव्य 3D आइसोमेट्रिक एटलस दृश्य: {argument name="subject" default="[SUBJECT]"} का एक विशाल प्राचीन मानचित्र एक खुले हुए चर्मपत्र स्क्रॉल से निकलता है, जो लगभग पूरे फ्रेम को भर देता है। स्याही की रेखाएँ जीवंत भू-भाग में बदल जाती हैं: पर्वत श्रृंखलाएँ ऊपर उठती हैं, शहर ऊर्ध्वाधर परतों में उगते हैं, नदियाँ चमकती और बहती हैं, सीमाएँ सोने में धीरे से जलती हैं। कई सभ्यताएँ {argument name="civilization layers" default="[CIVILIZATION LAYERS]"} ढेर किए गए समय में सह-अस्तित्व में हैं, उनकी वास्तुकला एक-दूसरे से इस तरह गुजरती है जैसे समय मुड़ रहा हो। एक नक्काशीदार समयरेखा उत्कीर्ण तिथियों के साथ मानचित्र पर सर्पिल रूप से घूमती है। {argument name="language" default="[LANGUAGE]"} में सभी पाठ। अत्यधिक पैमाने का विरोधाभास, हर जगह सघन सूक्ष्म-विवरण, नाटकीय सुनहरी-घंटे की रोशनी, वॉल्यूमेट्रिक धूल, सिनेमाई गहराई, 8K, UE5।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -3168,25 +3170,25 @@ Epic 3D isometric atlas scene: a massive ancient map of {argument name="subject"
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166876854_pv0tv4_G9TrbHSWwAAkuce.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - 3D Isometric Atlas Scene in Firefly Style - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166876854_pv0tv4_G9TrbHSWwAAkuce.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - फायरफ्लाई स्टाइल में 3D आइसोमेट्रिक एटलस सीन - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166877142_a5i4br_G9Trz5bXEAAitgJ.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - 3D Isometric Atlas Scene in Firefly Style - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767166877142_a5i4br_G9Trz5bXEAAitgJ.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - फायरफ्लाई स्टाइल में 3D आइसोमेट्रिक एटलस सीन - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166878762_68vua9_G9Tr_D-WEAAX7I8.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - 3D Isometric Atlas Scene in Firefly Style - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767166878762_68vua9_G9Tr_D-WEAAX7I8.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - फायरफ्लाई स्टाइल में 3D आइसोमेट्रिक एटलस सीन - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166879792_gibnyc_G9TsQuAWMAEIruE.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - 3D Isometric Atlas Scene in Firefly Style - Image 4">
+<img src="https://cms-assets.youmind.com/media/1767166879792_gibnyc_G9TsQuAWMAEIruE.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - फायरफ्लाई स्टाइल में 3D आइसोमेट्रिक एटलस सीन - Image 4">
 </div>
 
 #### 📌 विवरण
@@ -3404,52 +3406,51 @@ Epic 3D isometric atlas scene: a massive ancient map of {argument name="subject"
 
 ---
 
-### No. 40: इन्फोग्राफिक / शैक्षिक विज़ुअल - Macro Diorama Historical Rivalry (Science Wars)
+### No. 40: इन्फोग्राफिक / शैक्षिक विज़ुअल - मैक्रो डियोरामा ऐतिहासिक प्रतिद्वंद्विता (विज्ञान युद्ध)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A complex, multi-phase prompt designed to generate a hyper-detailed macro diorama image illustrating a historical or modern rivalry (e.g., Elon Musk vs. a competitor). It requires integrating era-appropriate documents (the 'stage'), tiny figurines of the rivals in period clothing, giant tools, and critically, legible environmental text (identity anchors) to label the figures without floating text. This prompt is highly conceptual and structured.
+एक जटिल, बहु-चरण प्रॉम्प्ट जिसे किसी ऐतिहासिक या आधुनिक प्रतिद्वंद्विता (उदाहरण के लिए, एलन मस्क बनाम एक प्रतिस्पर्धी) को दर्शाने वाली एक अति-विस्तृत मैक्रो डियोरामा छवि बनाने के लिए डिज़ाइन किया गया है। इसमें युग-उपयुक्त दस्तावेज़ ('स्टेज'), अवधि के कपड़ों में प्रतिद्वंद्वियों की छोटी मूर्तियाँ, विशाल उपकरण और, महत्वपूर्ण रूप से, तैरते हुए टेक्स्ट के बिना आकृतियों को लेबल करने के लिए सुपाठ्य पर्यावरणीय टेक्स्ट (पहचान एंकर) को एकीकृत करने की आवश्यकता है। यह प्रॉम्प्ट अत्यधिक वैचारिक और संरचित है।
 
 #### 📝 प्रॉम्पट
 
 ```
-<instructions> 
-Input: Invention/Rivalry = {argument name="invention/rivalry" default="[User Choice]"}
+इनपुट: आविष्कार/प्रतिद्वंद्विता = {argument name="invention/rivalry" default="[उपयोगकर्ता की पसंद]"}
 
-Phase 1: Chronological Profiling
-Ancient (Pre-500 AD): Stone/Papyrus, Oil Lamps. Labeling = Carved symbols or scroll signatures.
-Renaissance (1400-1600): Parchment, Candlelight. Labeling = Wax seals, hand-lettered envelopes, book spines.
-Industrial (1800-1940): Blueprints, Gaslight. Labeling = Typed Patent headers, Business Cards, Newspaper Headlines.
-Modern (1950-Present): Circuit diagrams, Neon. Labeling = ID Badges, Magazine covers, Computer login screens.
+चरण 1: कालानुक्रमिक प्रोफाइलिंग
+प्राचीन (500 ईस्वी पूर्व): पत्थर/पपाइरस, तेल के दीपक। लेबलिंग = नक्काशीदार प्रतीक या स्क्रॉल हस्ताक्षर।
+पुनर्जागरण (1400-1600): चर्मपत्र, मोमबत्ती की रोशनी। लेबलिंग = मोम की मुहरें, हाथ से लिखे लिफाफे, किताबों की रीढ़।
+औद्योगिक (1800-1940): ब्लूप्रिंट, गैसलाइट। लेबलिंग = टाइप किए गए पेटेंट हेडर, बिजनेस कार्ड, अखबार की सुर्खियां।
+आधुनिक (1950-वर्तमान): सर्किट आरेख, नियॉन। लेबलिंग = आईडी बैज, पत्रिका के कवर, कंप्यूटर लॉगिन स्क्रीन।
 
-Phase 2:
-Goal: A hyper-detailed Macro Diorama where the environment identifies the rivals.
+चरण 2:
+लक्ष्य: एक अति-विस्तृत मैक्रो डियोरामा जहाँ वातावरण प्रतिद्वंद्वियों की पहचान करता है।
 
-1. The Stage (The Document):
- The ground is the primary design medium of the era (Clay Tablet, Parchment, Blueprint, or CAD Printout).
-The Invention:A 3D Prototype is rising from the center, separating the two figures.
+1. मंच (दस्तावेज़):
+  जमीन उस युग का प्राथमिक डिज़ाइन माध्यम है (मिट्टी की गोली, चर्मपत्र, ब्लूप्रिंट, या CAD प्रिंटआउट)।
+  आविष्कार: एक 3D प्रोटोटाइप केंद्र से ऊपर उठ रहा है, जो दोनों आकृतियों को अलग कर रहा है।
 
-2. The Living Miniatures: Two tiny, hyper-realistic figurines (The Rivals) interact with the invention.
-  They are dressed strictly in period-accurate clothing.
+2. जीवित लघुचित्र: दो छोटे, अति-यथार्थवादी लघुचित्र (प्रतिद्वंद्वी) आविष्कार के साथ बातचीत करते हैं।
+  वे पूरी तरह से उस युग के अनुरूप कपड़े पहने हुए हैं।
 
-3. The Identity Anchors (CRITICAL - Labeling):
-Instruction: You must seamlessly integrate readable text into the "Giant" props near each figure to identify them to the viewer.
-Prop A (Near Rival 1): Place a "Giant" personal item with their name visible. (e.g., A letter addressed to "Mr. T. Edison", a book titled "By C. Darwin", or a security badge reading "S. Jobs").
-Prop B (Near Rival 2):Do the same for the second figure. (e.g., A Patent application signed "Nikola Tesla", or a court summons for "Mark Zuckerberg").
-Context: These items must look like they were carelessly left on the desk, not floating labels.
+3. पहचान एंकर (महत्वपूर्ण - लेबलिंग):
+  निर्देश: आपको दर्शकों को उनकी पहचान बताने के लिए प्रत्येक आकृति के पास "विशाल" प्रॉप्स में पठनीय पाठ को सहजता से एकीकृत करना होगा।
+  प्रॉप A (प्रतिद्वंद्वी 1 के पास): उनके नाम के साथ एक "विशाल" व्यक्तिगत वस्तु रखें। (उदाहरण के लिए, "मिस्टर टी. एडिसन" को संबोधित एक पत्र, "बाय सी. डार्विन" शीर्षक वाली एक पुस्तक, या "एस. जॉब्स" लिखा हुआ एक सुरक्षा बैज)।
+  प्रॉप B (प्रतिद्वंद्वी 2 के पास): दूसरी आकृति के लिए भी ऐसा ही करें। (उदाहरण के लिए, "निकोलस टेस्ला" द्वारा हस्ताक्षरित एक पेटेंट आवेदन, या "मार्क जुकरबर्ग" के लिए एक अदालत का समन)।
+  संदर्भ: ये वस्तुएँ ऐसी दिखनी चाहिए जैसे उन्हें लापरवाही से डेस्क पर छोड़ दिया गया हो, न कि तैरते हुए लेबल हों।
 
-4. The "Giant" Atmosphere:
-The Tools: Giant-scale era-appropriate tools (Chisels, Quills, Soldering Irons) tower over the figures.
-The Clutter: Period-specific debris (Marble dust, Ink spills, Burnt fuses, Empty soda cans).
+4. "विशाल" वातावरण:
+  उपकरण: विशाल पैमाने के युग-उपयुक्त उपकरण (छेनी, पंख, सोल्डरिंग आयरन) आकृतियों के ऊपर खड़े हैं।
+  कचरा: युग-विशिष्ट मलबा (संगमरमर की धूल, स्याही के फैलाव, जले हुए फ्यूज, खाली सोडा के डिब्बे)।
 
-5. Technical Specs:
-Lighting: Era-appropriate source (Fire vs. Filament vs. LED).
-Perspective:Tilt-shift macro photography (45-degree angle). focus on the miniatures.
+5. तकनीकी विनिर्देश:
+  प्रकाश व्यवस्था: युग-उपयुक्त स्रोत (आग बनाम फिलामेंट बनाम LED)।
+  परिप्रेक्ष्य: टिल्ट-शिफ्ट मैक्रो फोटोग्राफी (45-डिग्री कोण)। लघुचित्रों पर ध्यान केंद्रित करें।
 
-Output: ONE image, 4:5 aspect ratio, photorealistic historical macro photography with legible environmental text. </instructions>
+आउटपुट: एक छवि, 4:5 पहलू अनुपात, सुपाठ्य पर्यावरणीय पाठ के साथ फोटोरियलिस्टिक ऐतिहासिक मैक्रो फोटोग्राफी।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -3457,13 +3458,13 @@ Output: ONE image, 4:5 aspect ratio, photorealistic historical macro photography
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166866151_b0xdhd_G9B-1KFWIAAuVhM.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - Macro Diorama Historical Rivalry (Science Wars) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166866151_b0xdhd_G9B-1KFWIAAuVhM.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - मैक्रो डियोरामा ऐतिहासिक प्रतिद्वंद्विता (विज्ञान युद्ध) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166866879_kr768n_G9B-1KFXMAA8otj.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - Macro Diorama Historical Rivalry (Science Wars) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767166866879_kr768n_G9B-1KFXMAA8otj.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - मैक्रो डियोरामा ऐतिहासिक प्रतिद्वंद्विता (विज्ञान युद्ध) - Image 2">
 </div>
 
 #### 📌 विवरण
@@ -3538,19 +3539,19 @@ Output: ONE image, 4:5 aspect ratio, photorealistic historical macro photography
 
 ---
 
-### No. 42: इन्फोग्राफिक / शैक्षिक विज़ुअल - Detective Evidence Board Generation
+### No. 42: इन्फोग्राफिक / शैक्षिक विज़ुअल - डिटेक्टिव एविडेंस बोर्ड जनरेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A prompt designed to generate a visual concept of a detective's evidence board, simulating an obsessive, late-night noir atmosphere. It details the cork board's contents: polaroids, maps, newspaper clippings, sticky notes, and red string connecting the evidence, emphasizing dramatic shadows from a single bare bulb and realistic clutter like coffee stains.
+एक जासूस के साक्ष्य बोर्ड की एक दृश्य अवधारणा उत्पन्न करने के लिए डिज़ाइन किया गया एक प्रॉम्प्ट, जो एक जुनूनी, देर रात के नॉयर (noir) वातावरण का अनुकरण करता है। इसमें कॉर्क बोर्ड की सामग्री का विवरण दिया गया है: पोलरॉइड, नक्शे, अख़बार की कतरनें, स्टिकी नोट्स और साक्ष्य को जोड़ने वाली लाल डोरी, जिसमें एक अकेले नंगे बल्ब से नाटकीय छाया और कॉफी के दाग जैसे यथार्थवादी अव्यवस्था पर ज़ोर दिया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-"A detective's evidence board investigating \\{argument name="subject/mystery" default="[SUBJECT/MYSTERY]"}\\\. Cork surface covered with pinned items: polaroid photographs with handwritten dates, a street map with circled locations, newspaper clippings with highlighted passages, sticky notes with theories and question marks, and printed documents with redacted black bars. Red string connects related evidence across the board, creating a web of connections. Thumbtacks in primary colors. A single bare bulb casts dramatic shadows. Coffee ring stains on some papers. The atmosphere is obsessive, late-night, noir—someone has been piecing this together for months. A few pins have fallen, suggesting frantic recent activity."
+एक जासूस का सबूत बोर्ड, जो \\{argument name="subject/mystery" default="[विषय/रहस्य]"}\\\ की जांच कर रहा है। कॉर्क की सतह पर पिन की हुई चीज़ें: हाथ से लिखी तारीखों वाली पोलरॉइड तस्वीरें, घेरे हुए स्थानों वाला एक सड़क का नक्शा, हाइलाइट किए गए अंशों वाली अख़बार की कटिंग, सिद्धांतों और प्रश्न चिह्नों वाले स्टिकी नोट्स, और काले बार से संपादित मुद्रित दस्तावेज़। लाल धागा बोर्ड पर संबंधित सबूतों को जोड़ता है, जिससे कनेक्शन का एक जाल बनता है। प्राथमिक रंगों में थंबटैक्स। एक अकेला नंगा बल्ब नाटकीय परछाइयाँ डालता है। कुछ कागज़ों पर कॉफ़ी के कप के निशान। माहौल जुनूनी, देर रात का, नॉयर है — कोई महीनों से इसे एक साथ जोड़ रहा है। कुछ पिन गिर गए हैं, जो हाल की frantic गतिविधि का सुझाव देते हैं।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -3558,7 +3559,7 @@ A prompt designed to generate a visual concept of a detective's evidence board, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166861840_f5kbrz_G9UejSfa0AAtmYj.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - Detective Evidence Board Generation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166861840_f5kbrz_G9UejSfa0AAtmYj.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - डिटेक्टिव एविडेंस बोर्ड जनरेशन - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3612,45 +3613,45 @@ LEGO-शैली के प्लास्टिक कंस्ट्रक्
 
 ---
 
-### No. 44: इन्फोग्राफिक / शैक्षिक विज़ुअल - नैनो बनाना प्रो प्रॉम्प्ट फॉर मॉड्यूलर बेंटो ग्रिड फूड इन्फोग्राफिक
+### No. 44: इन्फोग्राफिक / शैक्षिक विज़ुअल - बेंटो ग्रिड इन्फोग्राफिक प्रॉम्प्ट फॉर फूड साइंस
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक अत्यधिक संरचित, JSON-स्वरूपित प्रॉम्प्ट जिसे नैनो बनाना प्रो (Nano Banana Pro) के लिए डिज़ाइन किया गया है ताकि किसी विशिष्ट खाद्य सामग्री के बारे में एक पेशेवर, गर्मजोशी भरा और उच्च-स्तरीय शैक्षिक इन्फोग्राफिक तैयार किया जा सके। लेआउट पोषण, स्वास्थ्य लाभ, खाना पकाने के तरीके और भंडारण युक्तियों के लिए विशिष्ट अनुभागों के साथ एक मॉड्यूलर बेंटो ग्रिड (Bento Grid) डिज़ाइन का उपयोग करता है।
+एक विशिष्ट खाद्य सामग्री के बारे में उच्च-गुणवत्ता वाला, शैक्षिक इन्फोग्राफिक पोस्टर (9:16 आस्पेक्ट रेश्यो) बनाने के लिए डिज़ाइन किया गया Nano Banana Pro के लिए एक अत्यधिक संरचित JSON प्रॉम्प्ट। यह एक मॉड्यूलर 'Bento Grid' UI डिज़ाइन शैली का उपयोग करता है, जिसमें पोषण विश्लेषण, स्वास्थ्य लाभ, खाना पकाने के तरीके, मौसमी उपलब्धता, खाद्य युग्मन और भंडारण युक्तियों के लिए अनुभाग निर्दिष्ट किए गए हैं, जो सभी न्यूनतम सौंदर्य और गर्म, कम-संतृप्ति वाले रंग पैलेट के साथ प्रस्तुत किए गए हैं।
 
 #### 📝 प्रॉम्पट
 
 ```
 {
   "image_analysis": {
-    "subject": "{argument name=\"ingredient name\" default=\"Goji Berry\"} विज्ञान इन्फोग्राफिक, 9:16",
-    "style": "मॉड्यूलर बेंटो ग्रिड डिज़ाइन / मिनिमलिस्ट यूआई डिज़ाइन",
-    "tone": "पेशेवर, सौम्य, उच्च-स्तरीय, शैक्षिक",
-    "primary_colors": ["बेज", "क्रीम", "गहरा भूरा", "गर्म अर्थ टोन"]
+    "subject": "{argument name=\"ingredient name\" default=\"Goji Berry\"} के बारे में इन्फोग्राफिक, 9:16",
+    "style": "मॉड्यूलर बेंटो ग्रिड डिज़ाइन / मिनिमलिस्ट UI डिज़ाइन",
+    "tone": "पेशेवर, गर्मजोशी भरा, उच्च-स्तरीय, शैक्षिक",
+    "primary_colors": ["बेज", "क्रीम", "गहरा भूरा", "गर्म मिट्टी के रंग"]
   },
   "prompt_elements": {
-    "subject_description": "{argument name=\"ingredient name\" default=\"Goji Berry\"} के बारे में एक उच्च-गुणवत्ता वाला लोकप्रिय विज्ञान सूचना पोस्टर।",
-    "layout": "बेंटो बॉक्स शैली का मॉड्यूलर ग्रिड लेआउट, स्वच्छ यूआई/यूएक्स इंटरफ़ेस डिज़ाइन, स्पष्ट आयताकार कार्डों में विभाजित।",
+    "subject_description": "{argument name=\"ingredient name\" default=\"Goji Berry\"} के बारे में एक उच्च-गुणवत्ता वाला शैक्षिक इन्फोग्राफिक पोस्टर।",
+    "layout": "बेंटो बॉक्स शैली का मॉड्यूलर ग्रिड लेआउट, स्वच्छ UI/UX इंटरफ़ेस डिज़ाइन, स्पष्ट आयताकार कार्डों में विभाजित।",
     "visual_details": [
-      "शीर्ष पर एक आकर्षक, सुरुचिपूर्ण चीनी सुलेख शीर्षक 'सामग्री का चीनी नाम' और उसका वैज्ञानिक नाम वाला हेडर",
-      "शीर्ष केंद्र में [ताज़ी सामग्री का दृश्य विवरण] की एक अति-यथार्थवादी फोटोग्राफिक छवि",
-      "एक कोने में [उत्पत्ति/देश] का एक छोटा आउटलाइन मानचित्र",
-      "भाग 1: डोनट और बार चार्ट के साथ पोषण विश्लेषण, अनुपात दर्शाते हुए प्रतिशत",
-      "भाग 2: स्वास्थ्य लाभ दर्शाने वाला मानव सिल्हूट आरेख जिसमें कनेक्टिंग लाइनें हैं",
-      "भाग 3: मिनिमलिस्ट लाइन आइकन ([खाना पकाने की विधि 1], [खाना पकाने की विधि 2], [खाना पकाने की विधि 3]) के साथ खाना पकाने की विधि मैट्रिक्स",
-      "भाग 4: गोलाकार चार्ट के साथ मौसमी खपत मार्गदर्शिका",
-      "भाग 5: सरल आइकन ([पेयरिंग 1], [पेयरिंग 2], [पेयरिंग 3]) के साथ फ़ूड पेयरिंग ग्रिड",
-      "भाग 6: लक्षित दर्शक प्रोफ़ाइल आइकन",
-      "भाग 7: तापमान और मौसम आइकन के साथ भंडारण और चयन मार्गदर्शिका"
+      "शीर्ष पर एक आकर्षक, सुरुचिपूर्ण चीनी सुलेख शीर्षक 'Ingredient Chinese Name' और उसका वैज्ञानिक नाम",
+      "केंद्र के शीर्ष पर [ताजी सामग्री का दृश्य विवरण] की एक अति-यथार्थवादी फोटोग्राफिक छवि",
+      "कोने में [उत्पत्ति/देश] का एक छोटा रूपरेखा मानचित्र",
+      "अनुभाग 1: डोनट चार्ट और बार चार्ट के साथ पोषण विश्लेषण, अनुपात दर्शाते हुए प्रतिशत",
+      "अनुभाग 2: स्वास्थ्य लाभों को दर्शाने वाला मानव सिल्हूट आरेख जिसमें कनेक्टिंग लाइनें हैं",
+      "अनुभाग 3: मिनिमलिस्ट लाइन आइकन ([Cooking Method 1], [Cooking Method 2], [Cooking Method 3]) के साथ खाना पकाने की विधि मैट्रिक्स",
+      "अनुभाग 4: गोलाकार चार्ट के साथ मौसमी उपभोग मार्गदर्शिका",
+      "अनुभाग 5: सरल आइकन ([Pairing 1], [Pairing 2], [Pairing 3]) के साथ खाद्य युग्मन ग्रिड",
+      "अनुभाग 6: लक्षित दर्शक प्रोफ़ाइल आइकन",
+      "अनुभाग 7: तापमान और मौसम आइकन के साथ भंडारण और चयन मार्गदर्शिका"
     ],
-    "art_style": "मिनिमलिस्ट ग्राफिक डिज़ाइन, उत्पाद फोटोग्राफी के साथ संयुक्त सॉफ्ट वेक्टर इलस्ट्रेशन, फ्लैट डिज़ाइन आइकन, स्वच्छ टाइपोग्राफी।",
-    "lighting": "सॉफ्ट डिफ्यूज्ड स्टूडियो लाइटिंग, शैडोलेस और फ्लैट एस्थेटिक स्टाइल।",
-    "color_palette": "मोनोक्रोमैटिक गर्म बेज पृष्ठभूमि, क्रीमी सफेद कार्ड, गहरा भूरा और चारकोल ग्रे टेक्स्ट, सॉफ्ट एक्सेंट।"
+    "art_style": "मिनिमलिस्ट ग्राफिक डिज़ाइन, उत्पाद फोटोग्राफी के साथ संयुक्त सॉफ्ट वेक्टर चित्रण, फ्लैट डिज़ाइन आइकन, स्वच्छ टाइपोग्राफी।",
+    "lighting": "सॉफ्ट डिफ्यूज्ड स्टूडियो लाइटिंग, शैडोलेस और फ्लैट ले एस्थेटिक।",
+    "color_palette": "मोनोक्रोमैटिक गर्म बेज पृष्ठभूमि, ऑफ-व्हाइट कार्ड, गहरा भूरा और चारकोल ग्रे टेक्स्ट, सॉफ्ट एक्सेंट।"
   },
-  "negative_prompt": "अव्यवस्थित, नियॉन रंग, गन्दा लेआउट, कम रिज़ॉल्यूशन, धुंधला, विकृत टेक्स्ट, 3डी रेंडरिंग, गहरा बैकग्राउंड, अराजकता, अतिसंतृप्ति, वॉटरमार्क"
+  "negative_prompt": "अव्यवस्थित, नियॉन रंग, गन्दा लेआउट, कम रिज़ॉल्यूशन, धुंधला, विकृत टेक्स्ट, 3D रेंडरिंग, गहरा बैकग्राउंड, अराजकता, अतिसंतृप्त, वॉटरमार्क"
 }
 ```
 
@@ -3659,19 +3660,19 @@ LEGO-शैली के प्लास्टिक कंस्ट्रक्
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166985995_xxqxoh_G9Q7Z2IasAEXVDU.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - नैनो बनाना प्रो प्रॉम्प्ट फॉर मॉड्यूलर बेंटो ग्रिड फूड इन्फोग्राफिक - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166985995_xxqxoh_G9Q7Z2IasAEXVDU.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - बेंटो ग्रिड इन्फोग्राफिक प्रॉम्प्ट फॉर फूड साइंस - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166987096_9o5vxf_G9Q7Z2PasAAYRcp.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - नैनो बनाना प्रो प्रॉम्प्ट फॉर मॉड्यूलर बेंटो ग्रिड फूड इन्फोग्राफिक - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767166987096_9o5vxf_G9Q7Z2PasAAYRcp.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - बेंटो ग्रिड इन्फोग्राफिक प्रॉम्प्ट फॉर फूड साइंस - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166986899_mmtyvb_G9Q7Z2JbYAABPoc.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - नैनो बनाना प्रो प्रॉम्प्ट फॉर मॉड्यूलर बेंटो ग्रिड फूड इन्फोग्राफिक - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767166986899_mmtyvb_G9Q7Z2JbYAABPoc.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - बेंटो ग्रिड इन्फोग्राफिक प्रॉम्प्ट फॉर फूड साइंस - Image 3">
 </div>
 
 #### 📌 विवरण
@@ -3912,19 +3913,19 @@ Nano Banana Pro के लिए 15 विशेष प्रॉम्प्ट 
 
 ---
 
-### No. 49: YouTube थंबनेल - Yakuza Portrait with Irezumi Tattoos
+### No. 49: YouTube थंबनेल - इरेज़ुमी टैटू के साथ याकूब का चित्र
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A prompt for generating an extreme close-up, intimate cinematic portrait of a Japanese Yakuza member. The focus is on his piercing cold eyes and intricate, vibrant traditional Irezumi tattoos (phoenix, dragon, oni mask) visible on his neck and face. It requires dramatic low-key lighting with rim light to emphasize the eyes and tattoos, creating a moody, tense, photorealistic atmosphere.
+एक जापानी याकूब सदस्य का अत्यधिक क्लोज-अप, अंतरंग सिनेमाई पोर्ट्रेट बनाने के लिए एक प्रॉम्प्ट। ध्यान उसकी तीखी ठंडी आँखों और उसकी गर्दन और चेहरे पर दिखाई देने वाले जटिल, जीवंत पारंपरिक इरेज़ुमी टैटू (फीनिक्स, ड्रैगन, ओनी मास्क) पर है। आँखों और टैटू पर जोर देने के लिए रिम लाइट के साथ नाटकीय लो-की लाइटिंग की आवश्यकता है, जिससे एक मूडी, तनावपूर्ण, फोटोरियलिस्टिक माहौल बने।
 
 #### 📝 प्रॉम्पट
 
 ```
-Extreme close-up intimate portrait of a Japanese yakuza member, late-30s man with intensely piercing cold eyes dominating the frame as the absolute focal point, subtle fierce and calculating expression, unblinking direct gaze into the camera conveying quiet danger and depth, highly detailed irises with sharp reflections, intricate traditional irezumi tattoos prominently visible on neck rising to jawline and partially on lower face/cheeks ({argument name="tattoo motifs" default="phoenix, crashing waves, cherry blossoms, dragon coils, and oni mask"} in vibrant classic tebori style), open collared dark suit revealing tattoo edges, slicked-back black hair, subtle facial scar on cheek, realistic pores and skin texture, dramatic low-key cinematic lighting with rim light highlighting eyes and tattoos, moody tense atmosphere, photorealistic, ultra-detailed
+एक जापानी याकूब सदस्य का अत्यधिक क्लोज-अप अंतरंग चित्र, 30 के दशक के अंत का एक व्यक्ति जिसकी तीव्र भेदी ठंडी आँखें फ्रेम पर हावी हैं जो पूर्ण केंद्र बिंदु हैं, सूक्ष्म उग्र और गणनात्मक अभिव्यक्ति, कैमरे में बिना पलक झपकाए सीधी नज़र जो शांत खतरे और गहराई को दर्शाती है, तेज प्रतिबिंबों के साथ अत्यधिक विस्तृत परितारिका, गर्दन से जबड़े तक और आंशिक रूप से निचले चेहरे/गालों पर ({argument name="tattoo motifs" default="फीनिक्स, टकराती लहरें, चेरी ब्लॉसम, ड्रैगन कॉइल्स, और ओनी मास्क"} जीवंत क्लासिक तेबोरी शैली में) प्रमुख रूप से दिखाई देने वाले जटिल पारंपरिक इरेज़ुमी टैटू, टैटू के किनारों को उजागर करने वाला खुला कॉलर वाला गहरा सूट, चिकने काले बाल, गाल पर सूक्ष्म चेहरे का निशान, यथार्थवादी छिद्र और त्वचा की बनावट, आँखों और टैटू को उजागर करने वाली रिम लाइट के साथ नाटकीय लो-की सिनेमाई प्रकाश व्यवस्था, मूडी तनावपूर्ण माहौल, फोटोरियलिस्टिक, अल्ट्रा-विस्तृत।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -3932,7 +3933,7 @@ Extreme close-up intimate portrait of a Japanese yakuza member, late-30s man wit
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166855605_due4qe_G9Wyq23XkAAKheB.jpg" width="600" alt="YouTube थंबनेल - Yakuza Portrait with Irezumi Tattoos - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166855605_due4qe_G9Wyq23XkAAKheB.jpg" width="600" alt="YouTube थंबनेल - इरेज़ुमी टैटू के साथ याकूब का चित्र - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3946,18 +3947,18 @@ Extreme close-up intimate portrait of a Japanese yakuza member, late-30s man wit
 
 ---
 
-### No. 50: YouTube थंबनेल - Black and White Cinematic Motion Portrait
+### No. 50: YouTube थंबनेल - ब्लैक एंड व्हाइट सिनेमैटिक मोशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 विवरण
 
-A prompt for creating an ultra-realistic, high-contrast black-and-white cinematic portrait of a young man walking through a busy city at night. The key feature is the dramatic motion blur of the surrounding crowd, isolating the sharply focused subject and creating a moody, film-noir aesthetic with soft urban bokeh lights.
+रात में एक व्यस्त शहर से गुजरते हुए एक युवा व्यक्ति के अल्ट्रा-रियलिस्टिक, हाई-कॉन्ट्रास्ट ब्लैक-एंड-व्हाइट सिनेमैटिक पोर्ट्रेट बनाने के लिए एक प्रॉम्प्ट। इसकी मुख्य विशेषता आसपास की भीड़ का नाटकीय मोशन ब्लर है, जो तीखे फोकस वाले विषय को अलग करता है और सॉफ्ट अर्बन बोकेह लाइट्स के साथ एक मूडी, फिल्म-नोयर सौंदर्य बनाता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Create an ultra-realistic black-and-white cinematic portrait of a young man walking through a busy night-time city - use face reference exactly. He remains sharply in focus while the crowd around him blurs into dynamic motion, creating a striking sense of isolation, depth, and introspection. Soft urban lights form abstract bokeh streaks behind him, enhancing the moody atmosphere. His expression is intense and thoughtful, hair slightly tousled, wearing a dark coat layered over a loosely unbuttoned shirt. High-contrast lighting, shallow depth of field, dramatic motion blur, film-noir aesthetic, and clean poster-style framing with crisp 8K realism.
+एक व्यस्त रात के शहर में चलते हुए एक युवा व्यक्ति का अति-यथार्थवादी ब्लैक-एंड-व्हाइट सिनेमाई पोर्ट्रेट बनाएं - चेहरे के संदर्भ का बिल्कुल उपयोग करें। वह तीक्ष्ण फोकस में रहता है जबकि उसके आस-पास की भीड़ गतिशील गति में धुंधली हो जाती है, जिससे अलगाव, गहराई और आत्मनिरीक्षण की एक अद्भुत भावना पैदा होती है। उसके पीछे नरम शहरी रोशनी अमूर्त बोकेह धारियाँ बनाती है, जो उदास माहौल को बढ़ाती है। उसकी अभिव्यक्ति तीव्र और विचारशील है, बाल थोड़े बिखरे हुए हैं, उसने एक ढीली बिना बटन वाली शर्ट के ऊपर एक गहरा कोट पहना हुआ है। उच्च-कंट्रास्ट प्रकाश व्यवस्था, उथली गहराई का क्षेत्र, नाटकीय मोशन ब्लर, फिल्म-नोयर सौंदर्यशास्त्र, और कुरकुरा 8K यथार्थवाद के साथ साफ पोस्टर-शैली की फ्रेमिंग।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -3965,7 +3966,7 @@ Create an ultra-realistic black-and-white cinematic portrait of a young man walk
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166857922_7who3x_G9U8ewLb0AAmFSG.jpg" width="600" alt="YouTube थंबनेल - Black and White Cinematic Motion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166857922_7who3x_G9U8ewLb0AAmFSG.jpg" width="600" alt="YouTube थंबनेल - ब्लैक एंड व्हाइट सिनेमैटिक मोशन पोर्ट्रेट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3979,19 +3980,18 @@ Create an ultra-realistic black-and-white cinematic portrait of a young man walk
 
 ---
 
-### No. 51: YouTube थंबनेल - Existential Cinematic Solitude Film Still
+### No. 51: YouTube थंबनेल - एक्ज़िस्टेंशियल सिनेमैटिक सॉलिट्यूड फ़िल्म स्टिल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A prompt for creating a cinematic film still drenched in emotional weight, inspired by 1970s existential cinema (Vilmos Zsigmond). It focuses on profound solitude, cold blue hour lighting, rain-streaked glass distortions, and a muted, desaturated palette, using technical details like analog grain and ray-traced reflections to create crushing atmospheric pressure.
+एक सिनेमाई फिल्म स्टिल बनाने के लिए एक प्रॉम्प्ट, जो 1970 के दशक के अस्तित्ववादी सिनेमा (विल्मोस ज़िगमोंड) से प्रेरित होकर भावनात्मक गहराई में डूबा हुआ है। यह गहन एकांत, ठंडी ब्लू आवर लाइटिंग, बारिश से भीगी हुई कांच की विकृतियों और एक म्यूटेड, डीसैचुरेटेड पैलेट पर केंद्रित है, जिसमें एनालॉग ग्रेन और रे-ट्रेस्ड रिफ्लेक्शन जैसी तकनीकी डिटेल्स का उपयोग करके जबरदस्त वायुमंडलीय दबाव बनाया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-[{argument name="subject" default="Subject"}], profound solitude captured in cinema, hyper-real film still drenched in emotional weight, cold blue hour lighting with dying warmth at the edges, rain-streaked glass creating liquid distortions, shallow depth of field emphasizing loneliness, muted desaturated palette with isolated color accents, slow-motion implied stillness, fine analog grain reminiscent of 1970s existential cinema, lens flares bleeding into darkness, ray-traced reflections in pooling water, breath visible in cold air, negative space dominating the frame, crushing atmospheric pressure, intimate yet distant camera positioning, Vilmos Zsigmond-inspired melancholic cinematography, the weight of unspoken grief.
+[विषय], सिनेमा में कैद गहरा एकांत, भावनात्मक बोझ से लथपथ हाइपर-रियल फिल्म स्टिल, किनारों पर मरती हुई गर्माहट के साथ ठंडी नीली घंटे की रोशनी, तरल विकृतियाँ पैदा करने वाला बारिश से सना हुआ शीशा, अकेलेपन पर जोर देने वाली उथली गहराई, अलग-अलग रंग के लहजे के साथ म्यूट डीसैचुरेटेड पैलेट, धीमी गति से निहित स्थिरता, 1970 के दशक के अस्तित्ववादी सिनेमा की याद दिलाता हुआ महीन एनालॉग ग्रेन, अंधेरे में घुलते हुए लेंस फ्लेयर्स, जमा हुए पानी में रे-ट्रेस्ड प्रतिबिंब, ठंडी हवा में दिखाई देती सांस, फ्रेम पर हावी नकारात्मक स्थान, अत्यधिक वायुमंडलीय दबाव, अंतरंग फिर भी दूर कैमरा पोजिशनिंग, विल्मोस ज़िग्समंड-प्रेरित उदास सिनेमैटोग्राफी, अनकहे दुख का बोझ।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -3999,7 +3999,7 @@ A prompt for creating a cinematic film still drenched in emotional weight, inspi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166865579_sejmp9_G9T0m7ZbUAA_1bA.jpg" width="600" alt="YouTube थंबनेल - Existential Cinematic Solitude Film Still - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166865579_sejmp9_G9T0m7ZbUAA_1bA.jpg" width="600" alt="YouTube थंबनेल - एक्ज़िस्टेंशियल सिनेमैटिक सॉलिट्यूड फ़िल्म स्टिल - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -5618,73 +5618,73 @@ MJ प्रॉम्प्ट: cute anime character --sref 3076266117
 
 ---
 
-### No. 80: प्रोडक्ट मार्केटिंग - Christmas Vertigo: Surreal Avant-Garde Mrs. Claus
+### No. 80: प्रोडक्ट मार्केटिंग - क्रिसमस वर्टिगो: सर्रियल अवंत-गार्द मिसेज क्लॉज़
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A detailed cinematic prompt for generating a surreal, high-budget fashion editorial image titled 'Christmas Vertigo.' It features an avant-garde Mrs. Santa Claus archetype caught in mid-laughter, wearing deep oxblood velvet, in a dreamlike attic where it is snowing indoors. The scene includes surreal reindeer with candelabra antlers and is shot with a severe Dutch Angle (Vertigo effect) on a Hasselblad H6D-100c with Kodak Portra 800 grain.
+'क्रिसमस वर्टिगो' शीर्षक वाली एक अवास्तविक, उच्च-बजट वाली फैशन संपादकीय छवि बनाने के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट। इसमें एक अवांट-गार्डे मिसेज सांता क्लॉज़ का चित्रण है जो गहरी ऑक्सब्लड वेलवेट पहने हुए, बीच हंसी में फंसी हुई है, एक स्वप्निल अटारी में जहाँ घर के अंदर बर्फ गिर रही है। इस दृश्य में कैंडलैब्रा सींगों वाले अवास्तविक बारहसिंगे शामिल हैं और इसे हैसलब्लैड H6D-100c पर कोडक पोर्ट्रा 800 ग्रेन के साथ एक गंभीर डच एंगल (वर्टिगो प्रभाव) पर शूट किया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
 {
   "vibe_title_en": "Christmas Vertigo",
-  "master_prompt": "A surreal, high-budget cinematic shot of The Protagonist reimagined as an avant-garde Mrs. Santa Claus. The Subject is caught in a genuine moment of unguarded laughter, head thrown back, mid-motion blur, as if surprised by a sudden magical gust. They are wearing a heavy, textural oxblood-red velvet coat with exaggerated, rough-hewn white shearling trim. The location is a dreamlike, infinite wooden attic where it is snowing indoors. Surrounding the subject are hyper-realistic Reindeers, but with a surreal twist: their antlers are made of intricate, melting candelabras with lit candles dripping wax, and their breath manifests as visible gold dust. The lighting is harsh and directional, creating deep, dramatic shadows and high contrast, mimicking a strobe light hitting a blizzard. The camera is tilted at a severe 30-degree Dutch Angle (Vertigo effect), destabilizing the horizon. Captured on a Hasselblad H6D-100c with a 50mm lens, f/2.8. The image quality features the distinct grain of Kodak Portra 800, focusing on skin texture, flying snowflakes, and the tactile reality of the velvet and fur. No CGI feel; everything looks like a practical effect.",
+  "master_prompt": "द प्रोटैगोनिस्ट का एक अवास्तविक, उच्च-बजट वाला सिनेमाई शॉट, जिसे एक अवांट-गार्डे मिसेज सांता क्लॉज़ के रूप में फिर से कल्पना की गई है। विषय अचानक जादुई हवा के झोंके से आश्चर्यचकित होकर, बेपरवाह हंसी के एक वास्तविक क्षण में फंसा हुआ है, सिर पीछे की ओर झुका हुआ है, गति के धुंधलेपन के बीच, मानो किसी अचानक जादुई झोंके से हैरान हो। उन्होंने एक भारी, बनावट वाला ऑक्सब्लड-लाल मखमली कोट पहना हुआ है जिसमें अतिरंजित, खुरदुरी सफेद शीयरलिंग ट्रिम है। स्थान एक स्वप्निल, अनंत लकड़ी का अटारी है जहाँ घर के अंदर बर्फ गिर रही है। विषय के चारों ओर अति-यथार्थवादी बारहसिंगे हैं, लेकिन एक अवास्तविक मोड़ के साथ: उनके सींग जटिल, पिघलते हुए कैंडलैब्रा से बने हैं जिनमें जलती हुई मोमबत्तियाँ मोम टपका रही हैं, और उनकी साँसें दृश्यमान सोने की धूल के रूप में प्रकट होती हैं। प्रकाश कठोर और दिशात्मक है, जो गहरी, नाटकीय छाया और उच्च कंट्रास्ट बनाता है, जो बर्फीले तूफान से टकराने वाली स्ट्रोब लाइट की नकल करता है। कैमरा 30-डिग्री के डच एंगल (वर्टिगो प्रभाव) पर झुका हुआ है, जो क्षितिज को अस्थिर कर रहा है। इसे 50mm लेंस, f/2.8 के साथ हैसलब्लैड H6D-100c पर कैप्चर किया गया है। छवि गुणवत्ता में कोडक पोर्ट्रा 800 का विशिष्ट दाना है, जो त्वचा की बनावट, उड़ते हुए बर्फ के टुकड़ों और मखमल और फर की स्पर्शनीय वास्तविकता पर केंद्रित है। कोई CGI एहसास नहीं; सब कुछ एक व्यावहारिक प्रभाव जैसा दिखता है।",
   "meta": {
-    "intent": "Editorial Fashion / Surreal Holiday",
-    "priorities": "Texture, Motion, Unexpected Angle",
-    "device_profile": "High-End Medium Format Digital"
+    "intent": "संपादकीय फैशन / अवास्तविक छुट्टी",
+    "priorities": "बनावट, गति, अप्रत्याशित कोण",
+    "device_profile": "हाई-एंड मीडियम फॉर्मेट डिजिटल"
   },
   "frame": {
     "aspect": "4:5",
-    "composition": "Dynamic Off-Center",
-    "layout": "Full Body / 3/4 Shot",
-    "camera_angle": "Low Angle",
-    "tilt_roll_degrees": "30 degrees (Dutch Tilt)"
+    "composition": "गतिशील ऑफ-सेंटर",
+    "layout": "पूरा शरीर / 3/4 शॉट",
+    "camera_angle": "लो एंगल",
+    "tilt_roll_degrees": "30 डिग्री (डच टिल्ट)"
   },
   "subject": {
-    "gender": "Female",
-    "identity": "The Protagonist (Mrs. Claus Archetype)",
-    "demographics": "Universal Adult",
-    "face": "Natural skin texture, visible pores, flushed cheeks from cold",
-    "hair": "Windblown, dynamic, snowflakes caught in strands",
-    "body": "Mid-motion, reactive posture",
-    "expression": "Unguarded laughter, surprise, eyes crinkled",
-    "pose": "Caught off-guard, leaning away or towards the camera due to the tilt"
+    "gender": "महिला",
+    "identity": "द प्रोटैगोनिस्ट (मिसेज क्लॉज़ आर्कटाइप)",
+    "demographics": "सार्वभौमिक वयस्क",
+    "face": "प्राकृतिक त्वचा की बनावट, दिखाई देने वाले छिद्र, ठंड से लाल गाल",
+    "hair": "हवा में लहराते हुए, गतिशील, बालों में फंसे बर्फ के टुकड़े",
+    "body": "मध्य-गति, प्रतिक्रियाशील मुद्रा",
+    "expression": "बेपरवाह हंसी, आश्चर्य, सिकुड़ी हुई आँखें",
+    "pose": "अचानक पकड़ी गई, झुकाव के कारण कैमरे से दूर या उसकी ओर झुकना"
   },
   "wardrobe_accessories": {
     "garments": [
       {
-        "item": "Avant-Garde Coat",
-        "material": "Deep Oxblood Velvet",
+        "item": "अवांट-गार्डे कोट",
+        "material": "गहरा ऑक्सब्लड वेलवेट",
         "color": "{argument name=\"coat color\" default=\"Dark Red\"}",
-        "fit": "Oversized, Structural"
+        "fit": "ओवरसाइज़्ड, स्ट्रक्चरल"
       },
       {
-        "item": "Trim",
-        "material": "Raw Shearling / Fur",
-        "color": "Cream White",
-        "fit": "Exaggerated Collar"
+        "item": "ट्रिम",
+        "material": "कच्चा शीयरलिंग / फर",
+        "color": "क्रीम व्हाइट",
+        "fit": "अतिरंजित कॉलर"
       }
     ],
     "accessories": [
       {
-        "item": "Gloves",
-        "color": "Black",
-        "material": "Leather",
-        "brand_style": "Vintage"
+        "item": "दस्ताने",
+        "color": "काला",
+        "material": "चमड़ा",
+        "brand_style": "विंटेज"
       }
     ]
   },
   "environment": {
-    "setting": "Infinite Surreal Attic",
-    "surfaces": "Aged Wood, Indoor Snow, Floating Ribbons",
-    "depth": "Deep depth of field with atmospheric haze",
-    "atmosphere": "Cold, Magical, chaotic wind",
-    "lens_interaction": "Halation from the candles, motion blur on edges"
+    "setting": "अनंत अवास्तविक अटारी",
+    "surfaces": "पुरानी लकड़ी, इनडोर बर्फ, तैरते हुए रिबन",
+    "depth": "वायुमंडलीय धुंध के साथ गहरी क्षेत्र की गहराई",
+    "atmosphere": "ठंडा, जादुई, अराजक हवा",
+    "lens_interaction": "मोमबत्तियों से हलेशन, किनारों पर गति का धुंधलापन"
   },
   "lighting": {
     "key": "{argument name=\"lighting type\" default=\"Harsh and directional\"}"
@@ -5697,7 +5697,7 @@ A detailed cinematic prompt for generating a surreal, high-budget fashion editor
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166886928_bmmi22_G9X8SeuXgAAgVQm.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Christmas Vertigo: Surreal Avant-Garde Mrs. Claus - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166886928_bmmi22_G9X8SeuXgAAgVQm.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - क्रिसमस वर्टिगो: सर्रियल अवंत-गार्द मिसेज क्लॉज़ - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -5711,21 +5711,21 @@ A detailed cinematic prompt for generating a surreal, high-budget fashion editor
 
 ---
 
-### No. 81: प्रोडक्ट मार्केटिंग - Hyper-Realistic Wet Skin Portrait
+### No. 81: प्रोडक्ट मार्केटिंग - अत्यंत यथार्थवादी गीली त्वचा का पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A prompt focused on achieving hyper-realistic skin texture in a wet close-up portrait. It details a side profile of a woman with dark, wet hair glued to her skin, emphasizing fine water droplets and sweat glistening on her face. The negative prompt is crucial, explicitly excluding common AI flaws like oily skin, heavy makeup, and low quality, aiming for a raw, cinematic look.
+एक प्रॉम्प्ट जो गीले क्लोज-अप पोर्ट्रेट में अति-यथार्थवादी त्वचा की बनावट प्राप्त करने पर केंद्रित है। इसमें एक महिला का साइड प्रोफाइल विस्तार से बताया गया है, जिसके गहरे, गीले बाल उसकी त्वचा से चिपके हुए हैं, जिसमें उसके चेहरे पर चमकती हुई पानी की महीन बूंदों और पसीने पर जोर दिया गया है। नकारात्मक प्रॉम्प्ट महत्वपूर्ण है, जो तैलीय त्वचा, भारी मेकअप और निम्न गुणवत्ता जैसी सामान्य AI खामियों को स्पष्ट रूप से बाहर करता है, जिसका लक्ष्य एक कच्चा, सिनेमाई रूप प्राप्त करना है।
 
 #### 📝 प्रॉम्पट
 
 ```
 {
-  "prompt": "Extreme wet close-up portrait, side profile of a young woman. Dark wet hair strands naturally glued to the skin. Fine droplets of water and thin sweat glistening realistically on face. Focus on bright natural {argument name="eye color" default="green and hazel"} eyes with realistic reflection. Moist and shiny lips, soft natural skin texture. Soft lighting, cool color tones, light grey and white bokeh background. Hyper-realistic, 8k resolution, cinematic photography, raw style.",
-  "negative_prompt": "excessive shine, oily skin, dry skin, heavy makeup, cartoon, illustration, 3d render, low quality, blurry, distorted eyes, bad anatomy, overexposed, high contrast",
+  "prompt": "एक युवा महिला का अत्यधिक गीला क्लोज-अप पोर्ट्रेट, साइड प्रोफाइल। गहरे गीले बालों की लटें स्वाभाविक रूप से त्वचा से चिपकी हुई हैं। चेहरे पर पानी की महीन बूंदें और पतला पसीना वास्तविक रूप से चमक रहा है। चमकीली प्राकृतिक {argument name=\"eye color\" default=\"green and hazel\"} आँखों पर यथार्थवादी प्रतिबिंब के साथ ध्यान केंद्रित करें। नम और चमकदार होंठ, मुलायम प्राकृतिक त्वचा की बनावट। नरम रोशनी, कूल कलर टोन, हल्का ग्रे और सफेद बोकेह बैकग्राउंड। हाइपर-रियलिस्टिक, 8k रेज़ोल्यूशन, सिनेमैटिक फोटोग्राफी, रॉ स्टाइल।",
+  "negative_prompt": "अत्यधिक चमक, तैलीय त्वचा, सूखी त्वचा, भारी मेकअप, कार्टून, इलस्ट्रेशन, 3डी रेंडर, कम गुणवत्ता, धुंधला, विकृत आँखें, खराब एनाटॉमी, ओवरएक्सपोज्ड, हाई कंट्रास्ट",
   "parameters": {
     "aspect_ratio": "9:16",
     "steps": 30,
@@ -5740,7 +5740,7 @@ A prompt focused on achieving hyper-realistic skin texture in a wet close-up por
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166858742_oj8c8h_G9XNvJBWcAANwvq.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Hyper-Realistic Wet Skin Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166858742_oj8c8h_G9XNvJBWcAANwvq.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - अत्यंत यथार्थवादी गीली त्वचा का पोर्ट्रेट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -5754,14 +5754,14 @@ A prompt focused on achieving hyper-realistic skin texture in a wet close-up por
 
 ---
 
-### No. 82: प्रोडक्ट मार्केटिंग - Ultra-Photoreal Beauty Campaign Contact Sheet (BAGEL)
+### No. 82: प्रोडक्ट मार्केटिंग - अल्ट्रा-फोटोरियल ब्यूटी कैंपेन कॉन्टैक्ट शीट (बैगेल)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A highly detailed, structured prompt for generating a 3x3 contact sheet for a beauty product campaign (BAGEL brand). It specifies the model's look, the product consistency, lighting (high-end beauty studio), and the exact content and composition of all nine frames in the collage, aiming for an ultra-photorealistic, editorial result.
+BAGEL ब्रांड के ब्यूटी प्रोडक्ट कैंपेन के लिए 3x3 कॉन्टैक्ट शीट बनाने के लिए एक अत्यधिक विस्तृत, संरचित प्रॉम्प्ट। यह मॉडल के लुक, प्रोडक्ट की कंसिस्टेंसी, लाइटिंग (हाई-एंड ब्यूटी स्टूडियो), और कोलाज में सभी नौ फ़्रेम की सटीक सामग्री और कंपोजीशन को निर्दिष्ट करता है, जिसका लक्ष्य अल्ट्रा-फोटोरियलिस्टिक, एडिटोरियल परिणाम प्राप्त करना है।
 
 #### 📝 प्रॉम्पट
 
@@ -5785,16 +5785,20 @@ A highly detailed, structured prompt for generating a 3x3 contact sheet for a be
     },
     "creative_prompt": {
       "scene_summary": {
-        "en": "Ultra-photoreal beauty campaign contact sheet on a pure white seamless background. A 3x3 grid collage of nine panels featuring ONE model with hair worn down: voluminous, glossy, long dark waves with soft movement and lift at the roots. The model has a lean, fit, runway-like physique and an attractive high-fashion look. Skin is luminous with realistic texture and refined editorial retouch (no plastic smoothing). Makeup: defined brows, clean eyeliner, soft bronzy blush, and bold red lipstick.\n\nProduct must stay consistent: a sleek chrome lip product tube and doe-foot applicator with the brand name '{argument name="brand name" default="BAGEL"}' printed clearly on the tube in a bold modern sans-serif. The tube shape, cap, chrome finish, and label placement remain consistent across all panels. The word '{argument name="brand name" default="BAGEL"}' is readable, spelled correctly, centered, and aligned on the tube in every panel where the product is visible. No other text or brands anywhere.\n\nPanel variety (9 frames):\n1) Model holds the chrome tube horizontally over the eyes like a visor; lips puckered.\n2) Close-up applying the red lipstick with the doe-foot applicator; tube visible with '{argument name="brand name" default="BAGEL"}'.\n3) Model laughing wide-mouth; tube held near face.\n4) Beauty angle portrait holding tube near chin; confident gaze.\n5) Extreme close-up smile with teeth; tube held lightly between teeth; '{argument name="brand name" default="BAGEL"}' readable.\n6) Wink + playful tongue-out; holding applicator and tube; '{argument name="brand name" default="BAGEL"}' readable.\n7) Applying lipstick again with elegant hand pose; manicure clean nude/white.\n8) Kissy face wink; cheek highlight strong and glossy.\n9) Tight crop smile; crisp lip texture and clean edges.\n\nLighting: high-end beauty studio lighting, bright and even, soft specular highlights on chrome packaging, realistic shadows, face and product both tack sharp. Composition: clean margins, consistent spacing between panels, magazine-quality production. No watermark, no extra logos."
+        "en": "पूरी तरह से सफेद, सीमलेस बैकग्राउंड पर अल्ट्रा-फोटोरियल ब्यूटी कैंपेन कॉन्टैक्ट शीट। नौ पैनलों का 3x3 ग्रिड कोलाज जिसमें एक मॉडल है जिसके बाल खुले हुए हैं: घने, चमकदार, लंबे गहरे लहरदार बाल जिनमें हल्की हलचल और जड़ों पर उभार है। मॉडल का शरीर पतला, सुडौल, रनवे जैसा है और उसका लुक आकर्षक हाई-फैशन है। त्वचा चमकदार है जिसमें यथार्थवादी बनावट और परिष्कृत संपादकीय रीटच (कोई प्लास्टिक स्मूथिंग नहीं) है। मेकअप: परिभाषित भौहें, साफ आईलाइनर, हल्का कांस्य ब्लश और बोल्ड लाल लिपस्टिक।\n\nउत्पाद सुसंगत रहना चाहिए: एक चिकनी क्रोम लिप उत्पाद ट्यूब और डो-फुट एप्लीकेटर जिस पर ब्रांड नाम '{argument name=\"brand name\" default=\"BAGEL\"}' एक बोल्ड आधुनिक सैन्स-सेरिफ़ में स्पष्ट रूप से मुद्रित है। ट्यूब का आकार, कैप, क्रोम फ़िनिश और लेबल का स्थान सभी पैनलों में सुसंगत रहेगा। शब्द '{argument name=\"brand name\" default=\"BAGEL\"}' पठनीय, सही ढंग से लिखा हुआ, केंद्रित और हर उस पैनल में ट्यूब पर संरेखित है जहाँ उत्पाद दिखाई दे रहा है। कहीं और कोई अन्य टेक्स्ट या ब्रांड नहीं।\n\nपैनल विविधता (9 फ्रेम):\n1) मॉडल क्रोम ट्यूब को आंखों के ऊपर क्षैतिज रूप से एक वाइज़र की तरह पकड़े हुए है; होंठ सिकुड़े हुए हैं।\n2) डो-फुट एप्लीकेटर से लाल लिपस्टिक लगाते हुए क्लोज-अप; ट्यूब '{argument name=\"brand name\" default=\"BAGEL\"}' के साथ दिखाई दे रही है।\n3) मॉडल मुंह खोलकर हंस रही है; ट्यूब चेहरे के पास पकड़ी हुई है।\n4) ठोड़ी के पास ट्यूब पकड़े हुए ब्यूटी एंगल पोर्ट्रेट; आत्मविश्वास भरी नज़र।\n5) दांतों के साथ अत्यधिक क्लोज-अप मुस्कान; ट्यूब दांतों के बीच हल्के से पकड़ी हुई है; '{argument name=\"brand name\" default=\"BAGEL\"}' पठनीय है।\n6) पलक झपकना + चंचल जीभ बाहर निकालना; एप्लीकेटर और ट्यूब पकड़े हुए; '{argument name=\"brand name\" default=\"BAGEL\"}' पठनीय है।\n7) सुंदर हाथ की मुद्रा के साथ फिर से लिपस्टिक लगाना; मैनीक्योर साफ न्यूड/सफेद है।\n8) किसिंग फेस पलक झपकना; गालों पर हाइलाइट मजबूत और चमकदार है।\n9) टाइट क्रॉप मुस्कान; कुरकुरी होंठ बनावट और साफ किनारे।\n\nप्रकाश व्यवस्था: हाई-एंड ब्यूटी स्टूडियो लाइटिंग, उज्ज्वल और समान, क्रोम पैकेजिंग पर नरम स्पेक्युलर हाइलाइट्स, यथार्थवादी छायाएं, चेहरा और उत्पाद दोनों बिल्कुल तेज। संरचना: साफ मार्जिन, पैनलों के बीच सुसंगत रिक्ति, पत्रिका-गुणवत्ता वाला उत्पादन। कोई वॉटरमार्क नहीं, कोई अतिरिक्त लोगो नहीं।"
       },
       "composition": {
-        "layout": "3x3 grid collage, consistent white gutters, clean alignment",
-        "framing": "mix of tight close-ups and medium close-ups; product always readable when present",
-        "focus": "face sharp; BAGEL text sharp; background pure white"
+        "layout": "3x3 ग्रिड कोलाज, सुसंगत सफेद गटर, साफ संरेखण",
+        "framing": "टाइट क्लोज-अप और मीडियम क्लोज-अप का मिश्रण; उत्पाद मौजूद होने पर हमेशा पठनीय",
+        "focus": "चेहरा तेज; BAGEL टेक्स्ट तेज; बैकग्राउंड शुद्ध सफेद"
       },
       "lighting_and_camera": {
-        "lighting": "beauty studio: large soft key + fill + subtle rim; bright, clean, shadow-controlled",
-        "lens": "85
+        "lighting": "ब्यूटी स्टूडियो: बड़ा सॉफ्ट की + फिल + सूक्ष्म रिम; उज्ज्वल, साफ, छाया-नियंत्रित",
+        "lens": "85"
+      }
+    }
+  }
+}
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -5802,7 +5806,7 @@ A highly detailed, structured prompt for generating a 3x3 contact sheet for a be
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166840662_87qy3j_G9XKiwHXYAAS4S3.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Ultra-Photoreal Beauty Campaign Contact Sheet (BAGEL) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166840662_87qy3j_G9XKiwHXYAAS4S3.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - अल्ट्रा-फोटोरियल ब्यूटी कैंपेन कॉन्टैक्ट शीट (बैगेल) - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -5816,129 +5820,129 @@ A highly detailed, structured prompt for generating a 3x3 contact sheet for a be
 
 ---
 
-### No. 83: प्रोडक्ट मार्केटिंग - Editorial Lifestyle Portrait in an Urban Laundromat
+### No. 83: प्रोडक्ट मार्केटिंग - शहरी लॉन्ड्रोमैट में संपादकीय लाइफस्टाइल पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
- A structured prompt for generating an editorial lifestyle portrait of a young woman in a fitted turtleneck and corduroy trousers, set in an urban, utilitarian laundromat. The prompt specifies moderate lighting from fluorescent lights, a warm color palette despite the industrial setting, and a contemporary editorial aesthetic with vintage undertones.
+एक शहरी, उपयोगितावादी लॉन्ड्रोमैट में फिटेड टर्टलनेक और कॉरडरॉय ट्राउजर पहने एक युवती के संपादकीय लाइफस्टाइल पोर्ट्रेट को बनाने के लिए एक संरचित प्रॉम्प्ट। प्रॉम्प्ट में फ्लोरोसेंट लाइट से मध्यम रोशनी, औद्योगिक सेटिंग के बावजूद गर्म रंग पैलेट और विंटेज अंडरटोन के साथ एक समकालीन संपादकीय सौंदर्य का उल्लेख है।
 
 #### 📝 प्रॉम्पट
 
 ```
 {
-"image_type": "photograph",
-"genre": "editorial lifestyle portrait",
+"image_type": "फोटोग्राफ",
+"genre": "संपादकीय जीवनशैली पोर्ट्रेट",
 "composition": {
-"framing": "medium-full shot",
-"orientation": "vertical",
-"subject_position": "centered",
-"pose": "standing with arms extended outward, hands resting on washing machines",
-"camera_height": "eye-level",
-"perspective": "straight-on",
-"depth_of_field": "shallow to moderate, subject sharp with softly blurred background"
+"framing": "मीडियम-फुल शॉट",
+"orientation": "ऊर्ध्वाधर",
+"subject_position": "केंद्रित",
+"pose": "हाथों को बाहर की ओर फैलाकर खड़ी है, हाथ वॉशिंग मशीन पर टिके हुए हैं",
+"camera_height": "आँखों के स्तर पर",
+"perspective": "सीधा",
+"depth_of_field": "उथला से मध्यम, विषय स्पष्ट और पृष्ठभूमि हल्की धुंधली"
 },
 "subject": {
 "count": 1,
 "appearance": {
-"gender_presentation": "female-presenting",
-"age_range": "young adult",
-"skin_tone": "light",
-"expression": "neutral to subtly confident",
-"gaze": "directly at camera",
+"gender_presentation": "महिला-प्रस्तुत",
+"age_range": "युवा वयस्क",
+"skin_tone": "गोरा",
+"expression": "तटस्थ से सूक्ष्म रूप से आत्मविश्वासी",
+"gaze": "सीधे कैमरे पर",
 "hair": {
-"color": "light brown",
-"length": "long",
-"style": "loose, slightly tousled, natural texture",
-"parting": "off-center"
+"color": "हल्का भूरा",
+"length": "लंबे",
+"style": "खुले, हल्के उलझे हुए, प्राकृतिक बनावट",
+"parting": "केंद्र से हटकर"
 }
 },
 "clothing": {
 "top": {
-"type": "long-sleeve fitted turtleneck",
-"color": "{argument name=\"top color\" default=\"dark charcoal or black\"}",
-"texture": "smooth knit"
+"type": "लॉन्ग-स्लीव फिटेड टर्टलनेक",
+"color": "{argument name=\"top color\" default=\"गहरा चारकोल या काला\"}",
+"texture": "चिकनी बुनाई"
 },
 "bottom": {
-"type": "high-waisted trousers",
-"color": "{argument name=\"bottom color\" default=\"rust brown\"}",
-"material": "corduroy",
-"fit": "relaxed with pleats"
+"type": "हाई-वेस्टेड ट्राउजर",
+"color": "{argument name=\"bottom color\" default=\"जंग लगा भूरा\"}",
+"material": "कॉर्डुरॉय",
+"fit": "प्लेट्स के साथ ढीला"
 }
 },
-"accessories": "none visible"
+"accessories": "कोई दिखाई नहीं दे रहा है"
 },
 "environment": {
-"location_type": "laundromat",
-"setting_style": "urban, utilitarian",
+"location_type": "लॉन्ड्रोमैट",
+"setting_style": "शहरी, उपयोगितावादी",
 "background_elements": [
-"industrial washing machines",
-"metal ducts and pipes",
-"fluorescent ceiling lights",
-"signage with laundry-related text"
+"औद्योगिक वॉशिंग मशीन",
+"धातु के डक्ट और पाइप",
+"फ्लोरोसेंट छत की रोशनी",
+"कपड़े धोने से संबंधित टेक्स्ट वाले संकेत"
 ],
 "surface_materials": [
-"stainless steel",
-"painted metal",
-"plastic"
+"स्टेनलेस स्टील",
+"पेंटेड धातु",
+"प्लास्टिक"
 ]
 },
 "lighting": {
-"type": "ambient artificial",
-"source": "overhead fluorescent lights",
-"quality": "soft but slightly flat",
-"direction": "top-down with mild frontal fill",
-"contrast": "moderate",
-"shadows": "soft, minimal harsh shadowing"
+"type": "परिवेशीय कृत्रिम",
+"source": "ऊपर से फ्लोरोसेंट रोशनी",
+"quality": "नरम लेकिन थोड़ी सपाट",
+"direction": "ऊपर से नीचे की ओर हल्के सामने के भराव के साथ",
+"contrast": "मध्यम",
+"shadows": "नरम, न्यूनतम कठोर छायांकन"
 },
 "color_palette": {
 "dominant_colors": [
-"warm brown",
-"rust",
-"charcoal",
-"muted beige"
+"गर्म भूरा",
+"जंग",
+"चारकोल",
+"म्यूट बेज"
 ],
 "accent_colors": [
-"silver",
-"off-white",
-"faded green"
+"चांदी",
+"ऑफ-व्हाइट",
+"फीका हरा"
 ],
-"temperature": "warm-leaning despite industrial setting",
-"saturation": "moderate, slightly desaturated"
+"temperature": "औद्योगिक सेटिंग के बावजूद गर्म-झुकाव",
+"saturation": "मध्यम, थोड़ा डीसैचुरेटेड"
 },
 "technical_details": {
-"camera_style": "DSLR or mirrorless",
-"lens_characteristics": "standard to short telephoto",
+"camera_style": "DSLR या मिररलेस",
+"lens_characteristics": "मानक से शॉर्ट टेलीफोटो",
 "aperture_estimate": "f/2.8–f/4",
 "iso_estimate": "400–800",
 "shutter_speed_estimate": "1/125–1/250",
-"focus": "sharp on subject face and torso"
+"focus": "विषय के चेहरे और धड़ पर स्पष्ट"
 },
 "artistic_style": {
-"mood": "casual, confident, contemporary",
-"aesthetic": "modern editorial with vintage undertones",
+"mood": "कैज़ुअल, आत्मविश्वासी, समकालीन",
+"aesthetic": "विंटेज अंडरटोन के साथ आधुनिक संपादकीय",
 "influences": [
-"fashion editorial",
-"urban lifestyle photography"
+"फैशन संपादकीय",
+"शहरी जीवनशैली फोटोग्राफी"
 ]
 },
 "background_treatment": {
-"clarity": "slightly softened",
-"distractions": "minimal, structured repetition of machines",
-"depth_cues": "linear perspective from machines and ceiling fixtures"
+"clarity": "थोड़ा नरम",
+"distractions": "न्यूनतम, मशीनों की संरचित पुनरावृत्ति",
+"depth_cues": "मशीनों और छत के फिक्स्चर से रैखिक परिप्रेक्ष्य"
 },
 "post_processing": {
-"color_grading": "warm tones emphasized",
-"contrast_adjustment": "slightly lifted blacks",
-"sharpness": "moderate, natural",
-"grain": "minimal to none"
+"color_grading": "गर्म टोन पर जोर दिया गया",
+"contrast_adjustment": "काले रंग को थोड़ा ऊपर उठाया गया",
+"sharpness": "मध्यम, प्राकृतिक",
+"grain": "न्यूनतम से कुछ भी नहीं"
 },
 "text_elements": {
 "presence": true,
-"style": "industrial signage",
-"legibility": "partially legible, not focal"
+"style": "औद्योगिक साइनेज",
+"legibility": "आंशिक रूप से सुपाठ्य, केंद्रीय नहीं"
 }
 }
 ```
@@ -5948,7 +5952,7 @@ A highly detailed, structured prompt for generating a 3x3 contact sheet for a be
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166893391_53cnvi_G9WvmFTaEAAJI28.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Editorial Lifestyle Portrait in an Urban Laundromat - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166893391_53cnvi_G9WvmFTaEAAJI28.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - शहरी लॉन्ड्रोमैट में संपादकीय लाइफस्टाइल पोर्ट्रेट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -6057,7 +6061,7 @@ A highly detailed, structured prompt for generating a 3x3 contact sheet for a be
 
 #### 📖 विवरण
 
-मोनाको रेसट्रैक के सामने एक छत पर एक युवा महिला की लक्जरी संपादकीय लाइफस्टाइल तस्वीर बनाने के लिए एक अत्यधिक संरचित JSON प्रॉम्प्ट, जिसमें उसकी उपस्थिति, पोशाक, प्रकाश व्यवस्था और संरचना के बारे में विशिष्ट विवरणों पर जोर दिया गया है।
+मोनाको रेसट्रैक के सामने एक छत पर एक युवा महिला की लक्ज़री संपादकीय जीवनशैली की तस्वीर बनाने के लिए एक अत्यधिक संरचित JSON प्रॉम्प्ट, जिसमें उसकी उपस्थिति, पोशाक, रोशनी और संरचना के बारे में विशिष्ट विवरणों पर जोर दिया गया है।
 
 #### 📝 प्रॉम्पट
 
@@ -6066,27 +6070,27 @@ A highly detailed, structured prompt for generating a 3x3 contact sheet for a be
   "subject": {
     "person": "युवा महिला, 20 की शुरुआत में, कोकेशियाई",
     "hair": "ऐश-ब्लोंड बाल, हल्के वॉल्यूम के साथ ढीले कर्ल",
-    "pose": "किनारे पर आराम से बैठी हुई, शरीर थोड़ा बाईं ओर झुका हुआ",
+    "pose": "कगार पर आराम से बैठी हुई, शरीर थोड़ा बाईं ओर झुका हुआ",
     "expression": "शांत, सुरुचिपूर्ण, हल्की मुस्कान"
   },
   "outfit": {
     "top": "सफेद साटन ऑफ-शोल्डर टॉप",
-    "bottoms": "हाई-वेस्ट बेज ट्राउजर",
+    "bottoms": "हाई-वेस्टेड बेज ट्राउजर",
     "accessories": "मिनी शोल्डर बैग, महीन अंगूठियां, चमकदार न्यूड नाखून"
   },
   "action": {
-    "hands": "एक हाथ किनारे पर रखा हुआ; दूसरा जांघ पर रखा हुआ"
+    "hands": "एक हाथ कगार पर टिका हुआ; दूसरा जांघ पर रखा हुआ"
   },
   "location": {
-    "setting": "मोनाको सर्किट के ऊपर छत की छत",
+    "setting": "मोनाको सर्किट के ऊपर छत पर बनी छत",
     "background": "घुमावदार रेसट्रैक, पहाड़ी पर बनी इमारतें, बादल भरा आसमान"
   },
   "typography": {
     "text": "aramco, MONTE-CARLO दिखाई दे रहा है"
   },
   "lighting": {
-    "type": "प्राकृतिक बदली हुई दिन की रोशनी",
-    "quality": "मुलायम, सिनेमाई डिफ्यूजन"
+    "type": "प्राकृतिक बादल भरा दिन का प्रकाश",
+    "quality": "मुलायम, सिनेमाई प्रसार"
   },
   "composition": {
     "style": "लक्जरी संपादकीय जीवन शैली की तस्वीर, मध्यम पोर्ट्रेट, 4:5 अनुपात",
@@ -6217,19 +6221,19 @@ A highly detailed, structured prompt for generating a 3x3 contact sheet for a be
 
 ---
 
-### No. 87: ई-कॉमर्स मुख्य इमेज - Melting Transition Product Photography Prompt
+### No. 87: ई-कॉमर्स मुख्य इमेज - मेल्टिंग ट्रांज़िशन प्रोडक्ट फ़ोटोग्राफ़ी प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A conceptual advertising prompt designed for product photography, focusing on a surreal melting transition effect. The prompt uses placeholders for the product and the melting medium to create a dreamlike, ultra-detailed image with a clean background.
+उत्पाद फोटोग्राफी के लिए डिज़ाइन किया गया एक वैचारिक विज्ञापन प्रॉम्प्ट, जो एक असली पिघलने वाले संक्रमण प्रभाव पर केंद्रित है। प्रॉम्प्ट उत्पाद और पिघलने वाले माध्यम के लिए प्लेसहोल्डर का उपयोग एक स्वच्छ पृष्ठभूमि के साथ एक स्वप्निल, अति-विस्तृत छवि बनाने के लिए करता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-{argument name="PRODUCT" default="[PRODUCT]"} floating in empty space, edges melting into {argument name="medium" default="[liquid / light / particles]"}, gravity-defying drips curling upward, smooth surreal transition, soft glow, dreamlike atmosphere, conceptual advertising, clean background, ultra-detailed realism.
+{argument name="PRODUCT" default="[PRODUCT]"} खाली जगह में तैरता हुआ, किनारे {argument name="medium" default="[तरल / प्रकाश / कणों]"} में पिघलते हुए, गुरुत्वाकर्षण को धता बताते हुए ऊपर की ओर मुड़ते हुए बूंदें, सहज अवास्तविक संक्रमण, हल्की चमक, स्वप्निल वातावरण, वैचारिक विज्ञापन, साफ पृष्ठभूमि, अति-विस्तृत यथार्थवाद।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -6237,25 +6241,25 @@ A conceptual advertising prompt designed for product photography, focusing on a 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166900650_08rpfe_G9UtdxLa4AAPRfO.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - Melting Transition Product Photography Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166900650_08rpfe_G9UtdxLa4AAPRfO.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - मेल्टिंग ट्रांज़िशन प्रोडक्ट फ़ोटोग्राफ़ी प्रॉम्प्ट - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166900662_iiujvp_G9UtduqbUAAv1V3.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - Melting Transition Product Photography Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767166900662_iiujvp_G9UtduqbUAAv1V3.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - मेल्टिंग ट्रांज़िशन प्रोडक्ट फ़ोटोग्राफ़ी प्रॉम्प्ट - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166901078_3gu26i_G9Utd0HbgAASjA8.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - Melting Transition Product Photography Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767166901078_3gu26i_G9Utd0HbgAASjA8.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - मेल्टिंग ट्रांज़िशन प्रोडक्ट फ़ोटोग्राफ़ी प्रॉम्प्ट - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166902201_qwtxps_G9Utd5lbYAATf7p.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - Melting Transition Product Photography Prompt - Image 4">
+<img src="https://cms-assets.youmind.com/media/1767166902201_qwtxps_G9Utd5lbYAATf7p.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - मेल्टिंग ट्रांज़िशन प्रोडक्ट फ़ोटोग्राफ़ी प्रॉम्प्ट - Image 4">
 </div>
 
 #### 📌 विवरण
@@ -6394,14 +6398,14 @@ Nano Banana Pro के लिए एक अत्यधिक विस्तृ
 
 ---
 
-### No. 90: ई-कॉमर्स मुख्य इमेज - विज्ञापन दृश्य: बेतुके मोड़ के साथ एक लक्ज़री घड़ी
+### No. 90: ई-कॉमर्स मुख्य इमेज - लक्ज़री घड़ी उत्पाद फ़ोटोग्राफ़ी प्रॉम्प्ट: लक्ज़री बनाम बेतुकापन
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक लक्ज़री घड़ी के विज्ञापन विज़ुअल को बनाने के लिए चीनी में एक संरचित प्रॉम्प्ट, जिसमें अत्यधिक क्लोज-अप कंपोज़िशन, लेंस फ्लेयर के साथ बैकलाइटिंग पर ध्यान केंद्रित किया गया है, और रचनात्मक तनाव के लिए सामग्री या आकार के बेमेल के माध्यम से एक 'बेतुका' मोड़ शामिल किया गया है।
+विज्ञापन की दुनिया के संदर्भ में उत्पाद फोटोग्राफी तैयार करने के लिए एक संरचित प्रॉम्प्ट, जिसमें एक लक्ज़री घड़ी पर ध्यान केंद्रित किया गया है। प्रॉम्प्ट 'मुख्य तनाव' (लक्ज़री बनाम बेतुकापन) और 'ट्विस्ट मैकेनिज्म' (कार्यात्मक बेमेल, सामग्री विस्थापन, आकार उत्परिवर्तन) का उपयोग करके एक दृश्यात्मक रूप से आकर्षक और विनोदी छवि बनाता है, जिसे मजबूत बैकलाइटिंग के साथ पॉलिश किए गए काले एक्रिलिक पर सेट किया गया है।
 
 #### 📝 प्रॉम्पट
 
@@ -6417,17 +6421,17 @@ Nano Banana Pro के लिए एक अत्यधिक विस्तृ
       "प्रमाणीकरण दस्तावेज़"
     ]
   },
-  "core_tension": "लक्ज़री बनाम बेतुकापन",
+  "core_tension": "विलासिता बनाम बेतुकापन",
   "twist_mechanisms": [
-    "कार्य बेमेल",
+    "कार्यात्मक बेमेल",
     "सामग्री विस्थापन",
-    "आकार कायापलट"
+    "आकार उत्परिवर्तन"
   ],
   "stage_context": "पॉलिश किया हुआ काला एक्रिलिक",
   "composition_rule": "टाइट क्रॉप एक्सट्रीम क्लोज-अप",
   "lighting_rule": "लेंस फ्लेयर के साथ बैकलाइट",
-  "imaging_assumption": "गर्म-टोन वाला डेस्कटॉप परिप्रेक्ष्य",
-  "deliverable_type": "मुख्य विज्ञापन विज़ुअल",
+  "imaging_assumption": "गर्म टोन वाला डेस्कटॉप परिप्रेक्ष्य",
+  "deliverable_type": "मुख्य विज्ञापन दृश्य",
   "creative_directive": null,
   "oblique_strategy": null,
   "_evaluation": {
@@ -6443,7 +6447,7 @@ Nano Banana Pro के लिए एक अत्यधिक विस्तृ
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166994929_v96yhi_G9UG-OVWQAEzyqM.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - विज्ञापन दृश्य: बेतुके मोड़ के साथ एक लक्ज़री घड़ी - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166994929_v96yhi_G9UG-OVWQAEzyqM.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - लक्ज़री घड़ी उत्पाद फ़ोटोग्राफ़ी प्रॉम्प्ट: लक्ज़री बनाम बेतुकापन - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -6543,13 +6547,14 @@ Nano Banana Pro के लिए एक अत्यधिक विस्तृ
 
 ---
 
-### No. 92: ई-कॉमर्स मुख्य इमेज - स्विस आर्मी नाइफ के लिए प्रोडक्ट फ़ोटोग्राफ़ी प्रॉम्प्ट (अवास्तविक सस्पेंशन)
+### No. 92: ई-कॉमर्स मुख्य इमेज - प्रोडक्ट फोटोग्राफी प्रॉम्प्ट: स्विस आर्मी नाइफ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-स्विस आर्मी नाइफ की उत्पाद फ़ोटोग्राफ़ी तैयार करने के लिए एक संरचित JSON प्रॉम्प्ट, जो एक अलौकिक निलंबित संरचना पर केंद्रित है, जिसमें 'मटेरियल मिसप्लेसमेंट' और 'स्केल मिसएलाइनमेंट' तंत्र का उपयोग किया गया है, जिसे बनावट को उजागर करने के लिए क्रॉस-लाइटिंग के साथ एक ब्रश की हुई धातु की प्लेट के सामने रखा गया है।
+Nano Banana Pro (MetaGeny फ्रेमवर्क) के लिए एक संरचित JSON प्रॉम्प्ट, जो भावना या वातावरण व्यक्त करने वाली उत्पाद फोटोग्राफी बनाने पर केंद्रित है। यह एक स्विस आर्मी नाइफ को लक्षित करता है, जिसमें उसके शील्ड प्रतीक और मुड़ी हुई बनावट का विवरण दिया गया है। प्रॉम्प्ट 'आराम बनाम नैदानिक' तनाव का उपयोग करता है, जिसमें स्केल बेमेल और सामग्री के गलत स्थान जैसे ट्विस्ट शामिल हैं, जो बनावट को उजागर करने के लिए क्रॉस लाइटिंग के साथ एक ब्रश की हुई धातु की प्लेट के सामने सेट किया गया है, जिसका लक्ष्य एक असली तैरती हुई रचना है।
 
 #### 📝 प्रॉम्पट
 
@@ -6559,22 +6564,22 @@ Nano Banana Pro के लिए एक अत्यधिक विस्तृ
   "creation_intent": "भावना या वातावरण",
   "generation_logic": "व्यक्ति या चरित्र केंद्रित",
   "subject_kit": {
-    "primary_subject": "स्विस आर्मी नाइफ",
+    "primary_subject": "{argument name=\"primary subject\" default=\"स्विस आर्मी नाइफ\"}",
     "secondary_elements": [
       "शील्ड प्रतीक",
-      "फोल्डिंग संरचना"
+      "मुड़ी हुई संरचना"
     ]
   },
   "core_tension": "आराम बनाम नैदानिक ​​अनुभूति",
   "twist_mechanisms": [
-    "स्केल मिसअलाइनमेंट",
-    "फ़ंक्शन बेमेल",
+    "स्केल बेमेल",
+    "कार्य बेमेल",
     "सामग्री का गलत स्थान"
   ],
   "stage_context": "ब्रश्ड मेटल प्लेट",
   "composition_rule": "विकर्ण परिप्रेक्ष्य प्रदर्शन",
-  "lighting_rule": "क्रॉस लाइट हाइलाइटिंग टेक्सचर",
-  "imaging_assumption": "अवास्तविक निलंबित संरचना",
+  "lighting_rule": "बनावट को उजागर करने के लिए क्रॉस लाइट",
+  "imaging_assumption": "अवास्तविक तैरती हुई संरचना",
   "deliverable_type": "उत्पाद फोटो",
   "creative_directive": null,
   "oblique_strategy": null,
@@ -6591,7 +6596,7 @@ Nano Banana Pro के लिए एक अत्यधिक विस्तृ
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166990161_ssesc2_G9SA-68awAAqjXg.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - स्विस आर्मी नाइफ के लिए प्रोडक्ट फ़ोटोग्राफ़ी प्रॉम्प्ट (अवास्तविक सस्पेंशन) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166990161_ssesc2_G9SA-68awAAqjXg.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - प्रोडक्ट फोटोग्राफी प्रॉम्प्ट: स्विस आर्मी नाइफ - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -6605,40 +6610,41 @@ Nano Banana Pro के लिए एक अत्यधिक विस्तृ
 
 ---
 
-### No. 93: ई-कॉमर्स मुख्य इमेज - चॉकलेट बार के लिए विज्ञापन विज़ुअल प्रॉम्प्ट (प्रक्रिया प्रदर्शन)
+### No. 93: ई-कॉमर्स मुख्य इमेज - विज्ञापन विज़ुअल प्रॉम्प्ट: चॉकलेट बार प्रक्रिया प्रदर्शन
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक संरचित JSON प्रॉम्प्ट, एक चॉकलेट बार के विज्ञापन विज़ुअल को उत्पन्न करने के लिए, जो 'सेक्शनल लॉजिक' और 'फंक्शनल मिसमैच' तंत्रों का उपयोग करके प्रक्रिया या तकनीक को प्रदर्शित करने पर केंद्रित है, जिसे सॉफ्ट टॉप-डाउन ब्यूटी लाइटिंग के साथ एक शुद्ध सफेद अनंत पृष्ठभूमि के खिलाफ सेट किया गया है।
+नैनो बनाना प्रो (मेटाजेनी फ्रेमवर्क) के लिए एक संरचित JSON प्रॉम्प्ट, जो शिल्प कौशल या प्रौद्योगिकी को प्रदर्शित करके विज्ञापन पर केंद्रित है। यह एक चॉकलेट बार को लक्षित करता है, जिसमें पिघलती हुई बूंदों, कोको पाउडर और फ़ॉइल पैकेजिंग जैसे तत्वों का विवरण दिया गया है। प्रॉम्प्ट 'इच्छा बनाम नियंत्रण' के तनाव का उपयोग करता है, जिसमें विडंबनापूर्ण लेबलिंग और क्रॉस-सेक्शन लॉजिक जैसे ट्विस्ट शामिल हैं, जो सॉफ्टबॉक्स ब्यूटी लाइटिंग के साथ एक शुद्ध सफेद अनंत पृष्ठभूमि में स्थापित है, जिसका लक्ष्य औद्योगिक उत्पाद फोटोग्राफी है।
 
 #### 📝 प्रॉम्पट
 
 ```
 {
   "_world": "विज्ञापन",
-  "creation_intent": "शिल्प कौशल या तकनीक का प्रदर्शन करें",
-  "generation_logic": "प्रक्रिया या उत्पादन ही मुख्य आकर्षण है",
+  "creation_intent": "शिल्प कौशल या प्रौद्योगिकी का प्रदर्शन करें",
+  "generation_logic": "प्रक्रिया या उत्पादन स्वयं ही मुख्य बिंदु है",
   "subject_kit": {
-    "primary_subject": "चॉकलेट बार",
+    "primary_subject": "{argument name=\"primary subject\" default=\"चॉकलेट बार\"}",
     "secondary_elements": [
-      "पिघलती हुई बूंदें",
+      "पिघलती बूँदें",
       "कोको पाउडर",
       "फ़ॉइल पैकेजिंग"
     ]
   },
   "core_tension": "इच्छा बनाम नियंत्रण",
   "twist_mechanisms": [
-    "एनोटेशन विडंबना",
-    "कार्यात्मक बेमेल",
-    "अनुभागीय तर्क"
+    "लेबलिंग विडंबना",
+    "कार्य बेमेल",
+    "क्रॉस-सेक्शन तर्क"
   ],
   "stage_context": "शुद्ध सफेद अनंत",
   "composition_rule": "सममित दर्पण संरचना",
   "lighting_rule": "सॉफ्टबॉक्स टॉप ब्यूटी लाइट",
   "imaging_assumption": "औद्योगिक उत्पाद फोटोग्राफी",
-  "deliverable_type": "मुख्य विज्ञापन विज़ुअल",
+  "deliverable_type": "विज्ञापन मुख्य विज़ुअल",
   "creative_directive": null,
   "oblique_strategy": null,
   "_evaluation": {
@@ -6654,7 +6660,7 @@ Nano Banana Pro के लिए एक अत्यधिक विस्तृ
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166990802_228d3e_G9SAZrJbcAEdDDz.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - चॉकलेट बार के लिए विज्ञापन विज़ुअल प्रॉम्प्ट (प्रक्रिया प्रदर्शन) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166990802_228d3e_G9SAZrJbcAEdDDz.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - विज्ञापन विज़ुअल प्रॉम्प्ट: चॉकलेट बार प्रक्रिया प्रदर्शन - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -6668,13 +6674,14 @@ Nano Banana Pro के लिए एक अत्यधिक विस्तृ
 
 ---
 
-### No. 94: ई-कॉमर्स मुख्य इमेज - वाइन बॉटल के लिए विज्ञापन विज़ुअल प्रॉम्प्ट (सेक्शनल लॉजिक)
+### No. 94: ई-कॉमर्स मुख्य इमेज - विज्ञापन विज़ुअल प्रॉम्प्ट: वाइन बॉटल प्रोडक्ट शॉट
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-वाइन की बोतल के विज्ञापन विज़ुअल बनाने के लिए एक संरचित JSON प्रॉम्प्ट, जो औद्योगिक उत्पाद फोटोग्राफी पर केंद्रित है, जिसमें 'सेक्शनल लॉजिक' और 'ज़ीरो-ग्रेविटी स्कैटर' तंत्र का उपयोग करके नियॉन रात के दृश्य के सामने एक गतिशील, उच्च-तनाव वाली छवि बनाई गई है।
+Nano Banana Pro (MetaGeny फ्रेमवर्क) के लिए एक संरचित JSON प्रॉम्प्ट, जो विज्ञापन के लिए व्यावसायिक प्रेरणा पर केंद्रित है। यह एक शराब की बोतल को प्राथमिक विषय के रूप में लक्षित करता है, जिसमें वैक्स सील और विंटेज लेबल जैसे तत्वों पर जोर दिया गया है। प्रॉम्प्ट 'स्वच्छता बनाम अराजकता' के तनाव का उपयोग करता है, जिसमें क्रॉस-सेक्शन लॉजिक और शून्य-गुरुत्वाकर्षण बिखराव जैसे ट्विस्ट शामिल हैं, जो गोल्डन आवर लाइटिंग के साथ नियॉन नाइटलाइफ पृष्ठभूमि के खिलाफ सेट है।
 
 #### 📝 प्रॉम्पट
 
@@ -6684,24 +6691,24 @@ Nano Banana Pro के लिए एक अत्यधिक विस्तृ
   "creation_intent": "व्यावसायिक प्रेरणा",
   "generation_logic": "नियम, संरचना, प्रणाली संचालित",
   "subject_kit": {
-    "primary_subject": "वाइन की बोतल",
+    "primary_subject": "{argument name=\"primary subject\" default=\"वाइन की बोतल\"}",
     "secondary_elements": [
       "मोम की सील",
       "कॉर्क का विवरण",
       "विंटेज लेबल"
     ]
   },
-  "core_tension": "सफाई बनाम अराजकता",
+  "core_tension": "स्वच्छता बनाम अराजकता",
   "twist_mechanisms": [
-    "अनुभागीय तर्क",
+    "क्रॉस-सेक्शन लॉजिक",
     "शून्य-गुरुत्वाकर्षण बिखराव",
-    "गतिशील ठहराव"
+    "डायनामिक फ्रीज"
   ],
   "stage_context": "नियॉन नाइट सीन",
   "composition_rule": null,
-  "lighting_rule": "गोल्डन आवर की गर्म रोशनी",
+  "lighting_rule": "गोल्डन आवर वार्म लाइट",
   "imaging_assumption": "औद्योगिक उत्पाद फोटोग्राफी",
-  "deliverable_type": "मुख्य विज्ञापन दृश्य",
+  "deliverable_type": "विज्ञापन कुंजी विज़ुअल",
   "creative_directive": null,
   "oblique_strategy": null,
   "_evaluation": {
@@ -6717,7 +6724,7 @@ Nano Banana Pro के लिए एक अत्यधिक विस्तृ
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166986824_26ay91_G9SAKuEasAAfZuf.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - वाइन बॉटल के लिए विज्ञापन विज़ुअल प्रॉम्प्ट (सेक्शनल लॉजिक) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166986824_26ay91_G9SAKuEasAAfZuf.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - विज्ञापन विज़ुअल प्रॉम्प्ट: वाइन बॉटल प्रोडक्ट शॉट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -6731,40 +6738,40 @@ Nano Banana Pro के लिए एक अत्यधिक विस्तृ
 
 ---
 
-### No. 95: ई-कॉमर्स मुख्य इमेज - हाई-एंड हेडफ़ोन के लिए विज्ञापन विज़ुअल प्रॉम्प्ट (फ़्लोटिंग एलिमेंट्स)
+### No. 95: ई-कॉमर्स मुख्य इमेज - विज्ञापन के लिए विज़ुअल प्रॉम्प्ट: हाई-एंड हेडफ़ोन प्रोडक्ट शॉट
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 विवरण
 
-हाई-एंड हेडफ़ोन के विज्ञापन विज़ुअल बनाने के लिए एक संरचित JSON प्रॉम्प्ट, जिसमें औद्योगिक उत्पाद फ़ोटोग्राफ़ी पर ध्यान केंद्रित किया गया है, 'डायनामिक फ़्रीज़' और 'ज़ीरो-ग्रेविटी स्कैटर' तंत्र का उपयोग करके फ़्लोटिंग तत्वों के साथ एक साफ़, स्टूडियो-लिट इमेज बनाई गई है।
+Nano Banana Pro (MetaGeny फ्रेमवर्क) के लिए एक संरचित JSON प्रॉम्प्ट, जो विज्ञापन के लिए व्यावसायिक प्रेरणा पर केंद्रित है। यह उच्च-स्तरीय हेडफ़ोन को लक्षित करता है, जिसमें लेदर ईयरपैड और कॉइल्ड केबल जैसे तत्वों का विवरण दिया गया है। प्रॉम्प्ट 'स्वच्छता बनाम अराजकता' के तनाव का उपयोग करता है, जिसमें डायनामिक फ्रीज और ज़ीरो-ग्रेविटी स्कैटरिंग जैसे ट्विस्ट शामिल हैं, जो सॉफ्ट दिशात्मक प्रकाश व्यवस्था के साथ एक स्वच्छ स्टूडियो डेस्कटॉप पर सेट है।
 
 #### 📝 प्रॉम्पट
 
 ```
 {
   "_world": "विज्ञापन",
-  "creation_intent": "वाणिज्यिक अनुनय",
+  "creation_intent": "व्यावसायिक प्रेरणा",
   "generation_logic": "वस्तु-केंद्रित",
   "subject_kit": {
     "primary_subject": "हाई-एंड हेडफ़ोन",
     "secondary_elements": [
       "लेदर ईयरपैड",
-      "नॉइज़ रिडक्शन लोगो",
+      "नॉइज़ कैंसलेशन लोगो",
       "कॉइल्ड केबल"
     ]
   },
-  "core_tension": "स्वच्छता बनाम अराजकता",
+  "core_tension": "स्वच्छ बनाम अराजकता",
   "twist_mechanisms": [
     "डायनामिक फ़्रीज़",
-    "ज़ीरो-ग्रेविटी स्कैटर",
+    "ज़ीरो-ग्रेविटी स्कैटरिंग",
     "मटेरियल मिसप्लेसमेंट"
   ],
   "stage_context": "स्वच्छ स्टूडियो डेस्कटॉप",
-  "composition_rule": "तैरते हुए तत्वों की व्यवस्था",
+  "composition_rule": "फ्लोटिंग एलिमेंट अरेंजमेंट",
   "lighting_rule": "सॉफ्ट डायरेक्शनल स्टूडियो लाइट",
   "imaging_assumption": "औद्योगिक उत्पाद फोटोग्राफी",
-  "deliverable_type": "मुख्य विज्ञापन विज़ुअल",
+  "deliverable_type": "विज्ञापन की मुख्य विज़ुअल",
   "creative_directive": null,
   "oblique_strategy": null,
   "_evaluation": {
@@ -6780,7 +6787,7 @@ Nano Banana Pro के लिए एक अत्यधिक विस्तृ
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166989373_6b6i3v_G9SAAsWaAAA2qj4.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - हाई-एंड हेडफ़ोन के लिए विज्ञापन विज़ुअल प्रॉम्प्ट (फ़्लोटिंग एलिमेंट्स) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166989373_6b6i3v_G9SAAsWaAAA2qj4.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - विज्ञापन के लिए विज़ुअल प्रॉम्प्ट: हाई-एंड हेडफ़ोन प्रोडक्ट शॉट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -8530,6 +8537,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2025-12-31T08:17:50.438Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2025-12-31T12:22:23.495Z</sub>
 
 </div>

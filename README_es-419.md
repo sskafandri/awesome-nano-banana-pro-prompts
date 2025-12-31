@@ -140,7 +140,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **3251** |
 | ⭐ Destacado | **12** |
-| 🔄 Última actualización | **miércoles, 31 de diciembre de 2025, 8:18:06 a.m. UTC** |
+| 🔄 Última actualización | **miércoles, 31 de diciembre de 2025, 12:22:38 p.m. UTC** |
 
 </div>
 
@@ -737,81 +737,82 @@ Una foto digital de baja resolución tomada con una Sony CyberShot de 2005. Un g
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
-### No. 1: Perfil / Avatar - Sunkissed Glamour Tight Crop Selfie at Golden Hour
+### No. 1: Perfil / Avatar - Glamour bronceado: selfie de top corto a la hora dorada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A highly detailed, structured prompt for generating a hyper-photorealistic, intimate tight crop selfie with a 'Sunkissed Glamour' aesthetic. It simulates a professional mirrorless camera shot (f/1.4) with dramatic backlighting (contre-jour) and intense golden hour glow, focusing on extreme textural fidelity and a playful expression.
+Un prompt sumamente detallado y estructurado para generar una selfie íntima de primer plano hiperrealista con una estética de "Glamour Acariciado por el Sol". Simula una toma de cámara profesional sin espejo (f/1.4) con una dramática luz de fondo (contraluz) y un intenso resplandor de la hora dorada, centrándose en una fidelidad textural extrema y una expresión juguetona.
 
 #### 📝 Prompt
 
 ```
 {
-  "image_type": "Digital Self-Portrait",
-  "shot": "Tight Crop Selfie",
-  "shot_details": "Intimate, high-resolution lifestyle editorial portrait simulating a social media upload.",
-  "style": "Sunkissed Glamour Aesthetic",
-  "quality": "Hyper-photorealistic, Cinematic Quality, Extreme Textural Fidelity",
-  "color_grade": "Warm, Golden Hour Tones, High Contrast due to backlighting, Silvery/White Highlights",
-  "meta": {
-    "aspect_ratio": "4:5",
-    "resolution": "16K UHD"
-  },
-  "camera": {
-    "device": "Professional Mirrorless Camera (Simulated)",
-    "lens": "Wide-angle lens (28mm to 35mm equivalent)",
-    "aperture": "f/1.4 (Extremely Shallow Depth of Field)",
-    "distance": "Selfie range (Very close)",
-    "angle": "Slight Low Angle",
-    "framing": "Headshot/Bust Shot",
-    "pov": "Direct First-Person Perspective",
-    "focus": "Critical focus on the blue eyes",
-    "lens_effect": "Diffuse Warm Lens Flares, Strong Backlight Glow, Subtle Chromatic Aberration"
-  },
-  "lighting": {
-    "description": "Dramatic High-Key Contre-jour (Strong Backlighting)",
-    "type": "Directional Sunlight",
-    "source": "Intense sunlight streaming through large window",
-    "primary": "Backlight creating severe contrast and silhouette effect on the face.",
-    "secondary": "Soft, reflected fill light bouncing from bright white walls/environment.",
-    "highlights": "Brilliant, silvery Rim Light halo along the contours of the hair and shoulder; fully Blown-out Highlights in the background (pure white).",
-    "shadows": "Softly modeled shadows on the face, created by ambient fill light."
-  },
+  "image_type": "Autorretrato digital",
+  "shot": "Selfie de primer plano",
+  "shot_details": "Retrato editorial íntimo de estilo de vida, de alta resolución, que simula una publicación en redes sociales.",
+  "style": "Estética de glamour 'besado por el sol'",
+  "quality": "Hiperrealista, calidad cinematográfica, fidelidad textural extrema",
+  "color_grade": "Tonos cálidos de la hora dorada, alto contraste debido a la contraluz, reflejos plateados/blancos",
+  "meta": {
+    "aspect_ratio": "4:5",
+    "resolution": "16K UHD"
+  },
+  "camera": {
+    "device": "Cámara profesional sin espejo (simulada)",
+    "lens": "Lente gran angular (equivalente a 28mm a 35mm)",
+    "aperture": "f/1.4 (profundidad de campo extremadamente baja)",
+    "distance": "Rango de selfie (muy cerca)",
+    "angle": "Ángulo ligeramente bajo",
+    "framing": "Primer plano de cabeza/busto",
+    "pov": "Perspectiva directa en primera persona",
+    "focus": "Enfoque crítico en los ojos azules",
+    "lens_effect": "Destellos de lente cálidos y difusos, fuerte resplandor de contraluz, sutil aberración cromática"
+  },
+  "lighting": {
+    "description": "Contraluz dramática de clave alta (fuerte contraluz)",
+    "type": "Luz solar direccional",
+    "source": "Intensa luz solar que entra por una ventana grande",
+    "primary": "Contraluz que crea un contraste severo y efecto de silueta en el rostro.",
+    "secondary": "Luz de relleno suave y reflejada que rebota en paredes/ambiente de color blanco brillante.",
+    "highlights": "Halo brillante y plateado de luz de borde a lo largo de los contornos del cabello y el hombro; reflejos completamente quemados en el fondo (blanco puro).",
+    "shadows": "Sombras suavemente modeladas en el rostro, creadas por la luz de relleno ambiental."
+  },
   "scene": {
-    "location": "Modern, minimalist interior",
-    "environment": "Bright room with large, white window frames visible in the heavily overexposed background.",
-    "time": "Daytime (simulating Golden Hour or intense midday sun)",
-    "atmosphere": "Warm, luminous, airy, summer aesthetic."
-  },
-  "subject": {
-    "gender": "Female",
-    "age": "Early 20s",
-    "ethnicity": "Nordic appearance",
-    "appearance": "Tanned, healthy complexion",
-    "body": {
-      "skin": "Visible fine pores, sun-kissed tan, smooth texture."
-    },
-    "expression": {
-      "eyes": "Clear light blue",
-      "gaze": "Intense, direct eye contact with the camera",
-      "mouth": "Slightly opened, wet glossy lips, tip of tongue playfully touching upper incisors.",
-      "face_vibe": "Coquettish, playful, intimate."
-    },
-    "hair": {
-      "color": "{argument name=\"hair color\" default=\"Long, platinum blonde\"}",
-      "style": "Voluminous modern cut",
-      "details": "Distinct, brighter face-framing strands."
-    },
-    "pose": {
-      "description": "Frontal, intimate selfie pose, face directed slightly toward the light source.",
-      "stance": "Close up, head and shoulder visible.",
-      "energy": "Confident and inviting."
-    }
-  },
-  "wardrobe": "Deep navy/black ribbed tank"
+    "location": "Interior moderno y minimalista",
+    "environment": "Habitación luminosa con grandes marcos de ventana blancos visibles en el fondo muy sobreexpuesto.",
+    "time": "De día (simulando la hora dorada o un sol intenso de mediodía)",
+    "atmosphere": "Cálida, luminosa, aireada, estética veraniega."
+  },
+  "subject": {
+    "gender": "Femenino",
+    "age": "Veintitantos",
+    "ethnicity": "Apariencia nórdica",
+    "appearance": "Tez bronceada y saludable",
+    "body": {
+      "skin": "Poros finos visibles, bronceado 'besado por el sol', textura suave."
+    },
+    "expression": {
+      "eyes": "Azul claro y nítido",
+      "gaze": "Contacto visual intenso y directo con la cámara",
+      "mouth": "Ligeramente abierta, labios brillantes y húmedos, punta de la lengua tocando juguetonamente los incisivos superiores.",
+      "face_vibe": "Coqueta, juguetona, íntima."
+    },
+    "hair": {
+      "color": "{argument name=\"hair color\" default=\"Largo, rubio platino\"}",
+      "style": "Corte moderno voluminoso",
+      "details": "Mechones distintivos y más claros que enmarcan el rostro."
+    },
+    "pose": {
+      "description": "Pose frontal e íntima de selfie, rostro ligeramente dirigido hacia la fuente de luz.",
+      "stance": "Primer plano, cabeza y hombro visibles.",
+      "energy": "Segura e invitadora."
+    }
+  },
+  "wardrobe": "Camiseta de tirantes acanalada azul marino/negra"
+}
 ```
 
 #### 🖼️ Imágenes generadas
@@ -819,7 +820,7 @@ A highly detailed, structured prompt for generating a hyper-photorealistic, inti
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166889966_i14ki5_G9X-4XdWYAAzsgs.jpg" width="600" alt="Perfil / Avatar - Sunkissed Glamour Tight Crop Selfie at Golden Hour - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166889966_i14ki5_G9X-4XdWYAAzsgs.jpg" width="600" alt="Perfil / Avatar - Glamour bronceado: selfie de top corto a la hora dorada - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -872,77 +873,77 @@ Imagen de foto de SELFIE DINÁMICA POSADA realista
 
 ---
 
-### No. 3: Perfil / Avatar - Christmas Selfie in a Decorated Bathroom Mirror
+### No. 3: Perfil / Avatar - Selfie navideña en un espejo de baño decorado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A structured prompt for generating a photorealistic mirror selfie taken by a woman in a red bodycon dress and Santa hat inside a decorated bathroom, focusing on accurate reflection physics, warm lighting, and the inclusion of background elements like garland and other people.
+Un prompt estructurado para generar una selfi de espejo fotorrealista tomada por una mujer con un vestido rojo ajustado y un gorro de Santa dentro de un baño decorado, centrándose en la física precisa del reflejo, la iluminación cálida y la inclusión de elementos de fondo como guirnaldas y otras personas.
 
 #### 📝 Prompt
 
 ```
 {
 "subject": {
-"primary_subject_type": "human",
-"count": "1 primary subject",
-"age_range_appearance": "adult-appearing",
-"gender_presentation": "feminine-presenting",
-"skin_tone_or_material": "light to medium skin tone",
-"visibility": "full body mostly visible from head to mid-thigh",
+"primary_subject_type": "humano",
+"count": "1 sujeto principal",
+"age_range_appearance": "aparenta ser adulto",
+"gender_presentation": "aparenta ser femenino",
+"skin_tone_or_material": "tono de piel claro a medio",
+"visibility": "cuerpo completo mayormente visible desde la cabeza hasta medio muslo",
 "hair": {
-"color": "dark brown or black",
-"style": "loose curls/waves",
-"length": "long, past shoulders",
-"parting": "center or slightly off-center"
+"color": "castaño oscuro o negro",
+"style": "rizos/ondas sueltas",
+"length": "largo, más allá de los hombros",
+"parting": "al centro o ligeramente descentrado"
 },
 "face": {
-"expression": "neutral to slight smile",
-"gaze_direction": "toward smartphone screen or mirror",
-"visibility": "fully visible"
+"expression": "neutra a ligera sonrisa",
+"gaze_direction": "hacia la pantalla del smartphone o el espejo",
+"visibility": "completamente visible"
 },
 "body": {
-"build": "slim",
-"posture": "standing upright",
-"torso_visibility": "fully visible",
-"limb_visibility": "both arms visible, legs visible to mid-thigh"
+"build": "delgado",
+"posture": "de pie, erguido",
+"torso_visibility": "completamente visible",
+"limb_visibility": "ambos brazos visibles, piernas visibles hasta medio muslo"
 },
 "pose": {
-"stance": "facing mirror/front-facing to camera via reflection",
-"torso_angle": "very slight angle, mostly straight on",
-"head_angle": "slightly tilted",
-"arm_positions": "one arm bent upward holding phone near face/chest; other arm relaxed down by side",
-"hand_positions": "one hand gripping smartphone; other hand relaxed with fingers slightly curved",
-"weight_distribution": "unknown"
+"stance": "mirando al espejo/de frente a la cámara a través del reflejo",
+"torso_angle": "ángulo muy leve, mayormente de frente",
+"head_angle": "ligeramente inclinada",
+"arm_positions": "un brazo doblado hacia arriba sosteniendo el teléfono cerca de la cara/pecho; el otro brazo relajado a un lado",
+"hand_positions": "una mano sujetando el smartphone; la otra mano relajada con los dedos ligeramente curvados",
+"weight_distribution": "desconocida"
 },
 "clothing": {
-"top": { "type": "sleeveless dress bodice", "color": "{argument name=\"dress color\" default=\"red\"}", "fit": "tight/ bodycon", "coverage": "shoulders and arms uncovered", "details": "simple, no visible patterns" },
-"bottom": { "type": "dress skirt (part of single-piece dress)", "color": "red", "fit": "tight/ bodycon", "coverage": "extends to upper thigh", "details": "simple, no slit visible" },
-"footwear": "not visible",
-"other_items": "none"
+"top": { "type": "corpiño de vestido sin mangas", "color": "{argument name=\"dress color\" default=\"red\"}", "fit": "ajustado/ceñido al cuerpo", "coverage": "hombros y brazos descubiertos", "details": "sencillo, sin patrones visibles" },
+"bottom": { "type": "falda de vestido (parte de un vestido de una sola pieza)", "color": "rojo", "fit": "ajustado/ceñido al cuerpo", "coverage": "se extiende hasta la parte superior del muslo", "details": "sencillo, sin abertura visible" },
+"footwear": "no visible",
+"other_items": "ninguno"
 },
 "accessories": ["{argument name=\"accessory\" default=\"red and white Santa hat\"}"],
 "props_interacted_with": ["smartphone"]
 },
 "environment": {
-"setting_type": "bathroom or restroom with decorative elements",
-"indoor_or_outdoor": "indoor",
-"depth_description": "foreground is mirror frame area; subject appears in mirror; background contains decorated wall and additional people",
-"foreground_objects": ["mirror surface", "lower edge of mirror frame"],
-"midground_objects": ["primary subject reflection"],
-"background_objects": ["green garland with lights above mirror", "wall-mounted light sconce on left", "tiled walls", "doorway or dark opening", "two other feminine-presenting people in dark clothing"],
-"textures_or_materials": "glossy ceramic tiles, reflective glass mirror, soft greenery with small lights",
-"notable_layout_relationships": "garland runs horizontally across top of mirror; light sconce mounted on tiled wall to left of mirror; other people are reflected further back behind subject"
+"setting_type": "baño o tocador con elementos decorativos",
+"indoor_or_outdoor": "interior",
+"depth_description": "el primer plano es el área del marco del espejo; el sujeto aparece en el espejo; el fondo contiene una pared decorada y personas adicionales",
+"foreground_objects": ["superficie del espejo", "borde inferior del marco del espejo"],
+"midground_objects": ["reflejo del sujeto principal"],
+"background_objects": ["guirnalda verde con luces sobre el espejo", "aplique de pared a la izquierda", "paredes de azulejos", "entrada o abertura oscura", "otras dos personas de apariencia femenina con ropa oscura"],
+"textures_or_materials": "azulejos de cerámica brillantes, espejo de cristal reflectante, vegetación suave con pequeñas luces",
+"notable_layout_relationships": "la guirnalda corre horizontalmente por la parte superior del espejo; el aplique de luz está montado en la pared de azulejos a la izquierda del espejo; otras personas se reflejan más atrás del sujeto"
 },
 "lighting": {
-"lighting_type": "mixed ambient and artificial indoor lighting",
-"light_direction": "multiple sources including overhead/garland lights and a wall sconce to the left",
-"intensity": "moderate",
-"color_temperature": "warm",
-"shadow_behavior": "soft shadows with gentle falloff",
-"reflections_or_glare": "mirror reflection of subject and background; mild specular reflections from tiles and mirror"
+"lighting_type": "iluminación interior mixta ambiental y artificial",
+"light_direction": "múltiples fuentes, incluyendo luces de techo/guirnalda y un aplique de pared a la izquierda",
+"intensity": "moderada",
+"color_temperature": "cálida",
+"shadow_behavior": "sombras suaves con una caída gradual",
+"reflections_or_glare": "reflejo del sujeto y el fondo en el espejo; leves reflejos especulares de los azulejos y el espejo"
 },
 "camera": "{argument name=\"camera type\" default=\"smartphone\"}"
 }
@@ -953,7 +954,7 @@ A structured prompt for generating a photorealistic mirror selfie taken by a wom
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166886502_kf0kjb_G9WbeFJaEAEjtmd.png" width="600" alt="Perfil / Avatar - Christmas Selfie in a Decorated Bathroom Mirror - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166886502_kf0kjb_G9WbeFJaEAEjtmd.png" width="600" alt="Perfil / Avatar - Selfie navideña en un espejo de baño decorado - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -967,55 +968,55 @@ A structured prompt for generating a photorealistic mirror selfie taken by a wom
 
 ---
 
-### No. 4: Perfil / Avatar - Photorealistic Low-Angle Café Selfie
+### No. 4: Perfil / Avatar - Selfie de café fotorrealista en ángulo bajo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A highly detailed prompt for generating a photorealistic, low-angle, handheld selfie of a woman in a cozy café. It focuses heavily on realistic details: natural posture, visible pores and skin imperfections, realistic fabric texture (low-cut halter top), and soft, diffused warm indoor lighting consistent with an intimate café environment.
+Un *prompt* muy detallado para generar una selfi fotorealista, en ángulo bajo y tomada a mano, de una mujer en una acogedora cafetería. Se enfoca intensamente en detalles realistas: postura natural, poros e imperfecciones de la piel visibles, textura de tela realista (top *halter* escotado) e iluminación interior cálida, suave y difusa, consistente con un ambiente de cafetería íntimo.
 
 #### 📝 Prompt
 
 ```
 {
-  "prompt": "Photorealistic low-angle handheld selfie of an adult woman (25 years old) in a cozy café interior. The camera is positioned slightly below eye level and angled upward, creating a natural sense of proximity and depth. She is leaning forward over a table with realistic posture and natural weight distribution, giving a relaxed and playful feel. Facial expression shows a subtle, playful half-smile conveying confidence and warmth. Lips are softly defined with red lipstick, expression natural and unforced. Eyes are directed toward the camera, engaging and lively. She is wearing a {argument name="top color" default="deep blue"} low-cut halter top with realistic fabric texture and natural drape. The neckline follows realistic anatomy and gravity, with subtle fabric tension and folds where it interacts with the body, without exaggerated shaping. Skin appears natural and healthy with visible pores, fine texture, soft tonal transitions, and slight imperfections. Warm indoor lighting creates gentle highlights without any glossy or plastic effect. Hair is naturally styled, matching the reference image exactly in shape and structure, with realistic volume and visible individual strands, without stylization or alteration. Lighting is warm, soft, and diffused café lighting, producing gentle shadows under the chin and along facial contours. The light feels ambient and natural, consistent with an intimate café environment. The background is a cozy café setting with a mosaic tile wall and indoor plants, softly out of focus to provide texture and atmosphere without distracting from the subject.",
-  "style": "photorealistic",
+  "prompt": "Selfie fotográfica de una mujer adulta (25 años) tomada a mano desde un ángulo bajo en el interior de una cafetería acogedora. La cámara está posicionada ligeramente por debajo del nivel de los ojos y angulada hacia arriba, creando una sensación natural de proximidad y profundidad. Ella se inclina hacia adelante sobre una mesa con una postura realista y una distribución de peso natural, lo que le da un aire relajado y juguetón. La expresión facial muestra una media sonrisa sutil y juguetona que transmite confianza y calidez. Los labios están suavemente definidos con lápiz labial rojo, la expresión es natural y sin forzar. Los ojos están dirigidos hacia la cámara, atractivos y vivaces. Lleva un top halter escotado de color {argument name=\"top color\" default=\"azul profundo\"} con una textura de tela realista y una caída natural. El escote sigue la anatomía y la gravedad de forma realista, con una sutil tensión de la tela y pliegues donde interactúa con el cuerpo, sin formas exageradas. La piel se ve natural y saludable con poros visibles, textura fina, transiciones tonales suaves y ligeras imperfecciones. La iluminación cálida del interior crea suaves reflejos sin ningún efecto brillante o plástico. El cabello está peinado de forma natural, coincidiendo exactamente con la imagen de referencia en forma y estructura, con volumen realista y mechones individuales visibles, sin estilización ni alteración. La iluminación es cálida, suave y difusa, propia de una cafetería, produciendo sombras suaves debajo del mentón y a lo largo de los contornos faciales. La luz se siente ambiental y natural, consistente con un ambiente íntimo de cafetería. El fondo es un acogedor ambiente de cafetería con una pared de mosaicos y plantas de interior, suavemente desenfocado para proporcionar textura y atmósfera sin distraer del sujeto.",
+  "style": "fotorrealista",
   "camera": {
-    "angle": "slightly low angle",
-    "perspective": "handheld selfie",
-    "position": "below eye level",
-    "lens_effect": "natural depth, shallow depth of field"
+    "angle": "ángulo ligeramente bajo",
+    "perspective": "selfie tomada a mano",
+    "position": "debajo del nivel de los ojos",
+    "lens_effect": "profundidad natural, poca profundidad de campo"
   },
   "lighting": {
-    "type": "warm indoor café lighting",
-    "quality": "soft and diffused",
-    "shadows": "gentle, natural facial contour shadows"
+    "type": "iluminación cálida de interior de cafetería",
+    "quality": "suave y difusa",
+    "shadows": "sombras suaves y naturales en el contorno facial"
   },
   "environment": {
-    "location": "cozy café",
+    "location": "cafetería acogedora",
     "background_elements": [
-      "mosaic tile wall",
-      "indoor plants"
+      "pared de mosaicos",
+      "plantas de interior"
     ],
-    "background_focus": "softly blurred"
+    "background_focus": "suavemente borroso"
   },
   "subject": {
     "age": 25,
-    "expression": "subtle playful half-smile",
-    "eye_direction": "looking at camera",
-    "skin": "natural texture with visible pores and imperfections",
-    "hair": "natural styling, realistic volume, visible strands"
+    "expression": "media sonrisa sutil y juguetona",
+    "eye_direction": "mirando a la cámara",
+    "skin": "textura natural con poros e imperfecciones visibles",
+    "hair": "peinado natural, volumen realista, mechones visibles"
   },
   "clothing": {
-    "top": "deep blue low-cut halter top",
-    "fabric": "realistic texture and natural drape"
+    "top": "top halter escotado azul profundo",
+    "fabric": "textura realista y caída natural"
   },
   "quality": {
-    "realism": "high",
-    "detail_level": "ultra-detailed",
-    "rendering": "photorealistic"
+    "realism": "alto",
+    "detail_level": "ultradetallado",
+    "rendering": "fotorrealista"
   }
 }
 ```
@@ -1025,7 +1026,7 @@ A highly detailed prompt for generating a photorealistic, low-angle, handheld se
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166862466_xag2uk_G9WYJ1oWIAAZfki.jpg" width="600" alt="Perfil / Avatar - Photorealistic Low-Angle Café Selfie - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166862466_xag2uk_G9WYJ1oWIAAZfki.jpg" width="600" alt="Perfil / Avatar - Selfie de café fotorrealista en ángulo bajo - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1178,69 +1179,69 @@ Un prompt JSON extremadamente detallado que utiliza metadatos del motor "PX-LOCK
 
 ---
 
-### No. 6: Perfil / Avatar - Bathroom Mirror Selfie Lifestyle Shot
+### No. 6: Perfil / Avatar - Foto de estilo de vida: selfie en el espejo del baño
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-A prompt for generating a photorealistic, casual lifestyle snapshot simulating a smartphone mirror selfie. It features a young woman seated on a white marble bathroom counter in a black bodysuit, captured from a rear 3/4 view with a playful expression. It includes specific camera controls (DWPose, ZoeDepth) and a detailed negative prompt to ensure realism and avoid common AI artifacts.
+Un prompt para generar una instantánea fotorrealista de estilo de vida casual que simula una selfie de espejo con un smartphone. Presenta a una mujer joven sentada en un mostrador de baño de mármol blanco, vistiendo un body negro, capturada desde una vista trasera de 3/4 con una expresión juguetona. Incluye controles de cámara específicos (DWPose, ZoeDepth) y un prompt negativo detallado para asegurar el realismo y evitar artefactos comunes de IA.
 
 #### 📝 Prompt
 
 ```
 {
   "subject": {
-    "description": "Young woman with long straight dark brown hair seated on a bathroom counter.",
-    "attire": "Black matte high-cut open-back bodysuit.",
-    "anatomy": "Emphasis on hips, thighs, and glutes from seated angle; natural tan skin.",
-    "accessories": "Gold clover chain bracelet.",
-    "makeup": "Natural glam with eyeliner and matte lips."
+    "description": "Mujer joven con cabello largo, liso y castaño oscuro, sentada en el mostrador de un baño.",
+    "attire": "Body negro mate de corte alto y espalda abierta.",
+    "anatomy": "Énfasis en caderas, muslos y glúteos desde un ángulo sentado; piel bronceada natural.",
+    "accessories": "Pulsera de cadena de trébol dorada.",
+    "makeup": "Maquillaje natural glamuroso con delineador y labios mate."
   },
   "pose": {
-    "type": "Seated mirror selfie",
-    "orientation": "Rear 3/4 view, torso twisted toward mirror",
-    "expression": "Playful, tongue out",
-    "arms": "Right hand holding phone, left resting",
-    "legs": "One knee bent in foreground",
-    "spine": "Natural seated arch"
+    "type": "Selfie de espejo sentada",
+    "orientation": "Vista trasera de 3/4, torso girado hacia el espejo",
+    "expression": "Juguetona, con la lengua afuera",
+    "arms": "Mano derecha sosteniendo el teléfono, izquierda en reposo",
+    "legs": "Una rodilla flexionada en primer plano",
+    "spine": "Arco natural de la espalda al sentarse"
   },
   "environment": {
-    "location": "Modern bright bathroom",
-    "features": "White marble counter, glass shower, freestanding tub, small windows, wooden stool, recessed lights",
-    "floor": "White marble tile"
+    "location": "Baño moderno y luminoso",
+    "features": "Mostrador de mármol blanco, ducha de cristal, bañera exenta, ventanas pequeñas, taburete de madera, luces empotradas",
+    "floor": "Piso de baldosas de mármol blanco"
   },
   "camera": {
-    "type": "Smartphone mirror selfie",
-    "lens": "Wide (~26mm equiv)",
-    "dof": "Deep focus",
-    "device": "iPhone with dark patterned case"
+    "type": "Selfie de espejo con smartphone",
+    "lens": "Gran angular (equivalente a ~26mm)",
+    "dof": "Enfoque profundo",
+    "device": "iPhone con funda oscura estampada"
   },
   "lighting": {
     "sources": [
-      "Ceiling downlights",
-      "Window daylight"
+      "Luces empotradas del techo",
+      "Luz diurna de la ventana"
     ],
-    "quality": "Bright, even, cool-neutral"
+    "quality": "Brillante, uniforme, frío-neutro"
   },
   "output": {
     "ratio": "3:4",
-    "orientation": "Portrait",
-    "style": "Photorealistic casual snapshot"
+    "orientation": "Vertical",
+    "style": "Instantánea casual fotorrealista"
   },
   "controls": {
     "pose": "DWPose (1.0)",
     "depth": "ZoeDepth (0.8)"
   },
   "negative_prompt": [
-    "body averaging",
-    "slimmed proportions",
-    "closed mouth",
-    "cinematic lighting",
-    "blur",
-    "low resolution",
-    "illustration",
-    "3d render"
+    "cuerpo promedio",
+    "proporciones adelgazadas",
+    "boca cerrada",
+    "iluminación cinematográfica",
+    "desenfoque",
+    "baja resolución",
+    "ilustración",
+    "render 3d"
   ]
 }
 ```
@@ -1250,7 +1251,7 @@ A prompt for generating a photorealistic, casual lifestyle snapshot simulating a
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166855237_2tdrj3_G9VdZWmXcAAT_cb.jpg" width="600" alt="Perfil / Avatar - Bathroom Mirror Selfie Lifestyle Shot - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166855237_2tdrj3_G9VdZWmXcAAT_cb.jpg" width="600" alt="Perfil / Avatar - Foto de estilo de vida: selfie en el espejo del baño - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2343,93 +2344,94 @@ Un prompt de generación de imágenes muy detallado para un retrato artístico c
 
 ---
 
-### No. 23: Publicación en redes sociales - Cinematic Yacht Portrait in Crimson Silk at Golden Hour
+### No. 23: Publicación en redes sociales - Retrato cinematográfico de yate en seda carmesí a la hora dorada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A highly detailed, structured prompt for generating an ultra-photorealistic cinematic portrait of an athletic woman on a luxury yacht deck at sunset. The prompt emphasizes dynamic movement of a massive crimson silk drape due to strong wind, low-angle framing, and sensual details, rendered with an Arri Alexa LF aesthetic.
+Un *prompt* sumamente detallado y estructurado para generar un retrato cinematográfico ultra fotorrealista de una mujer atlética en la cubierta de un yate de lujo al atardecer. El *prompt* enfatiza el movimiento dinámico de un enorme cortinaje de seda carmesí debido al fuerte viento, un encuadre de ángulo bajo y detalles sensuales, todo ello renderizado con una estética Arri Alexa LF.
 
 #### 📝 Prompt
 
 ```
 {
-  "image_type": "Ultra-Photorealistic Cinematic Portrait",
-  "meta": {
-    "aspect_ratio": "3:4",
-    "quality": "photorealistic, hyperdetailed, cinematic light",
-    "camera": "Arri Alexa LF, 85mm prime lens",
-    "resolution": "8k",
-    "lens": "soft focus on background, razor-sharp on subject and fabric",
-    "style": "Opulent, dramatic lighting, dynamic movement"
-  },
-  "scene": {
-    "location": "Aft deck of a luxury yacht",
-    "environment": "Open ocean, smooth teak decking, polished mahogany railing",
-    "time": "Sunset (Golden Hour), strong dynamic wind",
-    "atmosphere": "Sensual, dynamic, rich, solitary"
-  },
-  "camera_perspective": {
-    "pov": "Slightly below eye level",
-    "angle": "Low angle to emphasize stature and the upward movement of fabric",
-    "framing": "Full body to capture the entire flow of the silk",
-    "lens_effect": "Subtle lens flare from the setting sun, cinematic depth of field",
-    "focus_priority": "The movement of the silk and the subject's expression",
-    "phone_visibility": "None"
-  },
-  "subject": {
-    "gender": "Female",
-    "age": "28-35",
-    "ethnicity": "Mediterranean/Tanned skin",
-    "body": {
-      "type": "Athletic and curvaceous",
-      "waist": "Defined",
-      "chest": "Full (partially exposed side or underboob due to draping)",
-      "hips": "Curvy",
-      "ass": "Round and firm",
-      "skin": "Sun-kissed, glistening with sea moisture"
-    },
-    "pose": {
-      "position": "Leaning against a railing, weight on one leg",
-      "stance": "Relaxed yet powerful, elegant posture",
-      "upper_body": "Torso slightly twisted away from the camera",
-      "lower_body": "Implied revealing contours beneath the silk drape",
-      "legs": "One knee slightly bent (hip cocked)",
-      "arms": "One arm relaxed at her side, the other hand lightly touches the silk",
-      "shoulders": "Bare and slightly raised (suggesting tension)",
-      "energy": "Dynamic tension due to the wind movement"
-    },
-    "expression": {
-      "eyes": "Smoldering/Intense",
-      "gaze": "Looking slightly off-camera toward the horizon",
-      "mouth": "Softly parted, suggestive smile",
-      "face_vibe": "Confident and empowered"
-    },
-    "hair": {
-      "color": "Dark chestnut",
-      "style": "Long, tousled waves",
-      "behavior": "Slightly wind-blown, catching the rim light"
-    },
-    "outfit": {
-      "top": {
-        "type": "Luxurious, massive draped silk scarf/wrap (heavy flow)",
-        "pattern": "Solid",
-        "colors": [
-          "{argument name=\"silk color 1\" default=\"Crimson\"}",
-          "{argument name=\"silk color 2\" default=\"Burgundy\"}"
-        ],
-        "fabric": "Heavy pure silk, high sheen",
-        "cut_details": "Draped loosely across the chest and shoulders, momentary reveal of skin due to wind (side-boob/under-boob outline)",
-        "fit": "Loose and flowing",
-        "support": "Implied strapless bra/minimalist base layer (mostly obscured)"
-      },
-      "bottom": {
-        "type": "Draped silk wrap (sarong style)",
-        "pattern": "{argument name=\"bottom pattern\" default=\"Solid\"}"
-      }
-    }
+  "image_type": "Retrato cinematográfico ultra fotorrealista",
+  "meta": {
+    "aspect_ratio": "3:4",
+    "quality": "fotorrealista, hiperdetallado, luz cinematográfica",
+    "camera": "Arri Alexa LF, lente fija de 85mm",
+    "resolution": "8k",
+    "lens": "enfoque suave en el fondo, nítido en el sujeto y la tela",
+    "style": "Opulento, iluminación dramática, movimiento dinámico"
+  },
+  "scene": {
+    "location": "Cubierta de popa de un yate de lujo",
+    "environment": "Océano abierto, cubierta de teca lisa, barandilla de caoba pulida",
+    "time": "Atardecer (Hora Dorada), viento fuerte y dinámico",
+    "atmosphere": "Sensual, dinámica, rica, solitaria"
+  },
+  "camera_perspective": {
+    "pov": "Ligeramente por debajo del nivel de los ojos",
+    "angle": "Ángulo bajo para enfatizar la estatura y el movimiento ascendente de la tela",
+    "framing": "Cuerpo completo para capturar todo el flujo de la seda",
+    "lens_effect": "Sutil destello de lente del sol poniente, profundidad de campo cinematográfica",
+    "focus_priority": "El movimiento de la seda y la expresión del sujeto",
+    "phone_visibility": "Ninguna"
+  },
+  "subject": {
+    "gender": "Femenino",
+    "age": "28-35",
+    "ethnicity": "Mediterránea/Piel bronceada",
+    "body": {
+      "type": "Atlética y curvilínea",
+      "waist": "Definida",
+      "chest": "Completo (lado parcialmente expuesto o parte inferior del busto debido al drapeado)",
+      "hips": "Curvilíneas",
+      "ass": "Redondo y firme",
+      "skin": "Besada por el sol, brillante con la humedad del mar"
+    },
+    "pose": {
+      "position": "Apoyada en una barandilla, con el peso en una pierna",
+      "stance": "Relajada pero potente, postura elegante",
+      "upper_body": "Torso ligeramente girado lejos de la cámara",
+      "lower_body": "Contornos reveladores implícitos bajo el drapeado de seda",
+      "legs": "Una rodilla ligeramente doblada (cadera levantada)",
+      "arms": "Un brazo relajado a su lado, la otra mano toca ligeramente la seda",
+      "shoulders": "Descubiertos y ligeramente levantados (sugiriendo tensión)",
+      "energy": "Tensión dinámica debido al movimiento del viento"
+    },
+    "expression": {
+      "eyes": "Ardientes/Intensos",
+      "gaze": "Mirando ligeramente fuera de cámara hacia el horizonte",
+      "mouth": "Ligeramente entreabierta, sonrisa sugerente",
+      "face_vibe": "Segura y empoderada"
+    },
+    "hair": {
+      "color": "Castaño oscuro",
+      "style": "Ondas largas y despeinadas",
+      "behavior": "Ligeramente despeinado por el viento, captando la luz de borde"
+    },
+    "outfit": {
+      "top": {
+        "type": "Lujosa y enorme bufanda/chal de seda drapeada (gran fluidez)",
+        "pattern": "Liso",
+        "colors": [
+          "{argument name=\"silk color 1\" default=\"Carmesí\"}",
+          "{argument name=\"silk color 2\" default=\"Borgoña\"}"
+        ],
+        "fabric": "Seda pura pesada, alto brillo",
+        "cut_details": "Drapeado holgadamente sobre el pecho y los hombros, revelación momentánea de piel debido al viento (contorno lateral del busto/parte inferior del busto)",
+        "fit": "Holgado y fluido",
+        "support": "Sujetador sin tirantes implícito/capa base minimalista (mayormente oculta)"
+      },
+      "bottom": {
+        "type": "Pareo de seda drapeado (estilo sarong)",
+        "pattern": "{argument name=\"bottom pattern\" default=\"Liso\"}"
+      }
+    }
+  }
 }
 ```
 
@@ -2438,7 +2440,7 @@ A highly detailed, structured prompt for generating an ultra-photorealistic cine
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166888578_lvsxhh_G9XtLKrXwAA3BPv.jpg" width="600" alt="Publicación en redes sociales - Cinematic Yacht Portrait in Crimson Silk at Golden Hour - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166888578_lvsxhh_G9XtLKrXwAA3BPv.jpg" width="600" alt="Publicación en redes sociales - Retrato cinematográfico de yate en seda carmesí a la hora dorada - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2713,19 +2715,19 @@ Un *prompt* JSON altamente estructurado para generar una imagen cinematográfica
 
 ---
 
-### No. 28: Publicación en redes sociales - Wes Anderson Style Pop-Art Food Photography
+### No. 28: Publicación en redes sociales - Fotografía de alimentos estilo pop-art de Wes Anderson
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A prompt for creating a playful, high-contrast pop-art food photograph in the style of Wes Anderson. It features a pink mousse cake on a pastel blue table against a pink background, with two hands holding cutlery symmetrically, emphasizing vivid pastel colors and sharp studio lighting with distinct shadows.
+Un prompt para crear una fotografía de comida pop-art lúdica y de alto contraste al estilo de Wes Anderson. Presenta un pastel de mousse rosa sobre una mesa azul pastel con un fondo rosa, con dos manos sosteniendo cubiertos simétricamente, enfatizando los colores pastel vivos y una iluminación de estudio nítida con sombras marcadas.
 
 #### 📝 Prompt
 
 ```
-"A playful pop-art food photography shot featuring a round {argument name="cake color" default="pink"} mousse cake topped with white cream swirls and fresh raspberries. The cake sits on a pastel blue table against a solid pastel pink background. Two hands emerge from behind the table holding a silver fork and knife vertically in the air, creating a quirky symmetrical composition. Hard studio lighting creates sharp, distinct shadows. Small purple waxflowers are scattered on the blue surface. High contrast, vivid pastel colors, Wes Anderson aesthetic."
+"Una divertida fotografía de comida estilo pop-art que muestra un pastel de mousse redondo de color {argument name="cake color" default="rosa"} cubierto con espirales de crema blanca y frambuesas frescas. El pastel se encuentra sobre una mesa azul pastel con un fondo rosa pastel sólido. Dos manos emergen de detrás de la mesa sosteniendo un tenedor y un cuchillo plateados verticalmente en el aire, creando una composición simétrica peculiar. La iluminación intensa de estudio crea sombras nítidas y definidas. Pequeñas flores de cera moradas están esparcidas sobre la superficie azul. Alto contraste, colores pastel vivos, estética de Wes Anderson."
 ```
 
 #### 🖼️ Imágenes generadas
@@ -2733,25 +2735,25 @@ A prompt for creating a playful, high-contrast pop-art food photograph in the st
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166851365_sxnagg_G9XBpmrX0AArxf_.jpg" width="600" alt="Publicación en redes sociales - Wes Anderson Style Pop-Art Food Photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166851365_sxnagg_G9XBpmrX0AArxf_.jpg" width="600" alt="Publicación en redes sociales - Fotografía de alimentos estilo pop-art de Wes Anderson - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166852056_8xkeg6_G9XBpmpXIAAG4Xz.jpg" width="600" alt="Publicación en redes sociales - Wes Anderson Style Pop-Art Food Photography - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767166852056_8xkeg6_G9XBpmpXIAAG4Xz.jpg" width="600" alt="Publicación en redes sociales - Fotografía de alimentos estilo pop-art de Wes Anderson - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166854030_u0xq8y_G9XBpm3WsAA3Tnq.jpg" width="600" alt="Publicación en redes sociales - Wes Anderson Style Pop-Art Food Photography - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767166854030_u0xq8y_G9XBpm3WsAA3Tnq.jpg" width="600" alt="Publicación en redes sociales - Fotografía de alimentos estilo pop-art de Wes Anderson - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166854621_fgzm9q_G9XBpmqXYAAovuK.jpg" width="600" alt="Publicación en redes sociales - Wes Anderson Style Pop-Art Food Photography - Image 4">
+<img src="https://cms-assets.youmind.com/media/1767166854621_fgzm9q_G9XBpmqXYAAovuK.jpg" width="600" alt="Publicación en redes sociales - Fotografía de alimentos estilo pop-art de Wes Anderson - Image 4">
 </div>
 
 #### 📌 Detalles
@@ -2930,13 +2932,13 @@ Un prompt de generación de imágenes para una fotografía espontánea de estilo
 
 ---
 
-### No. 31: Publicación en redes sociales - Ultra Realistic Fashion Editorial with Identity and Scene Preservation
+### No. 31: Publicación en redes sociales - Editorial de moda ultrarrealista con preservación de identidad y escena
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-A complex, structured prompt designed for image generation models like Nano Banana Pro, focusing on recreating a specific scene and pose from a reference image while strictly preserving the identity of the subject from a separate face reference image, resulting in an ultra-realistic, high-contrast fashion editorial.
+Un *prompt* complejo y estructurado diseñado para modelos de generación de imágenes como Nano Banana Pro, que se enfoca en recrear una escena y pose específicas a partir de una imagen de referencia, mientras preserva estrictamente la identidad del sujeto de una imagen de referencia facial separada, lo que resulta en un editorial de moda ultrarrealista y de alto contraste.
 
 #### 📝 Prompt
 
@@ -2949,8 +2951,8 @@ A complex, structured prompt designed for image generation models like Nano Bana
     "face_reference_image": "<YOUR_FACE_IMAGE>",
     "scene_reference_image": "<SCENE_IMAGE_2>"
   },
-  "prompt": "Ultra realistic fashion editorial. EXACT SAME FACE as face_reference_image, identical identity. Recreate scene exactly from scene_reference_image: outdoor setting with tall mirrored panels reflecting trees. Muscular shirtless man standing, carrying the woman horizontally over shoulders. Woman wearing light fabric dress, arms and legs extended. Same pose, same proportions, same camera angle and framing. High-contrast, sharp details, cinematic fashion look.",
-  "negative_prompt": "different face, identity drift, illustration, CGI, plastic skin, deformed body, extra limbs, wrong pose, wrong mirrors, text, watermark, blur",
+  "prompt": "Editorial de moda ultrarrealista. EXACTAMENTE LA MISMA CARA que en face_reference_image, identidad idéntica. Recrear la escena exactamente como en scene_reference_image: ambiente exterior con paneles altos espejados que reflejan árboles. Hombre musculoso sin camisa de pie, cargando a la mujer horizontalmente sobre los hombros. Mujer con vestido de tela ligera, brazos y piernas extendidos. Misma pose, mismas proporciones, mismo ángulo de cámara y encuadre. Alto contraste, detalles nítidos, estilo cinematográfico de moda.",
+  "negative_prompt": "cara diferente, cambio de identidad, ilustración, CGI, piel de plástico, cuerpo deformado, extremidades adicionales, pose incorrecta, espejos incorrectos, texto, marca de agua, desenfoque",
   "settings": {
     "aspect_ratio": "9:16",
     "resolution": { "width": 1024, "height": 1365 },
@@ -2960,7 +2962,7 @@ A complex, structured prompt designed for image generation models like Nano Bana
     "composition_match": "max",
     "identity_preservation": "max",
     "face_consistency": "max",
-    "reference_strength": { "face": 1.0, "scene": 0.98 },
+    "reference_strength": { "face": 1.0, "scene": 0.98 }
   }
 }
 ```
@@ -2970,13 +2972,13 @@ A complex, structured prompt designed for image generation models like Nano Bana
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166873259_t2jrrr_G9W7-REXgAAmW7A.jpg" width="600" alt="Publicación en redes sociales - Ultra Realistic Fashion Editorial with Identity and Scene Preservation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166873259_t2jrrr_G9W7-REXgAAmW7A.jpg" width="600" alt="Publicación en redes sociales - Editorial de moda ultrarrealista con preservación de identidad y escena - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166876575_p75l9r_G9W7-lEWwAAkP4-.jpg" width="600" alt="Publicación en redes sociales - Ultra Realistic Fashion Editorial with Identity and Scene Preservation - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767166876575_p75l9r_G9W7-lEWwAAkP4-.jpg" width="600" alt="Publicación en redes sociales - Editorial de moda ultrarrealista con preservación de identidad y escena - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -3143,19 +3145,19 @@ Una versión revisada de la indicación de infografía médica (del tuit 2005552
 
 ---
 
-### No. 35: Infografía / Visual educativo - 3D Isometric Atlas Scene in Firefly Style
+### No. 35: Infografía / Visual educativo - Escena de atlas isométrico 3D al estilo Firefly
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A prompt for generating an epic 3D isometric atlas scene, where a massive ancient map erupts from a scroll, transforming into a living landscape with stacked civilizations and dramatic golden-hour lighting, rendered in an 8K Unreal Engine 5 style.
+Un *prompt* para generar una escena épica de un atlas isométrico en 3D, donde un enorme mapa antiguo brota de un pergamino, transformándose en un paisaje vivo con civilizaciones apiladas y una dramática iluminación de la hora dorada, renderizado al estilo de Unreal Engine 5 en 8K.
 
 #### 📝 Prompt
 
 ```
-Epic 3D isometric atlas scene: a massive ancient map of {argument name="subject" default="[SUBJECT]"} erupts from an unfurled parchment scroll, filling nearly the entire frame. Ink lines ignite into living terrain: mountain ranges push upward, cities rise in vertical layers, rivers glow and flow, borders burn softly in gold. Multiple civilizations {argument name="civilization layers" default="[CIVILIZATION LAYERS]"} coexist in stacked time, their architectures phasing through one another as if time is folding. A carved timeline spirals across the map with engraved dates. All text in {argument name="language" default="[LANGUAGE]"}. Extreme scale contrast, dense micro-detail everywhere, dramatic golden-hour light, volumetric dust, cinematic depth, 8K, UE5.
+Épica escena de atlas isométrico en 3D: un enorme mapa antiguo de {argument name="subject" default="[SUBJECT]"} emerge de un pergamino desenrollado, llenando casi todo el encuadre. Las líneas de tinta se encienden en un terreno vivo: las cadenas montañosas se elevan, las ciudades crecen en capas verticales, los ríos brillan y fluyen, las fronteras arden suavemente en oro. Múltiples civilizaciones {argument name="civilization layers" default="[CIVILIZATION LAYERS]"} coexisten en tiempo apilado, sus arquitecturas se superponen como si el tiempo se plegara. Una línea de tiempo tallada se enrolla en espiral a través del mapa con fechas grabadas. Todo el texto en {argument name="language" default="[LANGUAGE]"}. Contraste de escala extremo, microdetalles densos por todas partes, dramática luz de la hora dorada, polvo volumétrico, profundidad cinematográfica, 8K, UE5.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -3163,25 +3165,25 @@ Epic 3D isometric atlas scene: a massive ancient map of {argument name="subject"
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166876854_pv0tv4_G9TrbHSWwAAkuce.jpg" width="600" alt="Infografía / Visual educativo - 3D Isometric Atlas Scene in Firefly Style - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166876854_pv0tv4_G9TrbHSWwAAkuce.jpg" width="600" alt="Infografía / Visual educativo - Escena de atlas isométrico 3D al estilo Firefly - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166877142_a5i4br_G9Trz5bXEAAitgJ.jpg" width="600" alt="Infografía / Visual educativo - 3D Isometric Atlas Scene in Firefly Style - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767166877142_a5i4br_G9Trz5bXEAAitgJ.jpg" width="600" alt="Infografía / Visual educativo - Escena de atlas isométrico 3D al estilo Firefly - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166878762_68vua9_G9Tr_D-WEAAX7I8.jpg" width="600" alt="Infografía / Visual educativo - 3D Isometric Atlas Scene in Firefly Style - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767166878762_68vua9_G9Tr_D-WEAAX7I8.jpg" width="600" alt="Infografía / Visual educativo - Escena de atlas isométrico 3D al estilo Firefly - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166879792_gibnyc_G9TsQuAWMAEIruE.jpg" width="600" alt="Infografía / Visual educativo - 3D Isometric Atlas Scene in Firefly Style - Image 4">
+<img src="https://cms-assets.youmind.com/media/1767166879792_gibnyc_G9TsQuAWMAEIruE.jpg" width="600" alt="Infografía / Visual educativo - Escena de atlas isométrico 3D al estilo Firefly - Image 4">
 </div>
 
 #### 📌 Detalles
@@ -3399,52 +3401,52 @@ Estoy probando si puedo crear manga educativo de TI. El tema es el concepto de l
 
 ---
 
-### No. 40: Infografía / Visual educativo - Macro Diorama Historical Rivalry (Science Wars)
+### No. 40: Infografía / Visual educativo - Macrodiorama: Rivalidad histórica (Guerras científicas)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A complex, multi-phase prompt designed to generate a hyper-detailed macro diorama image illustrating a historical or modern rivalry (e.g., Elon Musk vs. a competitor). It requires integrating era-appropriate documents (the 'stage'), tiny figurines of the rivals in period clothing, giant tools, and critically, legible environmental text (identity anchors) to label the figures without floating text. This prompt is highly conceptual and structured.
+Un *prompt* complejo y multifásico diseñado para generar una imagen de diorama macro hiperdetallada que ilustre una rivalidad histórica o moderna (por ejemplo, Elon Musk contra un competidor). Requiere integrar documentos apropiados para la época (el "escenario"), pequeñas figurillas de los rivales con vestimenta de época, herramientas gigantes y, fundamentalmente, texto ambiental legible (*identity anchors*) para etiquetar las figuras sin texto flotante. Este *prompt* es altamente conceptual y estructurado.
 
 #### 📝 Prompt
 
 ```
-<instructions> 
-Input: Invention/Rivalry = {argument name="invention/rivalry" default="[User Choice]"}
+<instructions>
+Input: Invención/Rivalidad = {argument name="invention/rivalry" default="[User Choice]"}
 
-Phase 1: Chronological Profiling
-Ancient (Pre-500 AD): Stone/Papyrus, Oil Lamps. Labeling = Carved symbols or scroll signatures.
-Renaissance (1400-1600): Parchment, Candlelight. Labeling = Wax seals, hand-lettered envelopes, book spines.
-Industrial (1800-1940): Blueprints, Gaslight. Labeling = Typed Patent headers, Business Cards, Newspaper Headlines.
-Modern (1950-Present): Circuit diagrams, Neon. Labeling = ID Badges, Magazine covers, Computer login screens.
+Fase 1: Perfil Cronológico
+Antigua (Pre-500 d. C.): Piedra/Papiro, Lámparas de aceite. Etiquetado = Símbolos tallados o firmas en rollos.
+Renacimiento (1400-1600): Pergamino, Luz de velas. Etiquetado = Sellos de cera, sobres escritos a mano, lomos de libros.
+Industrial (1800-1940): Planos, Luz de gas. Etiquetado = Encabezados de patentes mecanografiados, tarjetas de presentación, titulares de periódicos.
+Moderna (1950-Presente): Diagramas de circuitos, Neón. Etiquetado = Credenciales de identificación, portadas de revistas, pantallas de inicio de sesión de computadora.
 
-Phase 2:
-Goal: A hyper-detailed Macro Diorama where the environment identifies the rivals.
+Fase 2:
+Objetivo: Un Macrodiorama hiperdetallado donde el entorno identifica a los rivales.
 
-1. The Stage (The Document):
- The ground is the primary design medium of the era (Clay Tablet, Parchment, Blueprint, or CAD Printout).
-The Invention:A 3D Prototype is rising from the center, separating the two figures.
+1. El Escenario (El Documento):
+El suelo es el medio de diseño principal de la época (Tabla de arcilla, Pergamino, Plano o Impresión CAD).
+La Invención: Un Prototipo 3D se eleva desde el centro, separando a las dos figuras.
 
-2. The Living Miniatures: Two tiny, hyper-realistic figurines (The Rivals) interact with the invention.
-  They are dressed strictly in period-accurate clothing.
+2. Las Miniaturas Vivientes: Dos figurillas diminutas e hiperrealistas (Los Rivales) interactúan con la invención.
+Están vestidas estrictamente con ropa acorde a la época.
 
-3. The Identity Anchors (CRITICAL - Labeling):
-Instruction: You must seamlessly integrate readable text into the "Giant" props near each figure to identify them to the viewer.
-Prop A (Near Rival 1): Place a "Giant" personal item with their name visible. (e.g., A letter addressed to "Mr. T. Edison", a book titled "By C. Darwin", or a security badge reading "S. Jobs").
-Prop B (Near Rival 2):Do the same for the second figure. (e.g., A Patent application signed "Nikola Tesla", or a court summons for "Mark Zuckerberg").
-Context: These items must look like they were carelessly left on the desk, not floating labels.
+3. Los Anclajes de Identidad (CRÍTICO - Etiquetado):
+Instrucción: Debes integrar de forma impecable texto legible en los accesorios "Gigantes" cerca de cada figura para identificarlos al espectador.
+Accesorio A (Cerca del Rival 1): Coloca un objeto personal "Gigante" con su nombre visible. (ej. Una carta dirigida a "Sr. T. Edison", un libro titulado "Por C. Darwin", o una credencial de seguridad que diga "S. Jobs").
+Accesorio B (Cerca del Rival 2): Haz lo mismo para la segunda figura. (ej. Una solicitud de patente firmada por "Nikola Tesla", o una citación judicial para "Mark Zuckerberg").
+Contexto: Estos objetos deben parecer que fueron dejados descuidadamente sobre el escritorio, no etiquetas flotantes.
 
-4. The "Giant" Atmosphere:
-The Tools: Giant-scale era-appropriate tools (Chisels, Quills, Soldering Irons) tower over the figures.
-The Clutter: Period-specific debris (Marble dust, Ink spills, Burnt fuses, Empty soda cans).
+4. La Atmósfera "Gigante":
+Las Herramientas: Herramientas a escala gigante apropiadas para la época (Cinceles, Plumas, Soldadores) se elevan sobre las figuras.
+El Desorden: Escombros específicos de la época (Polvo de mármol, Derrames de tinta, Fusibles quemados, Latas de refresco vacías).
 
-5. Technical Specs:
-Lighting: Era-appropriate source (Fire vs. Filament vs. LED).
-Perspective:Tilt-shift macro photography (45-degree angle). focus on the miniatures.
+5. Especificaciones Técnicas:
+Iluminación: Fuente apropiada para la época (Fuego vs. Filamento vs. LED).
+Perspectiva: Fotografía macro con efecto tilt-shift (ángulo de 45 grados). Enfócate en las miniaturas.
 
-Output: ONE image, 4:5 aspect ratio, photorealistic historical macro photography with legible environmental text. </instructions>
+Output: UNA imagen, relación de aspecto 4:5, fotografía macro histórica fotorrealista con texto ambiental legible. </instructions>
 ```
 
 #### 🖼️ Imágenes generadas
@@ -3452,13 +3454,13 @@ Output: ONE image, 4:5 aspect ratio, photorealistic historical macro photography
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166866151_b0xdhd_G9B-1KFWIAAuVhM.jpg" width="600" alt="Infografía / Visual educativo - Macro Diorama Historical Rivalry (Science Wars) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166866151_b0xdhd_G9B-1KFWIAAuVhM.jpg" width="600" alt="Infografía / Visual educativo - Macrodiorama: Rivalidad histórica (Guerras científicas) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166866879_kr768n_G9B-1KFXMAA8otj.jpg" width="600" alt="Infografía / Visual educativo - Macro Diorama Historical Rivalry (Science Wars) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767166866879_kr768n_G9B-1KFXMAA8otj.jpg" width="600" alt="Infografía / Visual educativo - Macrodiorama: Rivalidad histórica (Guerras científicas) - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -3533,19 +3535,19 @@ Un prompt detallado para generar un póster infográfico médico profesional y d
 
 ---
 
-### No. 42: Infografía / Visual educativo - Detective Evidence Board Generation
+### No. 42: Infografía / Visual educativo - Generación de tablero de pruebas de detective
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A prompt designed to generate a visual concept of a detective's evidence board, simulating an obsessive, late-night noir atmosphere. It details the cork board's contents: polaroids, maps, newspaper clippings, sticky notes, and red string connecting the evidence, emphasizing dramatic shadows from a single bare bulb and realistic clutter like coffee stains.
+Un *prompt* diseñado para generar un concepto visual del tablero de pruebas de un detective, simulando una atmósfera *noir* obsesiva y nocturna. Detalla el contenido del tablero de corcho: polaroids, mapas, recortes de periódicos, notas adhesivas e hilo rojo que conecta las pruebas, enfatizando las sombras dramáticas de una sola bombilla desnuda y el desorden realista como manchas de café.
 
 #### 📝 Prompt
 
 ```
-"A detective's evidence board investigating \\{argument name="subject/mystery" default="[SUBJECT/MYSTERY]"}\\\. Cork surface covered with pinned items: polaroid photographs with handwritten dates, a street map with circled locations, newspaper clippings with highlighted passages, sticky notes with theories and question marks, and printed documents with redacted black bars. Red string connects related evidence across the board, creating a web of connections. Thumbtacks in primary colors. A single bare bulb casts dramatic shadows. Coffee ring stains on some papers. The atmosphere is obsessive, late-night, noir—someone has been piecing this together for months. A few pins have fallen, suggesting frantic recent activity."
+"Un tablero de pruebas de detective investigando \\{argument name="subject/mystery" default="[SUBJECT/MYSTERY]"}\\\. Superficie de corcho cubierta con elementos fijados: fotografías Polaroid con fechas escritas a mano, un mapa callejero con ubicaciones marcadas con círculos, recortes de periódicos con pasajes resaltados, notas adhesivas con teorías y signos de interrogación, y documentos impresos con barras negras tachadas. Un hilo rojo conecta las pruebas relacionadas a lo largo del tablero, creando una red de conexiones. Tachuelas de colores primarios. Una sola bombilla desnuda proyecta sombras dramáticas. Manchas de anillos de café en algunos papeles. La atmósfera es obsesiva, de noche, noir; alguien ha estado armando esto durante meses. Algunas tachuelas se han caído, lo que sugiere una actividad frenética reciente."
 ```
 
 #### 🖼️ Imágenes generadas
@@ -3553,7 +3555,7 @@ A prompt designed to generate a visual concept of a detective's evidence board, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166861840_f5kbrz_G9UejSfa0AAtmYj.jpg" width="600" alt="Infografía / Visual educativo - Detective Evidence Board Generation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166861840_f5kbrz_G9UejSfa0AAtmYj.jpg" width="600" alt="Infografía / Visual educativo - Generación de tablero de pruebas de detective - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3607,45 +3609,45 @@ Una plantilla de prompt estructurada para generar imágenes que reinterpretan la
 
 ---
 
-### No. 44: Infografía / Visual educativo - Nano Banana Pro: Prompt para infografía modular de alimentos con cuadrícula Bento
+### No. 44: Infografía / Visual educativo - Prompt para infografía de Bento Grid sobre ciencia de los alimentos
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt altamente estructurado y con formato JSON, diseñado para Nano Banana Pro, con el fin de generar una infografía educativa profesional, cálida y de alta gama sobre un ingrediente alimentario específico. El diseño utiliza una cuadrícula modular tipo Bento Grid con secciones específicas para nutrición, beneficios para la salud, métodos de cocción y consejos de almacenamiento.
+Un prompt JSON altamente estructurado para Nano Banana Pro, diseñado para generar un póster infográfico educativo de alta calidad (relación de aspecto 9:16) sobre un ingrediente alimentario específico. Utiliza un estilo de diseño de interfaz de usuario modular "Bento Grid", especificando secciones para análisis nutricional, beneficios para la salud, métodos de cocción, estacionalidad, maridajes y consejos de almacenamiento, todo ello presentado con una estética minimalista y una paleta de colores cálidos de baja saturación.
 
 #### 📝 Prompt
 
 ```
 {
   "image_analysis": {
-    "subject": "{argument name=\"ingredient name\" default=\"Goji Berry\"} Infografía científica, 9:16",
+    "subject": "Infografía sobre {argument name=\"ingredient name\" default=\"Baya de Goji\"}, 9:16",
     "style": "Diseño de cuadrícula modular Bento / Diseño de interfaz de usuario minimalista",
     "tone": "Profesional, cálido, de alta gama, educativo",
     "primary_colors": ["Beige", "Crema", "Marrón oscuro", "Tonos tierra cálidos"]
   },
   "prompt_elements": {
-    "subject_description": "Un póster informativo de divulgación científica de alta calidad sobre {argument name=\"ingredient name\" default=\"Goji Berry\"}.",
-    "layout": "Diseño de cuadrícula modular estilo caja bento, diseño de interfaz UI/UX limpio, dividido en tarjetas rectangulares claras.",
+    "subject_description": "Un póster infográfico educativo de alta calidad sobre {argument name=\"ingredient name\" default=\"Baya de Goji\"}.",
+    "layout": "Diseño de cuadrícula modular estilo caja Bento, diseño de interfaz de usuario/experiencia de usuario limpio, dividido en tarjetas rectangulares claras.",
     "visual_details": [
-      "Encabezado superior con un título llamativo y elegante en caligrafía china 'Nombre chino del ingrediente' y su nombre científico",
-      "El centro superior presenta una imagen fotográfica hiperrealista de [descripción visual del ingrediente fresco]",
+      "Encabezado superior con un llamativo y elegante título en caligrafía china 'Nombre chino del ingrediente' y su nombre científico",
+      "La parte superior central presenta una imagen fotográfica hiperrealista de [descripción visual del ingrediente fresco]",
       "Un pequeño mapa esquemático de [origen/país] en la esquina",
-      "Parte 1: Análisis nutricional con gráficos de dona y de barras, porcentajes que indican proporciones",
-      "Parte 2: Diagrama de silueta humana que muestra los beneficios para la salud con líneas de conexión",
-      "Parte 3: Matriz de métodos de cocción con íconos de línea minimalistas ([método de cocción 1], [método de cocción 2], [método de cocción 3])",
-      "Parte 4: Guía de consumo estacional con gráficos circulares",
-      "Parte 5: Cuadrícula de maridaje de alimentos con íconos simples ([maridaje 1], [maridaje 2], [maridaje 3])",
-      "Parte 6: Ícono de perfil de público objetivo",
-      "Parte 7: Guía de almacenamiento y selección con íconos de temperatura y clima"
+      "Sección 1: Análisis nutricional con gráficos de anillos y gráficos de barras, porcentajes que indican proporciones",
+      "Sección 2: Diagrama de silueta humana que muestra los beneficios para la salud con líneas de conexión",
+      "Sección 3: Matriz de métodos de cocción con íconos de línea minimalistas ([Método de cocción 1], [Método de cocción 2], [Método de cocción 3])",
+      "Sección 4: Guía de consumo estacional con gráficos circulares",
+      "Sección 5: Cuadrícula de maridaje de alimentos con íconos simples ([Maridaje 1], [Maridaje 2], [Maridaje 3])",
+      "Sección 6: Ícono de perfil de público objetivo",
+      "Sección 7: Guía de almacenamiento y selección con íconos de temperatura y clima"
     ],
     "art_style": "Diseño gráfico minimalista, ilustraciones vectoriales suaves combinadas con fotografía de producto, íconos de diseño plano, tipografía limpia.",
-    "lighting": "Iluminación de estudio suave y difusa, estilo estético sin sombras y plano.",
-    "color_palette": "Fondo monocromático beige cálido, tarjetas blancas cremosas, texto marrón oscuro y gris carbón, acentos suaves."
+    "lighting": "Iluminación de estudio suave y difusa, estética sin sombras y de vista superior.",
+    "color_palette": "Fondo monocromático beige cálido, tarjetas blanquecinas, texto marrón oscuro y gris carbón, acentos suaves."
   },
-  "negative_prompt": "Desorden, colores neón, diseño desordenado, baja resolución, borroso, texto distorsionado, renderizado 3D, fondo oscuro, caos, sobresaturación, marca de agua"
+  "negative_prompt": "Desordenado, colores neón, diseño desorganizado, baja resolución, borroso, texto distorsionado, renderizado 3D, fondo oscuro, caos, sobresaturado, marca de agua"
 }
 ```
 
@@ -3654,19 +3656,19 @@ Un prompt altamente estructurado y con formato JSON, diseñado para Nano Banana 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166985995_xxqxoh_G9Q7Z2IasAEXVDU.jpg" width="600" alt="Infografía / Visual educativo - Nano Banana Pro: Prompt para infografía modular de alimentos con cuadrícula Bento - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166985995_xxqxoh_G9Q7Z2IasAEXVDU.jpg" width="600" alt="Infografía / Visual educativo - Prompt para infografía de Bento Grid sobre ciencia de los alimentos - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166987096_9o5vxf_G9Q7Z2PasAAYRcp.jpg" width="600" alt="Infografía / Visual educativo - Nano Banana Pro: Prompt para infografía modular de alimentos con cuadrícula Bento - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767166987096_9o5vxf_G9Q7Z2PasAAYRcp.jpg" width="600" alt="Infografía / Visual educativo - Prompt para infografía de Bento Grid sobre ciencia de los alimentos - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166986899_mmtyvb_G9Q7Z2JbYAABPoc.jpg" width="600" alt="Infografía / Visual educativo - Nano Banana Pro: Prompt para infografía modular de alimentos con cuadrícula Bento - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767166986899_mmtyvb_G9Q7Z2JbYAABPoc.jpg" width="600" alt="Infografía / Visual educativo - Prompt para infografía de Bento Grid sobre ciencia de los alimentos - Image 3">
 </div>
 
 #### 📌 Detalles
@@ -3908,19 +3910,19 @@ Una colección de 15 prompts especializados para Nano Banana Pro, diseñados par
 
 ---
 
-### No. 49: Miniatura de YouTube - Yakuza Portrait with Irezumi Tattoos
+### No. 49: Miniatura de YouTube - Retrato de Yakuza con tatuajes Irezumi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A prompt for generating an extreme close-up, intimate cinematic portrait of a Japanese Yakuza member. The focus is on his piercing cold eyes and intricate, vibrant traditional Irezumi tattoos (phoenix, dragon, oni mask) visible on his neck and face. It requires dramatic low-key lighting with rim light to emphasize the eyes and tattoos, creating a moody, tense, photorealistic atmosphere.
+Un prompt para generar un retrato cinematográfico íntimo y en primer plano extremo de un miembro de la Yakuza japonesa. El enfoque está en sus penetrantes ojos fríos y en los intrincados y vibrantes tatuajes tradicionales Irezumi (fénix, dragón, máscara oni) visibles en su cuello y rostro. Requiere una iluminación dramática de clave baja con luz de contorno para enfatizar los ojos y los tatuajes, creando una atmósfera melancólica, tensa y fotorrealista.
 
 #### 📝 Prompt
 
 ```
-Extreme close-up intimate portrait of a Japanese yakuza member, late-30s man with intensely piercing cold eyes dominating the frame as the absolute focal point, subtle fierce and calculating expression, unblinking direct gaze into the camera conveying quiet danger and depth, highly detailed irises with sharp reflections, intricate traditional irezumi tattoos prominently visible on neck rising to jawline and partially on lower face/cheeks ({argument name="tattoo motifs" default="phoenix, crashing waves, cherry blossoms, dragon coils, and oni mask"} in vibrant classic tebori style), open collared dark suit revealing tattoo edges, slicked-back black hair, subtle facial scar on cheek, realistic pores and skin texture, dramatic low-key cinematic lighting with rim light highlighting eyes and tattoos, moody tense atmosphere, photorealistic, ultra-detailed
+Retrato íntimo en primerísimo plano de un miembro de la mafia japonesa yakuza, un hombre de unos 30 años con ojos fríos intensamente penetrantes que dominan el encuadre como punto focal absoluto, expresión sutilmente feroz y calculadora, mirada directa e inquebrantable a la cámara que transmite un peligro silencioso y profundidad, iris muy detallados con reflejos nítidos, intrincados tatuajes tradicionales irezumi prominentemente visibles en el cuello que se extienden hasta la mandíbula y parcialmente en la parte inferior de la cara/mejillas ({argument name="tattoo motifs" default="fénix, olas rompiendo, flores de cerezo, espirales de dragón y máscara oni"} en vibrante estilo clásico tebori), traje oscuro de cuello abierto que revela los bordes de los tatuajes, cabello negro peinado hacia atrás, cicatriz facial sutil en la mejilla, poros y textura de la piel realistas, iluminación cinematográfica dramática de clave baja con luz de contorno que resalta los ojos y los tatuajes, atmósfera tensa y melancólica, fotorrealista, ultradetallado.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -3928,7 +3930,7 @@ Extreme close-up intimate portrait of a Japanese yakuza member, late-30s man wit
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166855605_due4qe_G9Wyq23XkAAKheB.jpg" width="600" alt="Miniatura de YouTube - Yakuza Portrait with Irezumi Tattoos - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166855605_due4qe_G9Wyq23XkAAKheB.jpg" width="600" alt="Miniatura de YouTube - Retrato de Yakuza con tatuajes Irezumi - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3942,18 +3944,18 @@ Extreme close-up intimate portrait of a Japanese yakuza member, late-30s man wit
 
 ---
 
-### No. 50: Miniatura de YouTube - Black and White Cinematic Motion Portrait
+### No. 50: Miniatura de YouTube - Retrato cinemático en blanco y negro con movimiento
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-A prompt for creating an ultra-realistic, high-contrast black-and-white cinematic portrait of a young man walking through a busy city at night. The key feature is the dramatic motion blur of the surrounding crowd, isolating the sharply focused subject and creating a moody, film-noir aesthetic with soft urban bokeh lights.
+Un *prompt* para crear un retrato cinematográfico en blanco y negro, ultrarrealista y de alto contraste, de un joven caminando por una ciudad concurrida de noche. La característica clave es el dramático desenfoque de movimiento de la multitud circundante, que aísla al sujeto nítidamente enfocado y crea una estética melancólica de cine negro con suaves luces urbanas *bokeh*.
 
 #### 📝 Prompt
 
 ```
-Create an ultra-realistic black-and-white cinematic portrait of a young man walking through a busy night-time city - use face reference exactly. He remains sharply in focus while the crowd around him blurs into dynamic motion, creating a striking sense of isolation, depth, and introspection. Soft urban lights form abstract bokeh streaks behind him, enhancing the moody atmosphere. His expression is intense and thoughtful, hair slightly tousled, wearing a dark coat layered over a loosely unbuttoned shirt. High-contrast lighting, shallow depth of field, dramatic motion blur, film-noir aesthetic, and clean poster-style framing with crisp 8K realism.
+Crea un retrato cinematográfico en blanco y negro ultrarrealista de un joven caminando por una concurrida ciudad nocturna; usa la referencia facial exactamente. Él permanece nítidamente enfocado mientras la multitud a su alrededor se difumina en un movimiento dinámico, creando una sorprendente sensación de aislamiento, profundidad e introspección. Suaves luces urbanas forman rayas bokeh abstractas detrás de él, realzando la atmósfera melancólica. Su expresión es intensa y pensativa, el cabello ligeramente despeinado, vistiendo un abrigo oscuro sobre una camisa suelta desabotonada. Iluminación de alto contraste, poca profundidad de campo, desenfoque de movimiento dramático, estética de cine negro y un encuadre limpio estilo póster con un realismo nítido de 8K.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -3961,7 +3963,7 @@ Create an ultra-realistic black-and-white cinematic portrait of a young man walk
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166857922_7who3x_G9U8ewLb0AAmFSG.jpg" width="600" alt="Miniatura de YouTube - Black and White Cinematic Motion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166857922_7who3x_G9U8ewLb0AAmFSG.jpg" width="600" alt="Miniatura de YouTube - Retrato cinemático en blanco y negro con movimiento - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3975,19 +3977,19 @@ Create an ultra-realistic black-and-white cinematic portrait of a young man walk
 
 ---
 
-### No. 51: Miniatura de YouTube - Existential Cinematic Solitude Film Still
+### No. 51: Miniatura de YouTube - Fotograma de película de soledad cinematográfica existencial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A prompt for creating a cinematic film still drenched in emotional weight, inspired by 1970s existential cinema (Vilmos Zsigmond). It focuses on profound solitude, cold blue hour lighting, rain-streaked glass distortions, and a muted, desaturated palette, using technical details like analog grain and ray-traced reflections to create crushing atmospheric pressure.
+Un prompt para crear una imagen cinematográfica empapada de peso emocional, inspirada en el cine existencial de los años 70 (Vilmos Zsigmond). Se centra en la soledad profunda, la iluminación fría de la hora azul, las distorsiones del cristal empapado por la lluvia y una paleta de colores apagada y desaturada, utilizando detalles técnicos como el grano analógico y los reflejos con trazado de rayos para crear una presión atmosférica abrumadora.
 
 #### 📝 Prompt
 
 ```
-[{argument name="subject" default="Subject"}], profound solitude captured in cinema, hyper-real film still drenched in emotional weight, cold blue hour lighting with dying warmth at the edges, rain-streaked glass creating liquid distortions, shallow depth of field emphasizing loneliness, muted desaturated palette with isolated color accents, slow-motion implied stillness, fine analog grain reminiscent of 1970s existential cinema, lens flares bleeding into darkness, ray-traced reflections in pooling water, breath visible in cold air, negative space dominating the frame, crushing atmospheric pressure, intimate yet distant camera positioning, Vilmos Zsigmond-inspired melancholic cinematography, the weight of unspoken grief.
+[{argument name="subject" default="Subject"}], soledad profunda capturada en el cine, fotograma hiperrealista empapado de peso emocional, iluminación fría de la hora azul con un calor moribundo en los bordes, cristales empapados de lluvia creando distorsiones líquidas, poca profundidad de campo enfatizando la soledad, paleta desaturada y apagada con acentos de color aislados, quietud implícita en cámara lenta, grano analógico fino que recuerda al cine existencial de los años 70, destellos de lente que se desvanecen en la oscuridad, reflejos trazados por rayos en el agua estancada, aliento visible en el aire frío, espacio negativo dominando el encuadre, presión atmosférica aplastante, posicionamiento de cámara íntimo pero distante, cinematografía melancólica inspirada en Vilmos Zsigmond, el peso del dolor tácito.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -3995,7 +3997,7 @@ A prompt for creating a cinematic film still drenched in emotional weight, inspi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166865579_sejmp9_G9T0m7ZbUAA_1bA.jpg" width="600" alt="Miniatura de YouTube - Existential Cinematic Solitude Film Still - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166865579_sejmp9_G9T0m7ZbUAA_1bA.jpg" width="600" alt="Miniatura de YouTube - Fotograma de película de soledad cinematográfica existencial - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -5613,76 +5615,76 @@ Parte inferior: Pantalones de traje.
 
 ---
 
-### No. 80: Marketing de producto - Christmas Vertigo: Surreal Avant-Garde Mrs. Claus
+### No. 80: Marketing de producto - Vértigo navideño: una surrealista y vanguardista Señora Claus
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A detailed cinematic prompt for generating a surreal, high-budget fashion editorial image titled 'Christmas Vertigo.' It features an avant-garde Mrs. Santa Claus archetype caught in mid-laughter, wearing deep oxblood velvet, in a dreamlike attic where it is snowing indoors. The scene includes surreal reindeer with candelabra antlers and is shot with a severe Dutch Angle (Vertigo effect) on a Hasselblad H6D-100c with Kodak Portra 800 grain.
+Una indicación cinematográfica detallada para generar una imagen editorial de moda surrealista y de alto presupuesto titulada "Vértigo Navideño". Presenta a un arquetipo de la Sra. Claus vanguardista, capturada a mitad de una carcajada, vistiendo terciopelo color sangre de buey intenso, en un ático onírico donde está nevando en el interior. La escena incluye renos surrealistas con astas de candelabro y está filmada con un ángulo holandés pronunciado (efecto Vértigo) con una Hasselblad H6D-100c y grano Kodak Portra 800.
 
 #### 📝 Prompt
 
 ```
 {
-  "vibe_title_en": "Christmas Vertigo",
-  "master_prompt": "A surreal, high-budget cinematic shot of The Protagonist reimagined as an avant-garde Mrs. Santa Claus. The Subject is caught in a genuine moment of unguarded laughter, head thrown back, mid-motion blur, as if surprised by a sudden magical gust. They are wearing a heavy, textural oxblood-red velvet coat with exaggerated, rough-hewn white shearling trim. The location is a dreamlike, infinite wooden attic where it is snowing indoors. Surrounding the subject are hyper-realistic Reindeers, but with a surreal twist: their antlers are made of intricate, melting candelabras with lit candles dripping wax, and their breath manifests as visible gold dust. The lighting is harsh and directional, creating deep, dramatic shadows and high contrast, mimicking a strobe light hitting a blizzard. The camera is tilted at a severe 30-degree Dutch Angle (Vertigo effect), destabilizing the horizon. Captured on a Hasselblad H6D-100c with a 50mm lens, f/2.8. The image quality features the distinct grain of Kodak Portra 800, focusing on skin texture, flying snowflakes, and the tactile reality of the velvet and fur. No CGI feel; everything looks like a practical effect.",
+  "vibe_title_en": "Vértigo Navideño",
+  "master_prompt": "Una toma cinematográfica surrealista y de alto presupuesto de La Protagonista reinventada como una vanguardista Sra. Claus. El Sujeto es capturado en un momento genuino de risa despreocupada, con la cabeza echada hacia atrás, con un desenfoque de movimiento a mitad de la acción, como si la sorprendiera una ráfaga mágica repentina. Viste un abrigo de terciopelo rojo sangre de buey, pesado y texturizado, con un ribete de piel de oveja blanca tosca y exagerada. La ubicación es un ático de madera infinito y onírico donde nieva en el interior. Rodeando al sujeto hay renos hiperrealistas, pero con un giro surrealista: sus astas están hechas de intrincados candelabros derretidos con velas encendidas goteando cera, y su aliento se manifiesta como polvo de oro visible. La iluminación es dura y direccional, creando sombras profundas y dramáticas y un alto contraste, imitando una luz estroboscópica golpeando una tormenta de nieve. La cámara está inclinada en un ángulo holandés severo de 30 grados (efecto Vértigo), desestabilizando el horizonte. Capturada con una Hasselblad H6D-100c con un objetivo de 50 mm, f/2.8. La calidad de la imagen presenta el grano distintivo de Kodak Portra 800, centrándose en la textura de la piel, los copos de nieve voladores y la realidad táctil del terciopelo y el pelaje. Sin sensación de CGI; todo parece un efecto práctico.",
   "meta": {
-    "intent": "Editorial Fashion / Surreal Holiday",
-    "priorities": "Texture, Motion, Unexpected Angle",
-    "device_profile": "High-End Medium Format Digital"
+    "intent": "Moda Editorial / Festividad Surrealista",
+    "priorities": "Textura, Movimiento, Ángulo Inesperado",
+    "device_profile": "Digital de Formato Medio de Alta Gama"
   },
   "frame": {
     "aspect": "4:5",
-    "composition": "Dynamic Off-Center",
-    "layout": "Full Body / 3/4 Shot",
-    "camera_angle": "Low Angle",
-    "tilt_roll_degrees": "30 degrees (Dutch Tilt)"
+    "composition": "Dinámica Descentrada",
+    "layout": "Cuerpo Completo / Toma de 3/4",
+    "camera_angle": "Ángulo Bajo",
+    "tilt_roll_degrees": "30 grados (Inclinación Holandesa)"
   },
   "subject": {
-    "gender": "Female",
-    "identity": "The Protagonist (Mrs. Claus Archetype)",
-    "demographics": "Universal Adult",
-    "face": "Natural skin texture, visible pores, flushed cheeks from cold",
-    "hair": "Windblown, dynamic, snowflakes caught in strands",
-    "body": "Mid-motion, reactive posture",
-    "expression": "Unguarded laughter, surprise, eyes crinkled",
-    "pose": "Caught off-guard, leaning away or towards the camera due to the tilt"
+    "gender": "Femenino",
+    "identity": "La Protagonista (Arquetipo de la Sra. Claus)",
+    "demographics": "Adulto Universal",
+    "face": "Textura de piel natural, poros visibles, mejillas sonrojadas por el frío",
+    "hair": "Despeinado por el viento, dinámico, copos de nieve atrapados en los mechones",
+    "body": "En pleno movimiento, postura reactiva",
+    "expression": "Risa despreocupada, sorpresa, ojos entrecerrados",
+    "pose": "Tomada por sorpresa, inclinándose hacia o lejos de la cámara debido a la inclinación"
   },
   "wardrobe_accessories": {
     "garments": [
       {
-        "item": "Avant-Garde Coat",
-        "material": "Deep Oxblood Velvet",
-        "color": "{argument name=\"coat color\" default=\"Dark Red\"}",
-        "fit": "Oversized, Structural"
+        "item": "Abrigo Vanguardista",
+        "material": "Terciopelo Rojo Sangre de Buey Profundo",
+        "color": "{argument name=\"coat color\" default=\"Rojo Oscuro\"}",
+        "fit": "Extragrande, Estructural"
       },
       {
-        "item": "Trim",
-        "material": "Raw Shearling / Fur",
-        "color": "Cream White",
-        "fit": "Exaggerated Collar"
+        "item": "Ribete",
+        "material": "Piel de Oveja Cruda / Piel",
+        "color": "Blanco Crema",
+        "fit": "Cuello Exagerado"
       }
     ],
     "accessories": [
       {
-        "item": "Gloves",
-        "color": "Black",
-        "material": "Leather",
+        "item": "Guantes",
+        "color": "Negro",
+        "material": "Cuero",
         "brand_style": "Vintage"
       }
     ]
   },
   "environment": {
-    "setting": "Infinite Surreal Attic",
-    "surfaces": "Aged Wood, Indoor Snow, Floating Ribbons",
-    "depth": "Deep depth of field with atmospheric haze",
-    "atmosphere": "Cold, Magical, chaotic wind",
-    "lens_interaction": "Halation from the candles, motion blur on edges"
+    "setting": "Ático Surrealista Infinito",
+    "surfaces": "Madera Envejecida, Nieve Interior, Cintas Flotantes",
+    "depth": "Profunda profundidad de campo con neblina atmosférica",
+    "atmosphere": "Frío, Mágico, viento caótico",
+    "lens_interaction": "Halación de las velas, desenfoque de movimiento en los bordes"
   },
   "lighting": {
-    "key": "{argument name=\"lighting type\" default=\"Harsh and directional\"}"
+    "key": "{argument name=\"lighting type\" default=\"Dura y direccional\"}"
   }
 }
 ```
@@ -5692,7 +5694,7 @@ A detailed cinematic prompt for generating a surreal, high-budget fashion editor
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166886928_bmmi22_G9X8SeuXgAAgVQm.jpg" width="600" alt="Marketing de producto - Christmas Vertigo: Surreal Avant-Garde Mrs. Claus - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166886928_bmmi22_G9X8SeuXgAAgVQm.jpg" width="600" alt="Marketing de producto - Vértigo navideño: una surrealista y vanguardista Señora Claus - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -5706,21 +5708,21 @@ A detailed cinematic prompt for generating a surreal, high-budget fashion editor
 
 ---
 
-### No. 81: Marketing de producto - Hyper-Realistic Wet Skin Portrait
+### No. 81: Marketing de producto - Retrato hiperrealista de piel húmeda
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A prompt focused on achieving hyper-realistic skin texture in a wet close-up portrait. It details a side profile of a woman with dark, wet hair glued to her skin, emphasizing fine water droplets and sweat glistening on her face. The negative prompt is crucial, explicitly excluding common AI flaws like oily skin, heavy makeup, and low quality, aiming for a raw, cinematic look.
+Un *prompt* enfocado en lograr una textura de piel hiperrealista en un retrato de primer plano húmedo. Detalla el perfil lateral de una mujer con cabello oscuro y mojado pegado a su piel, enfatizando las finas gotas de agua y el sudor que brillan en su rostro. El *negative prompt* es crucial, ya que excluye explícitamente los defectos comunes de la IA como la piel grasosa, el maquillaje pesado y la baja calidad, buscando una apariencia cruda y cinematográfica.
 
 #### 📝 Prompt
 
 ```
 {
-  "prompt": "Extreme wet close-up portrait, side profile of a young woman. Dark wet hair strands naturally glued to the skin. Fine droplets of water and thin sweat glistening realistically on face. Focus on bright natural {argument name="eye color" default="green and hazel"} eyes with realistic reflection. Moist and shiny lips, soft natural skin texture. Soft lighting, cool color tones, light grey and white bokeh background. Hyper-realistic, 8k resolution, cinematic photography, raw style.",
-  "negative_prompt": "excessive shine, oily skin, dry skin, heavy makeup, cartoon, illustration, 3d render, low quality, blurry, distorted eyes, bad anatomy, overexposed, high contrast",
+  "prompt": "Retrato extremo de primer plano húmedo, perfil lateral de una mujer joven. Mechones de cabello oscuro y húmedo naturalmente pegados a la piel. Finas gotas de agua y un ligero sudor brillando de forma realista en el rostro. Enfoque en ojos brillantes y naturales {argument name=\"eye color\" default=\"verdes y avellana\"} con reflejo realista. Labios húmedos y brillantes, textura de piel suave y natural. Iluminación suave, tonos de color fríos, fondo bokeh gris claro y blanco. Hiperrealista, resolución 8k, fotografía cinematográfica, estilo crudo.",
+  "negative_prompt": "brillo excesivo, piel grasa, piel seca, maquillaje pesado, caricatura, ilustración, render 3d, baja calidad, borroso, ojos distorsionados, mala anatomía, sobreexpuesto, alto contraste",
   "parameters": {
     "aspect_ratio": "9:16",
     "steps": 30,
@@ -5735,7 +5737,7 @@ A prompt focused on achieving hyper-realistic skin texture in a wet close-up por
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166858742_oj8c8h_G9XNvJBWcAANwvq.jpg" width="600" alt="Marketing de producto - Hyper-Realistic Wet Skin Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166858742_oj8c8h_G9XNvJBWcAANwvq.jpg" width="600" alt="Marketing de producto - Retrato hiperrealista de piel húmeda - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -5749,14 +5751,14 @@ A prompt focused on achieving hyper-realistic skin texture in a wet close-up por
 
 ---
 
-### No. 82: Marketing de producto - Ultra-Photoreal Beauty Campaign Contact Sheet (BAGEL)
+### No. 82: Marketing de producto - Hoja de contacto de la campaña de belleza ultra fotorrealista (BAGEL)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A highly detailed, structured prompt for generating a 3x3 contact sheet for a beauty product campaign (BAGEL brand). It specifies the model's look, the product consistency, lighting (high-end beauty studio), and the exact content and composition of all nine frames in the collage, aiming for an ultra-photorealistic, editorial result.
+Un *prompt* altamente detallado y estructurado para generar una hoja de contactos de 3x3 para una campaña de productos de belleza (marca BAGEL). Especifica el *look* de la modelo, la consistencia del producto, la iluminación (estudio de belleza de alta gama) y el contenido y la composición exactos de los nueve cuadros del collage, buscando un resultado ultra fotorrealista y editorial.
 
 #### 📝 Prompt
 
@@ -5780,16 +5782,20 @@ A highly detailed, structured prompt for generating a 3x3 contact sheet for a be
     },
     "creative_prompt": {
       "scene_summary": {
-        "en": "Ultra-photoreal beauty campaign contact sheet on a pure white seamless background. A 3x3 grid collage of nine panels featuring ONE model with hair worn down: voluminous, glossy, long dark waves with soft movement and lift at the roots. The model has a lean, fit, runway-like physique and an attractive high-fashion look. Skin is luminous with realistic texture and refined editorial retouch (no plastic smoothing). Makeup: defined brows, clean eyeliner, soft bronzy blush, and bold red lipstick.\n\nProduct must stay consistent: a sleek chrome lip product tube and doe-foot applicator with the brand name '{argument name="brand name" default="BAGEL"}' printed clearly on the tube in a bold modern sans-serif. The tube shape, cap, chrome finish, and label placement remain consistent across all panels. The word '{argument name="brand name" default="BAGEL"}' is readable, spelled correctly, centered, and aligned on the tube in every panel where the product is visible. No other text or brands anywhere.\n\nPanel variety (9 frames):\n1) Model holds the chrome tube horizontally over the eyes like a visor; lips puckered.\n2) Close-up applying the red lipstick with the doe-foot applicator; tube visible with '{argument name="brand name" default="BAGEL"}'.\n3) Model laughing wide-mouth; tube held near face.\n4) Beauty angle portrait holding tube near chin; confident gaze.\n5) Extreme close-up smile with teeth; tube held lightly between teeth; '{argument name="brand name" default="BAGEL"}' readable.\n6) Wink + playful tongue-out; holding applicator and tube; '{argument name="brand name" default="BAGEL"}' readable.\n7) Applying lipstick again with elegant hand pose; manicure clean nude/white.\n8) Kissy face wink; cheek highlight strong and glossy.\n9) Tight crop smile; crisp lip texture and clean edges.\n\nLighting: high-end beauty studio lighting, bright and even, soft specular highlights on chrome packaging, realistic shadows, face and product both tack sharp. Composition: clean margins, consistent spacing between panels, magazine-quality production. No watermark, no extra logos."
+        "en": "Hoja de contacto de campaña de belleza ultra fotorrealista sobre un fondo blanco puro y sin uniones. Un collage de cuadrícula de 3x3 de nueve paneles con UNA modelo con el cabello suelto: ondas oscuras largas, voluminosas y brillantes con movimiento suave y volumen en las raíces. La modelo tiene un físico esbelto, en forma, tipo pasarela y un atractivo look de alta costura. La piel es luminosa con textura realista y retoque editorial refinado (sin suavizado plástico). Maquillaje: cejas definidas, delineador limpio, rubor bronceado suave y lápiz labial rojo intenso.\n\nEl producto debe permanecer consistente: un elegante tubo de producto labial cromado y un aplicador de pie de cierva con el nombre de la marca '{argument name=\"brand name\" default=\"BAGEL\"}' impreso claramente en el tubo con una fuente sans-serif moderna y audaz. La forma del tubo, la tapa, el acabado cromado y la ubicación de la etiqueta permanecen consistentes en todos los paneles. La palabra '{argument name=\"brand name\" default=\"BAGEL\"}' es legible, está escrita correctamente, centrada y alineada en el tubo en cada panel donde el producto es visible. No hay otro texto o marcas en ningún otro lugar.\n\nVariedad de paneles (9 cuadros):\n1) La modelo sostiene el tubo cromado horizontalmente sobre los ojos como una visera; labios fruncidos.\n2) Primer plano aplicando el lápiz labial rojo con el aplicador de pie de cierva; tubo visible con '{argument name=\"brand name\" default=\"BAGEL\"}'.\n3) Modelo riendo a carcajadas; tubo sostenido cerca de la cara.\n4) Retrato en ángulo de belleza sosteniendo el tubo cerca de la barbilla; mirada segura.\n5) Sonrisa en primer plano extremo con dientes; tubo sostenido ligeramente entre los dientes; '{argument name=\"brand name\" default=\"BAGEL\"}' legible.\n6) Guiño + lengua juguetona; sosteniendo el aplicador y el tubo; '{argument name=\"brand name\" default=\"BAGEL\"}' legible.\n7) Aplicando lápiz labial de nuevo con una elegante pose de mano; manicura limpia nude/blanca.\n8) Guiño con cara de beso; el iluminador de mejillas fuerte y brillante.\n9) Sonrisa de corte ajustado; textura de labios nítida y bordes limpios.\n\nIluminación: iluminación de estudio de belleza de alta gama, brillante y uniforme, reflejos especulares suaves en el empaque cromado, sombras realistas, cara y producto ambos nítidos. Composición: márgenes limpios, espaciado consistente entre paneles, producción con calidad de revista. Sin marca de agua, sin logotipos adicionales."
       },
       "composition": {
-        "layout": "3x3 grid collage, consistent white gutters, clean alignment",
-        "framing": "mix of tight close-ups and medium close-ups; product always readable when present",
-        "focus": "face sharp; BAGEL text sharp; background pure white"
+        "layout": "collage de cuadrícula de 3x3, espacios blancos consistentes, alineación limpia",
+        "framing": "mezcla de primeros planos ajustados y primeros planos medios; el producto siempre legible cuando está presente",
+        "focus": "cara nítida; texto BAGEL nítido; fondo blanco puro"
       },
       "lighting_and_camera": {
-        "lighting": "beauty studio: large soft key + fill + subtle rim; bright, clean, shadow-controlled",
-        "lens": "85
+        "lighting": "estudio de belleza: luz principal suave grande + relleno + luz de contorno sutil; brillante, limpia, con control de sombras",
+        "lens": "85"
+      }
+    }
+  }
+}
 ```
 
 #### 🖼️ Imágenes generadas
@@ -5797,7 +5803,7 @@ A highly detailed, structured prompt for generating a 3x3 contact sheet for a be
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166840662_87qy3j_G9XKiwHXYAAS4S3.jpg" width="600" alt="Marketing de producto - Ultra-Photoreal Beauty Campaign Contact Sheet (BAGEL) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166840662_87qy3j_G9XKiwHXYAAS4S3.jpg" width="600" alt="Marketing de producto - Hoja de contacto de la campaña de belleza ultra fotorrealista (BAGEL) - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -5811,129 +5817,129 @@ A highly detailed, structured prompt for generating a 3x3 contact sheet for a be
 
 ---
 
-### No. 83: Marketing de producto - Editorial Lifestyle Portrait in an Urban Laundromat
+### No. 83: Marketing de producto - Retrato editorial de estilo de vida en una lavandería urbana
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
- A structured prompt for generating an editorial lifestyle portrait of a young woman in a fitted turtleneck and corduroy trousers, set in an urban, utilitarian laundromat. The prompt specifies moderate lighting from fluorescent lights, a warm color palette despite the industrial setting, and a contemporary editorial aesthetic with vintage undertones.
+Un *prompt* estructurado para generar un retrato editorial de estilo de vida de una mujer joven con un cuello de tortuga ajustado y pantalones de pana, ambientado en una lavandería urbana y utilitaria. El *prompt* especifica una iluminación moderada de luces fluorescentes, una paleta de colores cálidos a pesar del entorno industrial y una estética editorial contemporánea con matices *vintage*.
 
 #### 📝 Prompt
 
 ```
 {
-"image_type": "photograph",
-"genre": "editorial lifestyle portrait",
+"image_type": "fotografía",
+"genre": "retrato editorial de estilo de vida",
 "composition": {
-"framing": "medium-full shot",
+"framing": "plano medio-completo",
 "orientation": "vertical",
-"subject_position": "centered",
-"pose": "standing with arms extended outward, hands resting on washing machines",
-"camera_height": "eye-level",
-"perspective": "straight-on",
-"depth_of_field": "shallow to moderate, subject sharp with softly blurred background"
+"subject_position": "centrado",
+"pose": "de pie con los brazos extendidos hacia afuera, las manos apoyadas en lavadoras",
+"camera_height": "a la altura de los ojos",
+"perspective": "frontal",
+"depth_of_field": "poca a moderada, sujeto nítido con fondo suavemente borroso"
 },
 "subject": {
 "count": 1,
 "appearance": {
-"gender_presentation": "female-presenting",
-"age_range": "young adult",
-"skin_tone": "light",
-"expression": "neutral to subtly confident",
-"gaze": "directly at camera",
+"gender_presentation": "de apariencia femenina",
+"age_range": "adulto joven",
+"skin_tone": "claro",
+"expression": "neutra a sutilmente segura",
+"gaze": "directamente a la cámara",
 "hair": {
-"color": "light brown",
-"length": "long",
-"style": "loose, slightly tousled, natural texture",
-"parting": "off-center"
+"color": "castaño claro",
+"length": "largo",
+"style": "suelto, ligeramente despeinado, textura natural",
+"parting": "descentrado"
 }
 },
 "clothing": {
 "top": {
-"type": "long-sleeve fitted turtleneck",
-"color": "{argument name=\"top color\" default=\"dark charcoal or black\"}",
-"texture": "smooth knit"
+"type": "suéter de cuello alto ajustado de manga larga",
+"color": "{argument name=\"top color\" default=\"gris carbón oscuro o negro\"}",
+"texture": "tejido liso"
 },
 "bottom": {
-"type": "high-waisted trousers",
-"color": "{argument name=\"bottom color\" default=\"rust brown\"}",
-"material": "corduroy",
-"fit": "relaxed with pleats"
+"type": "pantalones de cintura alta",
+"color": "{argument name=\"bottom color\" default=\"marrón óxido\"}",
+"material": "pana",
+"fit": "relajado con pliegues"
 }
 },
-"accessories": "none visible"
+"accessories": "ninguno visible"
 },
 "environment": {
-"location_type": "laundromat",
-"setting_style": "urban, utilitarian",
+"location_type": "lavandería",
+"setting_style": "urbano, utilitario",
 "background_elements": [
-"industrial washing machines",
-"metal ducts and pipes",
-"fluorescent ceiling lights",
-"signage with laundry-related text"
+"lavadoras industriales",
+"conductos y tuberías de metal",
+"luces fluorescentes de techo",
+"señalización con texto relacionado con la lavandería"
 ],
 "surface_materials": [
-"stainless steel",
-"painted metal",
-"plastic"
+"acero inoxidable",
+"metal pintado",
+"plástico"
 ]
 },
 "lighting": {
-"type": "ambient artificial",
-"source": "overhead fluorescent lights",
-"quality": "soft but slightly flat",
-"direction": "top-down with mild frontal fill",
-"contrast": "moderate",
-"shadows": "soft, minimal harsh shadowing"
+"type": "artificial ambiental",
+"source": "luces fluorescentes de techo",
+"quality": "suave pero ligeramente plana",
+"direction": "de arriba hacia abajo con un ligero relleno frontal",
+"contrast": "moderado",
+"shadows": "suaves, mínimas sombras duras"
 },
 "color_palette": {
 "dominant_colors": [
-"warm brown",
-"rust",
-"charcoal",
-"muted beige"
+"marrón cálido",
+"óxido",
+"carbón",
+"beige apagado"
 ],
 "accent_colors": [
-"silver",
-"off-white",
-"faded green"
+"plateado",
+"blanco roto",
+"verde descolorido"
 ],
-"temperature": "warm-leaning despite industrial setting",
-"saturation": "moderate, slightly desaturated"
+"temperature": "tendencia cálida a pesar del entorno industrial",
+"saturation": "moderada, ligeramente desaturada"
 },
 "technical_details": {
-"camera_style": "DSLR or mirrorless",
-"lens_characteristics": "standard to short telephoto",
+"camera_style": "DSLR o sin espejo",
+"lens_characteristics": "estándar a teleobjetivo corto",
 "aperture_estimate": "f/2.8–f/4",
 "iso_estimate": "400–800",
 "shutter_speed_estimate": "1/125–1/250",
-"focus": "sharp on subject face and torso"
+"focus": "nítido en el rostro y el torso del sujeto"
 },
 "artistic_style": {
-"mood": "casual, confident, contemporary",
-"aesthetic": "modern editorial with vintage undertones",
+"mood": "casual, seguro, contemporáneo",
+"aesthetic": "editorial moderno con toques vintage",
 "influences": [
-"fashion editorial",
-"urban lifestyle photography"
+"editorial de moda",
+"fotografía de estilo de vida urbano"
 ]
 },
 "background_treatment": {
-"clarity": "slightly softened",
-"distractions": "minimal, structured repetition of machines",
-"depth_cues": "linear perspective from machines and ceiling fixtures"
+"clarity": "ligeramente suavizado",
+"distractions": "mínimas, repetición estructurada de máquinas",
+"depth_cues": "perspectiva lineal de máquinas e instalaciones de techo"
 },
 "post_processing": {
-"color_grading": "warm tones emphasized",
-"contrast_adjustment": "slightly lifted blacks",
-"sharpness": "moderate, natural",
-"grain": "minimal to none"
+"color_grading": "tonos cálidos enfatizados",
+"contrast_adjustment": "negros ligeramente levantados",
+"sharpness": "moderada, natural",
+"grain": "mínimo o nulo"
 },
 "text_elements": {
 "presence": true,
-"style": "industrial signage",
-"legibility": "partially legible, not focal"
+"style": "señalización industrial",
+"legibility": "parcialmente legible, no focal"
 }
 }
 ```
@@ -5943,7 +5949,7 @@ A highly detailed, structured prompt for generating a 3x3 contact sheet for a be
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166893391_53cnvi_G9WvmFTaEAAJI28.jpg" width="600" alt="Marketing de producto - Editorial Lifestyle Portrait in an Urban Laundromat - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166893391_53cnvi_G9WvmFTaEAAJI28.jpg" width="600" alt="Marketing de producto - Retrato editorial de estilo de vida en una lavandería urbana - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -6059,10 +6065,10 @@ Un prompt JSON altamente estructurado para generar una fotografía editorial de 
 ```
 {
   "subject": {
-    "person": "Mujer joven, de veintitantos años, caucásica",
-    "hair": "Cabello rubio cenizo, rizos sueltos con volumen suave",
-    "pose": "Sentada cómodamente en un saliente, cuerpo ligeramente inclinado a la izquierda",
-    "expression": "Tranquila, elegante, sonrisa tenue"
+    "person": "Mujer joven, de unos 20 años, caucásica",
+    "hair": "Cabello rubio ceniza, rizos sueltos con volumen suave",
+    "pose": "Sentada cómodamente en un saliente, el cuerpo ligeramente inclinado hacia la izquierda",
+    "expression": "Tranquila, elegante, con una leve sonrisa"
   },
   "outfit": {
     "top": "Top blanco de satén con hombros descubiertos",
@@ -6084,7 +6090,7 @@ Un prompt JSON altamente estructurado para generar una fotografía editorial de 
     "quality": "Difusión suave y cinematográfica"
   },
   "composition": {
-    "style": "Foto de estilo de vida editorial de lujo, retrato medio, relación 4:5",
+    "style": "Foto editorial de estilo de vida de lujo, retrato medio, relación 4:5",
     "color_palette": "Tonos neutros apagados, baja saturación"
   }
 }
@@ -6212,19 +6218,19 @@ Un prompt estructurado para generar imágenes fotorrealistas de productos de e-c
 
 ---
 
-### No. 87: Imagen principal de e-commerce - Melting Transition Product Photography Prompt
+### No. 87: Imagen principal de e-commerce - Instrucciones para fotografía de producto con efecto de transición de derretimiento
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un *prompt* de publicidad conceptual diseñado para fotografía de productos, centrado en un efecto de transición de derretimiento surrealista. El *prompt* utiliza marcadores de posición para el producto y el medio de derretimiento para crear una imagen onírica y ultradetallada con un fondo limpio.
+Un *prompt* de publicidad conceptual diseñado para fotografía de productos, que se enfoca en un efecto de transición de derretimiento surrealista. El *prompt* utiliza marcadores de posición para el producto y el medio de derretimiento para crear una imagen onírica y ultradetallada con un fondo limpio.
 
 #### 📝 Prompt
 
 ```
-{argument name="PRODUCT" default="[PRODUCT]"} flotando en el espacio vacío, los bordes se funden en {argument name="medium" default="[líquido / luz / partículas]"}, gotas que desafían la gravedad se curvan hacia arriba, transición suave y surrealista, brillo tenue, atmósfera onírica, publicidad conceptual, fondo limpio, realismo ultra detallado.
+{argument name="PRODUCT" default="[PRODUCT]"} flotando en el espacio vacío, los bordes se funden en {argument name="medium" default="[líquido / luz / partículas]"}, gotas que desafían la gravedad se curvan hacia arriba, suave transición surrealista, brillo tenue, atmósfera onírica, publicidad conceptual, fondo limpio, realismo ultra detallado.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -6232,25 +6238,25 @@ Un *prompt* de publicidad conceptual diseñado para fotografía de productos, ce
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166900650_08rpfe_G9UtdxLa4AAPRfO.jpg" width="600" alt="Imagen principal de e-commerce - Melting Transition Product Photography Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166900650_08rpfe_G9UtdxLa4AAPRfO.jpg" width="600" alt="Imagen principal de e-commerce - Instrucciones para fotografía de producto con efecto de transición de derretimiento - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166900662_iiujvp_G9UtduqbUAAv1V3.jpg" width="600" alt="Imagen principal de e-commerce - Melting Transition Product Photography Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767166900662_iiujvp_G9UtduqbUAAv1V3.jpg" width="600" alt="Imagen principal de e-commerce - Instrucciones para fotografía de producto con efecto de transición de derretimiento - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166901078_3gu26i_G9Utd0HbgAASjA8.jpg" width="600" alt="Imagen principal de e-commerce - Melting Transition Product Photography Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767166901078_3gu26i_G9Utd0HbgAASjA8.jpg" width="600" alt="Imagen principal de e-commerce - Instrucciones para fotografía de producto con efecto de transición de derretimiento - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166902201_qwtxps_G9Utd5lbYAATf7p.jpg" width="600" alt="Imagen principal de e-commerce - Melting Transition Product Photography Prompt - Image 4">
+<img src="https://cms-assets.youmind.com/media/1767166902201_qwtxps_G9Utd5lbYAATf7p.jpg" width="600" alt="Imagen principal de e-commerce - Instrucciones para fotografía de producto con efecto de transición de derretimiento - Image 4">
 </div>
 
 #### 📌 Detalles
@@ -6389,40 +6395,40 @@ Un *prompt* estructurado para generar fotografías de productos de *keycaps* de 
 
 ---
 
-### No. 90: Imagen principal de e-commerce - Visual publicitario: reloj de lujo con un giro absurdo
+### No. 90: Imagen principal de e-commerce - Fotografía de producto de relojes de lujo: Lujo vs. Absurdo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt estructurado en chino para generar un visual publicitario de un reloj de lujo, centrándose en una composición de primer plano extremo, retroiluminación con destello de lente e incorporando un giro "absurdo" a través de una falta de coincidencia de material o forma para crear tensión creativa.
+Un *prompt* estructurado para generar fotografía de productos en un contexto publicitario, centrado en un reloj de lujo. El *prompt* utiliza una "tensión central" (lujo vs. absurdo) y "mecanismos de giro" (desajuste funcional, desplazamiento de material, mutación de forma) para crear una imagen visualmente impactante y humorística, ambientada en acrílico negro pulido con una fuerte retroiluminación.
 
 #### 📝 Prompt
 
 ```
 {
   "_world": "advertising",
-  "creation_intent": "Entretenimiento o broma",
-  "generation_logic": "Centrado en una persona o personaje",
+  "creation_intent": "Entretenimiento o Broma",
+  "generation_logic": "Centrado en persona o personaje",
   "subject_kit": {
-    "primary_subject": "{argument name=\"primary subject\" default=\"Reloj de lujo\"}",
+    "primary_subject": "{argument name=\"primary subject\" default=\"Reloj de Lujo\"}",
     "secondary_elements": [
-      "Cojín de terciopelo",
-      "Documento de certificación"
+      "Cojín de Terciopelo",
+      "Documento de Certificación"
     ]
   },
   "core_tension": "Lujo vs. Absurdo",
   "twist_mechanisms": [
-    "Desajuste de función",
-    "Desplazamiento de material",
-    "Metamorfosis de forma"
+    "Desajuste Funcional",
+    "Desplazamiento de Material",
+    "Mutación de Forma"
   ],
-  "stage_context": "Acrílico negro pulido",
-  "composition_rule": "Primer plano extremo",
-  "lighting_rule": "Contraluz con destello de lente",
-  "imaging_assumption": "Perspectiva de escritorio en tonos cálidos",
-  "deliverable_type": "Visual principal de publicidad",
+  "stage_context": "Acrílico Negro Pulido",
+  "composition_rule": "Primer Plano Extremo con Recorte Ajustado",
+  "lighting_rule": "Contraluz con Destello de Lente",
+  "imaging_assumption": "Perspectiva de Escritorio en Tonos Cálidos",
+  "deliverable_type": "Visual Principal de Publicidad",
   "creative_directive": null,
   "oblique_strategy": null,
   "_evaluation": {
@@ -6438,7 +6444,7 @@ Un prompt estructurado en chino para generar un visual publicitario de un reloj 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166994929_v96yhi_G9UG-OVWQAEzyqM.jpg" width="600" alt="Imagen principal de e-commerce - Visual publicitario: reloj de lujo con un giro absurdo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166994929_v96yhi_G9UG-OVWQAEzyqM.jpg" width="600" alt="Imagen principal de e-commerce - Fotografía de producto de relojes de lujo: Lujo vs. Absurdo - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -6538,13 +6544,14 @@ Sin desorden, sin personas, sin destellos de lente, sin exageración cyberpunk, 
 
 ---
 
-### No. 92: Imagen principal de e-commerce - Prompt de fotografía de producto para navaja suiza (Suspensión surrealista)
+### No. 92: Imagen principal de e-commerce - Prompt de fotografía de producto: Navaja suiza
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt JSON estructurado para generar una fotografía de producto de una navaja suiza, centrándose en una composición surrealista suspendida, utilizando mecanismos de "desplazamiento de material" y "desalineación de escala", ambientada sobre una placa de metal cepillado con iluminación cruzada para resaltar la textura.
+Un prompt JSON estructurado para Nano Banana Pro (framework MetaGeny) enfocado en generar fotografía de producto que transmita emoción o atmósfera. Se centra en una navaja suiza, detallando su emblema de escudo y su construcción plegada. El prompt utiliza una tensión de "comodidad vs. clínica", incorporando giros como la desproporción de escala y la ubicación incorrecta de materiales, todo ello sobre una placa de metal cepillado con iluminación cruzada para resaltar la textura, buscando una composición surrealista y flotante.
 
 #### 📝 Prompt
 
@@ -6552,29 +6559,29 @@ Un prompt JSON estructurado para generar una fotografía de producto de una nava
 {
   "_world": "product_photography",
   "creation_intent": "Emoción o atmósfera",
-  "generation_logic": "Centrado en persona o personaje",
+  "generation_logic": "Centrado en la persona o el personaje",
   "subject_kit": {
-    "primary_subject": "Navaja suiza",
+    "primary_subject": "{argument name=\"primary subject\" default=\"Navaja suiza\"}",
     "secondary_elements": [
       "Emblema de escudo",
-      "Estructura plegable"
+      "Construcción plegada"
     ]
   },
-  "core_tension": "Comodidad vs. Sensación clínica",
+  "core_tension": "Sensación de comodidad vs. clínica",
   "twist_mechanisms": [
-    "Desalineación de escala",
+    "Desajuste de escala",
     "Desajuste de función",
     "Material fuera de lugar"
   ],
   "stage_context": "Placa de metal cepillado",
-  "composition_rule": "Visualización en perspectiva diagonal",
-  "lighting_rule": "Luz cruzada que resalta la textura",
-  "imaging_assumption": "Composición surrealista suspendida",
+  "composition_rule": "Visualización de perspectiva diagonal",
+  "lighting_rule": "Luz cruzada para resaltar la textura",
+  "imaging_assumption": "Composición flotante surrealista",
   "deliverable_type": "Foto de producto",
   "creative_directive": null,
   "oblique_strategy": null,
   "_evaluation": {
-    "verdict": "APROBADO",
+    "verdict": "PASS",
     "violations": [],
     "warnings": []
   }
@@ -6586,7 +6593,7 @@ Un prompt JSON estructurado para generar una fotografía de producto de una nava
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166990161_ssesc2_G9SA-68awAAqjXg.jpg" width="600" alt="Imagen principal de e-commerce - Prompt de fotografía de producto para navaja suiza (Suspensión surrealista) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166990161_ssesc2_G9SA-68awAAqjXg.jpg" width="600" alt="Imagen principal de e-commerce - Prompt de fotografía de producto: Navaja suiza - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -6600,44 +6607,45 @@ Un prompt JSON estructurado para generar una fotografía de producto de una nava
 
 ---
 
-### No. 93: Imagen principal de e-commerce - Mensaje visual publicitario para barra de chocolate (visualización del proceso)
+### No. 93: Imagen principal de e-commerce - Visual de anuncio: Exhibición del proceso de una barra de chocolate
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt JSON estructurado para generar un visual publicitario de una barra de chocolate, enfocado en mostrar el proceso o la técnica, utilizando mecanismos de "lógica seccional" y "desajuste funcional", ambientado sobre un fondo infinito blanco puro con una iluminación de belleza suave de arriba hacia abajo.
+Un *prompt* JSON estructurado para Nano Banana Pro (marco MetaGeny) enfocado en publicidad, mostrando artesanía o tecnología. Está dirigido a una barra de chocolate, detallando elementos como goteos de chocolate derretido, cacao en polvo y empaque de aluminio. El *prompt* utiliza una tensión de "deseo vs. control", incorporando giros como etiquetado irónico y lógica de sección transversal, ambientado en un fondo infinito blanco puro con iluminación de belleza tipo *softbox*, buscando una fotografía de producto industrial.
 
 #### 📝 Prompt
 
 ```
 {
   "_world": "publicidad",
-  "creation_intent": "Mostrar la artesanía o la técnica",
-  "generation_logic": "El proceso o la producción en sí es lo más destacado",
+  "creation_intent": "Mostrar la artesanía o la tecnología",
+  "generation_logic": "El proceso o la producción en sí es el foco",
   "subject_kit": {
-    "primary_subject": "Barra de chocolate",
+    "primary_subject": "{argument name=\"primary subject\" default=\"Barra de Chocolate\"}",
     "secondary_elements": [
       "Gotas de chocolate derretido",
       "Cacao en polvo",
-      "Envase de aluminio"
+      "Empaque de papel de aluminio"
     ]
   },
   "core_tension": "Deseo vs. Control",
   "twist_mechanisms": [
-    "Ironía de anotación",
-    "Desajuste funcional",
-    "Lógica seccional"
+    "Ironía en el etiquetado",
+    "Desajuste de función",
+    "Lógica de sección transversal"
   ],
   "stage_context": "Blanco puro infinito",
-  "composition_rule": "Composición de espejo simétrico",
-  "lighting_rule": "Luz de belleza superior de softbox",
+  "composition_rule": "Composición de espejo simétrica",
+  "lighting_rule": "Luz de belleza superior Softbox",
   "imaging_assumption": "Fotografía de producto industrial",
-  "deliverable_type": "Visual principal de publicidad",
+  "deliverable_type": "Visual clave publicitario",
   "creative_directive": null,
   "oblique_strategy": null,
   "_evaluation": {
-    "verdict": "APROBADO",
+    "verdict": "PASS",
     "violations": [],
     "warnings": []
   }
@@ -6649,7 +6657,7 @@ Un prompt JSON estructurado para generar un visual publicitario de una barra de 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166990802_228d3e_G9SAZrJbcAEdDDz.jpg" width="600" alt="Imagen principal de e-commerce - Mensaje visual publicitario para barra de chocolate (visualización del proceso) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166990802_228d3e_G9SAZrJbcAEdDDz.jpg" width="600" alt="Imagen principal de e-commerce - Visual de anuncio: Exhibición del proceso de una barra de chocolate - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -6663,13 +6671,14 @@ Un prompt JSON estructurado para generar un visual publicitario de una barra de 
 
 ---
 
-### No. 94: Imagen principal de e-commerce - Instrucciones visuales para publicidad de botellas de vino (Lógica seccional)
+### No. 94: Imagen principal de e-commerce - Visual de anuncio: Toma de producto de botella de vino
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt JSON estructurado para generar un visual publicitario de una botella de vino, enfocado en fotografía de producto industrial, utilizando mecanismos de "lógica seccional" y "dispersión de gravedad cero" para crear una imagen dinámica y de alta tensión ambientada en una escena nocturna de neón.
+Un prompt JSON estructurado para Nano Banana Pro (framework MetaGeny) enfocado en la persuasión comercial para publicidad. Se centra en una botella de vino como sujeto principal, enfatizando elementos como sellos de cera y etiquetas vintage. El prompt utiliza una tensión de "limpieza vs. caos", incorporando giros como la lógica de sección transversal y la dispersión en gravedad cero, todo ambientado en un telón de fondo de vida nocturna de neón con iluminación de la hora dorada.
 
 #### 📝 Prompt
 
@@ -6679,24 +6688,24 @@ Un prompt JSON estructurado para generar un visual publicitario de una botella d
   "creation_intent": "Persuasión comercial",
   "generation_logic": "Impulsado por reglas, estructura y sistema",
   "subject_kit": {
-    "primary_subject": "Botella de vino",
+    "primary_subject": "{argument name=\"primary subject\" default=\"Botella de vino\"}",
     "secondary_elements": [
       "Sello de cera",
-      "Detalles de corcho",
+      "Detalle de corcho",
       "Etiqueta vintage"
     ]
   },
-  "core_tension": "Orden vs. Caos",
+  "core_tension": "Limpieza vs. Caos",
   "twist_mechanisms": [
-    "Lógica seccional",
-    "Dispersión de gravedad cero",
+    "Lógica de sección transversal",
+    "Dispersión en gravedad cero",
     "Congelación dinámica"
   ],
   "stage_context": "Escena nocturna de neón",
   "composition_rule": null,
   "lighting_rule": "Luz cálida de la hora dorada",
   "imaging_assumption": "Fotografía de producto industrial",
-  "deliverable_type": "Visual principal de publicidad",
+  "deliverable_type": "Visual clave publicitario",
   "creative_directive": null,
   "oblique_strategy": null,
   "_evaluation": {
@@ -6712,7 +6721,7 @@ Un prompt JSON estructurado para generar un visual publicitario de una botella d
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166986824_26ay91_G9SAKuEasAAfZuf.jpg" width="600" alt="Imagen principal de e-commerce - Instrucciones visuales para publicidad de botellas de vino (Lógica seccional) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166986824_26ay91_G9SAKuEasAAfZuf.jpg" width="600" alt="Imagen principal de e-commerce - Visual de anuncio: Toma de producto de botella de vino - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -6726,13 +6735,14 @@ Un prompt JSON estructurado para generar un visual publicitario de una botella d
 
 ---
 
-### No. 95: Imagen principal de e-commerce - Anuncio visual para audífonos de alta gama (elementos flotantes)
+### No. 95: Imagen principal de e-commerce - Mensaje visual publicitario: Toma de producto de audífonos de alta gama
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt JSON estructurado para generar una imagen publicitaria de audífonos de alta gama, centrándose en fotografía de producto industrial, utilizando los mecanismos de "congelación dinámica" y "dispersión de gravedad cero" para crear una imagen limpia, con iluminación de estudio y elementos flotantes.
+Un *prompt* JSON estructurado para Nano Banana Pro (marco MetaGeny) enfocado en la persuasión comercial para publicidad. Se dirige a audífonos de alta gama, detallando elementos como almohadillas de cuero y cables en espiral. El *prompt* utiliza una tensión de "limpieza vs. caos", incorporando giros como congelación dinámica y dispersión de gravedad cero, ambientado en un escritorio de estudio limpio con iluminación direccional suave.
 
 #### 📝 Prompt
 
@@ -6742,14 +6752,14 @@ Un prompt JSON estructurado para generar una imagen publicitaria de audífonos d
   "creation_intent": "Persuasión comercial",
   "generation_logic": "Centrado en el objeto",
   "subject_kit": {
-    "primary_subject": "Auriculares de gama alta",
+    "primary_subject": "{argument name=\"primary subject\" default=\"Auriculares de alta gama\"}",
     "secondary_elements": [
       "Almohadillas de cuero",
-      "Logotipo de reducción de ruido",
+      "Logotipo de cancelación de ruido",
       "Cable en espiral"
     ]
   },
-  "core_tension": "Orden vs. Caos",
+  "core_tension": "Limpieza vs. Caos",
   "twist_mechanisms": [
     "Congelación dinámica",
     "Dispersión de gravedad cero",
@@ -6759,7 +6769,7 @@ Un prompt JSON estructurado para generar una imagen publicitaria de audífonos d
   "composition_rule": "Disposición de elementos flotantes",
   "lighting_rule": "Luz de estudio direccional suave",
   "imaging_assumption": "Fotografía de producto industrial",
-  "deliverable_type": "Visual principal de publicidad",
+  "deliverable_type": "Visual clave publicitario",
   "creative_directive": null,
   "oblique_strategy": null,
   "_evaluation": {
@@ -6775,7 +6785,7 @@ Un prompt JSON estructurado para generar una imagen publicitaria de audífonos d
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767166989373_6b6i3v_G9SAAsWaAAA2qj4.jpg" width="600" alt="Imagen principal de e-commerce - Anuncio visual para audífonos de alta gama (elementos flotantes) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767166989373_6b6i3v_G9SAAsWaAAA2qj4.jpg" width="600" alt="Imagen principal de e-commerce - Mensaje visual publicitario: Toma de producto de audífonos de alta gama - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -8525,6 +8535,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-31T08:18:06.708Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-31T12:22:38.324Z</sub>
 
 </div>
